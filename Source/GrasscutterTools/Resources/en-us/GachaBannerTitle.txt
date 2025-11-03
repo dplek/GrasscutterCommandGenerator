@@ -64,6 +64,10 @@ A0229:Cornucopia of Contention
 A0235:La Chanson Cerise
 A0236:Void Star's Advent
 A0237:Astral Actuation
+A0238:Moonsong of the Groves
+A0239:The Lone Light Knocks at Night
+A0240:Temptation of the Crimson Sands
 B001:Ode to the Dawn Breeze
 B002:Remembrance of Jade and Stone
 B003:Thunder Rends the Plains on High
+B004:Roving Chalice of Dewgrass

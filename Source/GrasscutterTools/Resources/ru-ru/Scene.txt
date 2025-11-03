@@ -84,10 +84,15 @@
 1098:IndoorScene_Xm_THX2
 1099:IndoorScene_Nt_Hotel
 1100:IndoorScene_Nt_TLZL
+1151:IndoorScene_Ndkl_Ino
+1152:IndoorScene_Ndkl_SYR
+1153:IndoorScene_Ndkl_Mmjd
 1200:IndoorScene_Nt_Msl
 1201:IndoorScene_Nt_XTLLHome
 1202:IndoorScene_Dq_Yushi
 1203:IndoorScene_Fd_Hotel
+1204:IndoorScene_Ndkl_Pub
+1205:IndoorScene_Ndkl_Wsw
 2001:Homeworld_Exterior_Above
 2002:Homeworld_Exterior_Karst
 2003:Homeworld_Exterior_Uncharted
@@ -101,6 +106,14 @@
 2204:Homeworld_Interior_Xm_Apt_01
 2205:Homeworld_Interior_Fd_Apt_01
 2206:Homeworld_Interior_Nt_Apt_01
+2400:Hall_World_Facility_Group
+2401:Hall_Private_Witch
+2402:Hall_Private_World_Park
+2411:Hall_Private_Wsqh
+2601:Hall_Private_Witch
+2602:Hall_Private_World_Park
+2611:Hall_Private_Wsqh
+2811:Hall_Public_Wsqh
 20000:关卡玩法测试
 20005:Недостающий ингредиент
 20006:Большая база хиличурлов
@@ -303,9 +316,27 @@
 20270:[CHS] - 5.6爱可菲料理对决酒店地城（test）
 20271:[CHS] - （test）5.7丝柯克个人线剧情地城
 20272:[CHS] - （test）5.7丝柯克个人线玩法地城
+20273:Level_LUMQuest
 20274:Храм каскадных цветов: Тепостацин
 20275:BigWorld_LevelStreaming
+20276:BigWorld_LevelStreaming
+20277:Level_NK_MoonAltar
+20278:BigWorld_LevelStreaming
+20280:[CHS] - （test）6.1主线猎月人回忆地城（test）
+20281:[CHS] - （test）6.1主线奈芙尔回忆地城（test）
+20282:Неизведанные руины
+20283:[CHS] - （test）6.1主线—镜像须弥图书馆
+20284:[CHS] - 6.1主线地城（test）
 20285:[CHS] - 废弃（test）
+20286:Level_Ndcl_Rerir_01
+20287:BigWorld_LevelStreaming
+20288:[CHS] - test 6.0 TA性能测试地城
+20291:[CHS] - （test）6.1主线猎月人回忆地城—棋盘玩法（test）
+20292:[CHS] - 6.0苔藓球内部空间（test）
+20293:BigWorld_LevelStreaming
+20294:BigWorld_LevelStreaming
+20295:Некая лаборатория в Академии заклинаний
+20304:[CHS] - 6.1主线镜像大世界——阿如村（test）
 30001:Туманный Лабиринт
 30002:Мрачный натиск: Обычная
 30003:Мрачный натиск: Продвинутая
@@ -537,6 +568,30 @@
 33806:[CHS] - 爬塔（双路）(test)
 33807:[CHS] - 爬塔（双路）(test)
 33808:[CHS] - 爬塔（双路）(test)
+33809:[CHS] - 爬塔（双路）(test)
+33810:[CHS] - 爬塔（双路）(test)
+33811:[CHS] - 爬塔（双路）(test)
+33812:[CHS] - 爬塔（双路）(test)
+33813:[CHS] - 爬塔（双路）(test)
+33814:[CHS] - 爬塔（双路）(test)
+33815:[CHS] - 爬塔（双路）(test)
+33816:[CHS] - 爬塔（双路）(test)
+33817:[CHS] - 爬塔（双路）(test)
+33818:[CHS] - 爬塔（双路）(test)
+33819:[CHS] - 爬塔（双路）(test)
+33820:[CHS] - 爬塔（双路）(test)
+33821:[CHS] - 爬塔（双路）(test)
+33822:[CHS] - 爬塔（双路）(test)
+33823:[CHS] - 爬塔（双路）(test)
+33824:[CHS] - 爬塔（双路）(test)
+33825:[CHS] - 爬塔（双路）(test)
+33826:[CHS] - 爬塔（双路）(test)
+33827:[CHS] - 爬塔（双路）(test)
+33828:[CHS] - 爬塔（双路）(test)
+33829:[CHS] - 爬塔（双路）(test)
+33830:[CHS] - 爬塔（双路）(test)
+33831:[CHS] - 爬塔（双路）(test)
+33832:[CHS] - 爬塔（双路）(test)
 34100:[CHS] - 爬塔第二档-ZHT第1关（单路）(test)
 34101:[CHS] - 爬塔第二档-ZHT第2关（单路）(test)
 34102:[CHS] - 爬塔第二档-ZHT第3关（单路）(test)
@@ -960,6 +1015,21 @@
 36071:BigWorld_LevelStreaming
 36072:BigWorld_LevelStreaming
 36073:BigWorld_LevelStreaming
+36074:[CHS] - (test)6.1开通路01
+36075:[CHS] - (test)6.1开通路02
+36076:[CHS] - (test)6.1开通路03
+36077:[CHS] - (test)6.1开通路04
+36078:[CHS] - (test)6.1开通路05
+36079:[CHS] - (test)6.1开通路06
+36080:[CHS] - (test)6.1人龙合作01
+36081:[CHS] - (test)6.1人龙合作02
+36082:[CHS] - (test)6.1人龙合作03
+36083:[CHS] - (test)6.1人龙合作04
+36084:[CHS] - (test)6.1人龙合作05
+36085:[CHS] - (test)6.1节奏派对01
+36086:[CHS] - (test)6.1节奏派对02
+36087:[CHS] - (test)6.1节奏派对03
+36088:[CHS] - (test)6.1节奏派对教学关
 40001:Расследовать: Волнения в Глубине Руин
 40002:Level_UCDungeon01
 40003:Level_UCDungeon01
@@ -1109,6 +1179,10 @@
 40701:Level_CycleDungeon01_Rock
 40702:Level_CycleDungeon01_Rock
 40703:Level_CycleDungeon01_Rock
+40704:Подземелье мастерства: Опрокинутое гнездо I
+40705:Подземелье мастерства: Опрокинутое гнездо II
+40706:Подземелье мастерства: Опрокинутое гнездо III
+40707:Подземелье мастерства: Опрокинутое гнездо IV
 40750:Мастерство: Корзина дисциплины I
 40751:Мастерство: Корзина дисциплины II
 40752:Мастерство: Корзина дисциплины III
@@ -1163,6 +1237,14 @@
 40807:Благословение: Некрополь II
 40808:Благословение: Некрополь III
 40809:Благословение: Некрополь IV
+40810:Подземелье благословения: Производные из глубины I
+40811:Подземелье благословения: Производные из глубины II
+40812:Подземелье благословения: Производные из глубины III
+40813:Подземелье благословения: Производные из глубины IV
+40816:Подземелье воли: Жертвоприношение луне I
+40817:Подземелье воли: Жертвоприношение луне II
+40818:Подземелье воли: Жертвоприношение луне III
+40819:Подземелье воли: Жертвоприношение луне IV
 40900:Воля: Песчаная могила I
 40901:Воля: Песчаная могила II
 40902:Воля: Песчаная могила III
@@ -1296,6 +1378,10 @@
 41122:Level_Tower_01_Open
 41123:Level_Tower_01_Open
 41124:Level_Tower_01_Open
+41125:Level_Tower_01_Open
+41126:Level_Tower_01_Open
+41127:Level_Tower_01_Open
+41128:Level_Tower_01_Open
 42001:Ласточки парами возвращаются в свои гнёзда: Сложность 3
 42002:Преклоните уставшую голову и пройдите по мосту Адептов: Сложность 2
 42003:Красота увядает здесь, а истина - там: Сложность 5
@@ -1435,6 +1521,11 @@
 47406:Ветер догоняющий
 47501:Божественное мастерство: Коллекционирование
 47502:[CHS] - 3.7UGC编辑地城（test）
+47503:BeyondEditor(test)
+47504:Beyond Gameplay (тест)
+47505:BeyondGameplayTest
+47506:BeyondEditorTest
+47507:Beyond_World_02
 47601:[CHS] - test 3.7时停挑战1
 47602:[CHS] - test 3.7时停挑战2
 47603:[CHS] - test 3.7时停挑战3
@@ -1549,6 +1640,12 @@
 48061:[CHS] - (test)5.2幽灵球(机械球V2)活动2
 48062:[CHS] - (test)5.2幽灵球(机械球V2)活动3
 48063:[CHS] - (test)5.2幽灵球(机械球V2)活动4
+48064:Level_CooperateChallenge01
+48065:Level_CooperateChallenge01
+48066:Level_CooperateChallenge01
+48067:Level_CooperateChallenge01
+48068:Level_CooperateChallenge01
+48069:Level_CooperateChallenge01
 48070:[CHS] - (test)5.4爬塔战斗1
 48071:[CHS] - (test)5.4爬塔战斗2
 48072:[CHS] - (test)5.4爬塔战斗3
@@ -1585,6 +1682,8 @@
 49011:[CHS] - 角色专精挑战-迪希雅(test)
 49012:[CHS] - 角色专精挑战-雷神(test)
 49013:[CHS] - 角色专精挑战-申鹤(test)
+49014:[CHS] - 角色专精挑战-夜兰(test)
+49015:[CHS] - 角色专精挑战-纳西妲(test)
 50002:Low-Temp Stage White-Box
 50003:Тест Производительности Бой
 50004:Charging Pile Power Supply White-Box
@@ -1729,6 +1828,7 @@
 51049:TestLevel_WhiteBox_NT_01
 51050:ClimbTestStage_AvatarTest
 51051:ClimbTestStage_AvatarTest
+51052:Level_CustomLevel_A_01
 51053:Level_Carnival02
 51054:QA_3DTest_New
 51055:TestLevel_WhiteBox_5.3BOSS
@@ -1798,4 +1898,36 @@
 51122:[CHS] - (test)5.7史莱姆球L3
 51123:[CHS] - (test)5.7史莱姆球L4
 51124:[CHS] - (test)5.7史莱姆球L5
+51125:[CHS] - (test)6.0扫扫机器人关卡01
+51127:[CHS] - (test)6.0扫扫机器人关卡02
+51128:TestLevel_WhiteBox_RC_Yelan_GQQ
+51129:[CHS] - (test)6.0扫扫机器人关卡03
+51130:[CHS] - (test)6.0扫扫机器人关卡04
+51131:[CHS] - (test)6.0扫扫机器人关卡05
+51132:[CHS] - (test)6.0扫扫机器人关卡06
+51133:[CHS] - （test）6.0炸弹人3
+51134:[CHS] - （test）6.0 大活动 跑酷关卡01
+51135:[CHS] - （test）6.0 大活动 跑酷关卡02
+51136:[CHS] - （test）6.0 大活动 跑酷关卡03
+51137:[CHS] - （test）6.0 大活动 跑酷关卡04
+51138:[CHS] - （test）6.0 大活动 跑酷关卡05
+51139:[CHS] - （test）6.0 大活动 跑酷关卡06
+51144:[CHS] - （test）6.0 大活动 跑酷关卡01
+51145:[CHS] - （test）6.0 大活动 跑酷关卡02
+51146:[CHS] - （test）6.0 大活动 跑酷关卡03
+51147:[CHS] - （test）6.0 大活动 跑酷关卡04
+51148:[CHS] - （test）6.0 大活动 跑酷关卡05
+51149:[CHS] - （test）6.0 大活动 跑酷关卡06
+51150:[CHS] - （test）6.0 大活动 跑酷关卡07
+51151:[CHS] - （test）6.0 大活动 跑酷关卡08
+51154:[CHS] - （test）6.0 大活动 跑酷关卡09
+51160:Level_Tower_Moon_01
+51161:Level_Tower_Moon_01
+51162:Level_Tower_Moon_01
+51163:Level_Tower_Moon_01
+51164:Level_Tower_Moon_01
+51165:Level_Tower_Moon_01
 79999:[CHS] - (test)卡牌观战场景
+90001:UGC_LiHui_01
+90002:Подземелье для теста энергопотребления UGC
+90003:Beyond_World_PlayEnd

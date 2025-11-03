@@ -101,3 +101,7 @@
 4114:Skirk
 4115:Dahlia
 4116:Ineffa
+4119:Lauma
+4120:Flins
+4121:Aino
+4122:Nefer

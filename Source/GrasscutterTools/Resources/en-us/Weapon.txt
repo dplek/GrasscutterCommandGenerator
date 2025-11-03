@@ -36,6 +36,8 @@
 11430:Sturdy Bone
 11431:Flute of Ezpitzal
 11432:Calamity of Eshu
+11433:Serenity's Call
+11434:Moonweaver's Dawn
 11501:Aquila Favonia
 11502:Skyward Blade
 11503:Freedom-Sworn
@@ -82,6 +84,7 @@
 12430:Fruitful Hook
 12431:Earth Shaker
 12432:Flame-Forged Insight
+12433:Master Key
 12501:Skyward Pride
 12502:Wolf's Gravestone
 12503:Song of Broken Pines
@@ -118,6 +121,8 @@
 13430:Mountain-Bracing Bolt
 13431:Footprint of the Rainbow
 13432:Tamayuratei no Ohanashi
+13433:Prospector's Shovel
+13434:Sacrificer's Staff
 13501:Staff of Homa
 13502:Skyward Spine
 13504:Vortex Vanquisher
@@ -129,6 +134,7 @@
 13513:Lumidouce Elegy
 13514:Symphonist of Scents
 13515:Fractured Halo
+13516:Bloodsoaked Ruins
 14101:Apprentice's Notes
 14201:Pocket Grimoire
 14301:Magic Guide
@@ -159,6 +165,9 @@
 14427:Ash-Graven Drinking Horn
 14430:Waveriding Whirl
 14431:Ring of Yaxche
+14432:Etherlight Spindlelute
+14433:Blackmarrow Lantern
+14434:Dawning Frost
 14501:Skyward Atlas
 14502:Lost Prayer to the Sacred Winds
 14504:Memory of Dust
@@ -174,6 +183,8 @@
 14517:Starcaller's Watch
 14518:Sunny Morning Sleep-In
 14519:Vivid Notions
+14520:Nightweaver's Looking Glass
+14521:Reliquary of Truth
 15101:Hunter's Bow
 15201:Seasoned Hunter's Bow
 15301:Raven Bow
@@ -208,6 +219,7 @@
 15430:Flower-Wreathed Feathers
 15431:Chain Breaker
 15432:Sequence of Solitude
+15433:Snare Hook
 15501:Skyward Harp
 15502:Amos' Bow
 15503:Elegy for the End
@@ -218,3 +230,4 @@
 15512:The First Great Magic
 15513:Silvershower Heartstrings
 15514:Astral Vulture's Crimson Plumage
+10009:[CHS] - (test)空武器

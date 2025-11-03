@@ -208,7 +208,7 @@ namespace GrasscutterTools.Game.Data
                     File.WriteAllLines(
                         Path.Combine(dir, "Avatar.txt"),
                         MaterialData.Values
-                            .Where(it => it.MaterialType == MaterialType.MATERIAL_AVATAR)
+                            .Where(it => it.MaterialType == "MATERIAL_AVATAR")
                             .Select(it => $"{it.Id}:{TextMapData.GetText(it.NameTextMapHash.ToString())}"),
                         Encoding.UTF8);
 
@@ -318,12 +318,12 @@ namespace GrasscutterTools.Game.Data
                         {
                             foreach (var m in itemTypes
                                          .GroupBy(it => it.MaterialType)
-                                         .Where(it => it.Key != MaterialType.MATERIAL_NONE)
+                                         .Where(it => it.Key != "MATERIAL_NONE")
                                          .OrderBy(it => it.Average(m => m.Id)))
                             {
-                                sb.Append("// ").AppendLine(m.Key.ToTranslatedString(language.Key));
+                                sb.Append("// ").AppendLine(MaterialType.ToTranslatedString(m.Key, language.Key));
 
-                                if (m.Key == MaterialType.MATERIAL_BGM)
+                                if (m.Key == "MATERIAL_BGM")
                                 {
                                     foreach (var materialData in m)
                                     {

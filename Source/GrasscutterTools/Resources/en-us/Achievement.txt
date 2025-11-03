@@ -389,6 +389,22 @@
 80439:Azure Isle Adventurer - Complete {param0} Open World mechanism-activated Time Trial Challenges in Easybreeze Holiday Resort.
 80440:Asha's Rainbow of Gravity - Unlock all Asha colors.
 80441:A Colorful Album - Complete all photographs in the Easybreeze Album.
+80442:Moondust Treasure Hunter (I) - Open {param0} chests on Lempo Isle, Hiisi Island, and Paha Isle.
+80443:Moondust Treasure Hunter (I) - Open {param0} chests on Lempo Isle, Hiisi Island, and Paha Isle.
+80444:Moondust Treasure Hunter (I) - Open {param0} chests on Lempo Isle, Hiisi Island, and Paha Isle.
+80445:Moondust Adventurer (I) - Complete {param0} Open World mechanism-activated Time Trial Challenges on Lempo Isle, Hiisi Island, and Paha Isle.
+80446:Moondust Adventurer (I) - Complete {param0} Open World mechanism-activated Time Trial Challenges on Lempo Isle, Hiisi Island, and Paha Isle.
+80447:Moondust Adventurer (I) - Complete {param0} Open World mechanism-activated Time Trial Challenges on Lempo Isle, Hiisi Island, and Paha Isle.
+80448:Continental Explorer: Moonlit Isles (I) - Light up the maps of the following areas in Nod-Krai: Lempo Isle, Hiisi Island, and Paha Isle.
+80449:Frosty Groves Beyond the Darkness (I) - Unlock all Teleport Waypoints in the following areas in Nod-Krai: Lempo Isle, Hiisi Island, and Paha Isle.
+80450:Sanctuary Pilgrim: Moonlit Isles (I) - Unlock all the Shrines of Depths in the following areas in Nod-Krai: Lempo Isle, Hiisi Island, and Paha Isle.
+80451:Offerings to the Night: Moonlit Isles (I) - Unlock all the seals on the Kuuhenki's Hidden Troves in the following areas in Nod-Krai: Lempo Isle, Hiisi Island, and Paha Isle.
+80452:Shine Bright Like the Moon - Upgrade the Statues of the New Moon in Nod-Krai to their maximum level.
+80453:Joint Meeting Point Construction: Final Night Cemetery - Reach maximum Construction Level at the Final Night Cemetery.
+80454:Joint Meeting Point Construction: Clink-Clank Krumkake Craftshop - Reach maximum Construction Level at the Clink-Clank Krumkake Craftshop.
+80455:Joint Meeting Point Construction: Frostmoon Enclave - Reach maximum Construction Level at the Frostmoon Enclave.
+81600:The Weaver in the Ossuary - Explore the sanctum sealed off by the first Moonchanter.
+81601:The Sins of the Fathers - Complete the adventure at the Kuuvahki Experimental Design Bureau.
 81000:Overlooking View - Reach the very top of Qingyun Peak.
 81001:The Remains of the Gale - Reach the top of the tower in Stormterror's Lair.
 81002:"Seeds of Stories, Brought by the Wind..." - Reach the nameless island northeast of Mondstadt.
@@ -929,6 +945,29 @@
 81597:"Until the Day That the Fires Turn Me Into Ashes" - Witness Enjou embark on his unknown journey.
 81598:"The Last Survivor of Tenochtzitoc" - Defeat Local Legend: The Last Survivor of Tenochtzitoc.
 81599:Undimming Lights - Join the opening ceremony with your friends.
+81602:Colors Out of Snezhnaya - Color the Nothing Passage.
+81603:When the Aurora Shines - Make radiant ribbons appear in the sky over Blue Amber Lake.
+81604:Electric Dreams - Help Fanngel complete the experiment.
+81605:Silent Spring - When the murmurs of life fade from the world's canvas...
+81606:Wasteland Engineering - Become friends with Bobik.
+81607:Dark Secret of The Hollowhands - Discover the true identity of the secret organization.
+81608:After Man - What kind of world will we leave behind?
+81609:Tempus Fugit, Pecunia Fugit - It's hard to change the instincts of Weasel Thieves...
+81610:High Noon's Verdict - Help safeguard the peace of Nasha Town.
+81611:Pro aris et focis - Though the light of life has faded, the radiance of his unyielding will endures.
+81612:Fiddler's Green - When all returns to peace...
+81613:The Silver Key Unlocked - Obtain the blessing of the new moon.
+81614:May the Force Be With You - Strengthen the power of your blessing.
+81615:Up, Up, and Away! - Perform a special jump.
+81616:The Tide Turns - It's time for the tides to retreat...
+81617:The Moon Is Bright Tonight - Complete "Selenic Chronicles: Part I."
+81618:Follow the Silver Path - Speed away on a trail of moonlight.
+81619:Moonshadow Walker - Roam like a kuuhenki.
+81620:Magnum Opus - Obtain a Lunar Arcanum.
+81621:Magnum Opus - Hold 12 different Lunar Arcana at once.
+81622:Magnum Opus - Hold 22 different Lunar Arcana at once.
+81623:The End of the Innocence - The world isn't as sweet as we imagined...
+81624:Golden Traveler, Silver Moon - Complete "Selenic Chronicles: Part II."
 82001:Nothing Special, Just Practice - Hit a falcon mid-flight with your bow.
 82002:Master Sniper - Strike an opponent's weak point from afar with an Aimed Shot.
 82003:Der Freischütz - Strike an opponent's weak point from extremely far away with an Aimed Shot.
@@ -1211,6 +1250,11 @@
 82295:Emergency Brakes, Teteocan Style - Use a Tatankasaurus or a Collective of Plenty character's sprint to interrupt the Furnace Shell Mountain Weasel's charge.
 82296:"Deep Blue" - Solve all the puzzles in the chess game.
 82297:Frozen Flow - Use consecutive Cryo attacks to impede the accumulation of Flow Momentum.
+82298:Arsenal Duck Hunt - Destroy Knuckle Duckle's Ward by downing all of its Stamping Devices.
+82299:Radiant Cocoon - Heal your characters and remove the Radiant Cocoon.
+82300:The Silent Command - Interrupt the enemy's progress.
+82301:"Mine Now, Friend!" - ...As expected, your own weapon feels most natural.
+82302:Stranded Constellation - Defeat the Frostnight Herra without it changing its Elemental Type.
 84000:The End of the Beginning - Complete the Mondstadt Archon Quests.
 84001:The Outlander Who Caught the Wind - Complete "The Outlander Who Caught the Wind."
 84002:For a Tomorrow Without Tears - Complete "For a Tomorrow Without Tears."
@@ -1357,6 +1401,21 @@
 84348:Unimaginable Love - This robot hails from Nod-Krai.
 84349:Incomprehensible Fury - Halt the rekindling and return of the "Mirror of the Dawning Morn."
 84350:The Journey Home - Complete "The Journey Home."
+84351:Any Discounts for Encounters in a Strange Land? - It's nice to run into a familiar face.
+84352:Maidens of Sonnet and Song - Those creatures born among flowers are blessings from the moon.
+84353:The Maiden Beneath the Moonlight - Meet The Damselette at Silvermoon Hall...
+84354:A Dance of Snowy Tides and Hoarfrost Groves - Complete "A Dance of Snowy Tides and Hoarfrost Groves."
+84355:Channels Are King - Different places have different ways of doing things...
+84356:Every Lantern Casts Its Shadow - Light doesn't reveal good or evil — only the truth.
+84357:Sinner's Descent - In the end, "he" regained his true, complete form...
+84358:Elegy of Dust and Lamplight - Complete "Elegy of Dust and Lamplight."
+84359:Fire Suppression - The way to receive uninvited guests.
+84360:Only Embers Remain - The final glimmer of the waning moon.
+84361:A Nation That Doesn't Exist - Complete "A Nation That Doesn't Exist."
+84362:Moonless Night - It was an age when sinners had yet to commit grave sins...
+84363:Game of Blood and Sand - Naught but a handful of dust and sand.
+84364:Before the Moons Fell - Defeat the Rächer of Solnari, one of the Five Sinners.
+84365:An Elegy for Faded Moonlight - Complete "An Elegy for Faded Moonlight."
 84501:...Odomu? - Successfully conduct cultural exchange with the hilichurls in "Language Exchange."
 84502:Yo dala? - Successfully conduct cultural exchange with the hilichurls in "Poetry Exchange."
 84503:Perfectionist - Complete all of Tsarevich's commissions flawlessly in "Reliable Helper."
@@ -1503,6 +1562,7 @@
 84152:Indicators of Fate - Complete "Checks & Cats" and unlock all endings.
 84153:Speedrun - Persuade Lynette to spend a leisurely, peaceful day with you.
 84154:Decks & Detectives - Have a peaceful tea party with Lynette after solving the smuggling case.
+84155:Stories Along the Way - Witness an anecdote once.
 86001:You Came, You Saw, We Co-Oped - Complete Domains together with other players 5 times.
 86002:You Came, You Saw, We Co-Oped - Complete Domains together with other players 20 times.
 86003:You Came, You Saw, We Co-Oped - Complete Domains together with other players 100 times.
@@ -1549,3 +1609,12 @@
 86045:The Dark Side of the Balemoon - Defeat The Knave in Co-Op Mode.
 86046:Mountains Fall Apart - Defeat a Gluttonous Yumkasaur Mountain King in Co-Op Mode.
 86047:"Sic Semper Tyrannis" - Defeat a Goldflame Qucusaur Tyrant in Co-Op Mode.
+86048:Instant Build Off - Defeat the Secret Source Automaton: Configuration Device in Co-Op Mode.
+86057:Once Again, I Have Cut a Worthless... - Defeat a Tenebrous Papilla in Co-Op Mode.
+86058:Shaman's Final Trial - Defeat the Wayward Hermetic Spiritspeaker in Co-Op Mode.
+86051:"Hic Fuerunt Dracones" - Defeat the Lord of Eroded Primal Fire in Co-Op Mode.
+86052:Morning Yet on Creation Day - Defeat the Lava Dragon Statue in Co-Op Mode.
+86053:Disunified Field Theory of the Secret Source - Defeat the Secret Source Automaton: Overseer Device in Co-Op Mode.
+86054:Royal Fork - Defeat The Game Before the Gate in Co-Op Mode.
+86055:Into the Breach! - Defeat Knuckle Duckle in Co-Op Mode.
+86056:Golden Autumn - Defeat a Radiant Moonfly in Co-Op Mode.

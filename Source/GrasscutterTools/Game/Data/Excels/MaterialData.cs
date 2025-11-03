@@ -33,8 +33,7 @@ namespace GrasscutterTools.Game.Data.Excels
         [JsonProperty("itemType"), JsonConverter(typeof(StringEnumConverter))]
         public ItemType ItemType { get; set; }
 
-        [JsonProperty("materialType"), JsonConverter(typeof(StringEnumConverter))]
-        public MaterialType MaterialType { get; set; }
+        public string MaterialType { get; set; }
 
         [JsonProperty("itemUse")]
         public List<ItemUseData> ItemUse { get; set; }

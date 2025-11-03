@@ -17,8 +17,6 @@
  *
  **/
 
-using GrasscutterTools.Game.Props;
-
 using Newtonsoft.Json;
 
 namespace GrasscutterTools.Game.Data.Excels
@@ -27,7 +25,7 @@ namespace GrasscutterTools.Game.Data.Excels
     internal class SceneData : GameResource
     {
         [JsonProperty("type")]
-        public SceneType SceneType { get; set; }
+        public string SceneType { get; set; }
 
         [JsonProperty("scriptData")]
         public string ScriptData { get; set; }
