@@ -425,12 +425,12 @@
 81024:Megastar in Mondstadt - Reach Reputation Lv. 8 in Mondstadt.
 81025:Legend in Liyue - Reach Reputation Lv. 8 in Liyue.
 80092:Illustrious in Inazuma - Reach Reputation Lv. 10 in Inazuma.
-81026:QUEST CLEAR - Complete 10 Bounties.
-81027:QUEST CLEAR - Complete 20 Bounties.
-81028:QUEST CLEAR - Complete 30 Bounties.
-81029:Hero-in-Training - Complete 10 Requests.
-81030:Hero-in-Training - Complete 20 Requests.
-81031:Hero-in-Training - Complete 30 Requests.
+81026:QUEST CLEAR - Complete 3 Bounties.
+81027:QUEST CLEAR - Complete 6 Bounties.
+81028:QUEST CLEAR - Complete 9 Bounties.
+81029:Hero-in-Training - Complete 3 Requests.
+81030:Hero-in-Training - Complete 6 Requests.
+81031:Hero-in-Training - Complete 9 Requests.
 81032:QUEST FAILED - Lost track of a Bounty target.
 81033:The Bleak Midwinter - Succumb to Sheer Cold...
 81034:Priest, Princess, and Scribe - Claim the treasure of the Entombed City.
@@ -1255,6 +1255,7 @@
 82300:The Silent Command - Interrupt the enemy's progress.
 82301:"Mine Now, Friend!" - ...As expected, your own weapon feels most natural.
 82302:Stranded Constellation - Defeat the Frostnight Herra without it changing its Elemental Type.
+82303:Drzislav's Moving Castle - Defeat a Super-Heavy Landrover: Mechanized Fortress that has overheated and become immobilized at least 2 times.
 84000:The End of the Beginning - Complete the Mondstadt Archon Quests.
 84001:The Outlander Who Caught the Wind - Complete "The Outlander Who Caught the Wind."
 84002:For a Tomorrow Without Tears - Complete "For a Tomorrow Without Tears."
@@ -1416,6 +1417,14 @@
 84363:Game of Blood and Sand - Naught but a handful of dust and sand.
 84364:Before the Moons Fell - Defeat the Rächer of Solnari, one of the Five Sinners.
 84365:An Elegy for Faded Moonlight - Complete "An Elegy for Faded Moonlight."
+84366:An Important Day - The whole point of a holiday is to kick back and have fun.
+84367:Moon-Prayer Night - Enjoy the last night in the sublunary sphere.
+84368:Between the Eternal and the Ephemeral - The moonlight will always find a way to connect us, night or day.
+84369:Melting Moonlight in the Morning Mist - Complete "Melting Moonlight in the Morning Mist."
+84370:When the Stone is Lifted - Who knows, you might find something unexpected there.
+84371:Like an Illusory Dream - Witness the history that once unfolded here.
+84372:Converging Paths - Somewhere in time, you once crossed paths...
+84373:A Nocturne of the Far North - Complete "A Nocturne of the Far North."
 84501:...Odomu? - Successfully conduct cultural exchange with the hilichurls in "Language Exchange."
 84502:Yo dala? - Successfully conduct cultural exchange with the hilichurls in "Poetry Exchange."
 84503:Perfectionist - Complete all of Tsarevich's commissions flawlessly in "Reliable Helper."

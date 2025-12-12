@@ -364,6 +364,7 @@
 70900029:尖刺陷阱
 70900041:爆怪觸發器
 73027009:CH_5_5_AimAction_Gadget
+73090028:SceneObj_Level_Common_Property_Ani_Prop_NatlanDragonParty_AimAction_01
 420000001:使用衝刺後會在原地留下一個n秒後爆炸的能量波
 420000005:使用衝刺後會在原地留下一個n秒後爆炸的能量波
 420000006:範圍內回覆生命、能量、覆活
@@ -497,6 +498,17 @@
 41022013:溫迪普攻箭
 41022016:迪奧娜冰屬性蓄力箭
 41022017:迪奧娜無屬性蓄力箭
+41022030:Venti_HexenzirkelArrow_Burst_01
+41022031:Venti_HexenzirkelArrow_Burst_02
+41022032:Venti_HexenzirkelArrow_Burst_03
+41022033:Venti_HexenzirkelArrow_Burst_04
+41022034:Venti_HexenzirkelArrow_Burst_05
+41022035:Venti_HexenzirkelArrow_Burst_06
+41022036:Venti_Constellation01_Arrow
+41022037:Venti_Constellation01_Arrow_Fire
+41022038:Venti_Constellation01_Arrow_Electric
+41022039:Venti_Constellation01_Arrow_Water
+41022040:Venti_Constellation01_Arrow_Ice
 41023001:香菱分支攻擊
 41023012:香菱天賦附加的爆彈
 41024001:海獸守護-剛體跟隨玩家
@@ -538,6 +550,7 @@
 41029017:重擊子彈
 41029018:命之座1炸彈
 41029019:命之座1浮遊炮
+41029021:Klee_ExtraAttack_Bullet_Auto_01
 41030004:鐘離-重擊
 41031001:菲謝爾_普攻箭
 41031002:菲謝爾_普攻箭
@@ -1004,6 +1017,21 @@
 41122002:Nefer_HideEff_Gadget
 41122004:Nefer_ExtraAttack_MoonLight_Gadget
 41122005:Nefer_ExtraAttack_MoonLight_C6
+41123003:Durin_Burst_Bullet_01
+41123004:Durin_Burst_Bullet_02
+41123005:Durin_Burst_Bullet_03
+41123006:Durin_Burst_Bullet_04
+41123007:Durin_ElementalArt_Black_Bullet
+41123008:Durin_ElementalArt_Black_Bullet_Attack
+41123009:Durin_ElementalArt_Black_Bullet_Attack_LifeOver
+41124001:Jahoda_Arrow_01
+41124002:Jahoda_Arrow_02
+41124003:Jahoda_Arrow_03
+41124004:Jahoda_AimingArrow_WithoutWind
+41124005:Jahoda_AimingArrow_WithWind
+41124011:Jahoda_ElementalArt_Bullet_Move
+41124012:Jahoda_ElementalArt_Bullet_Attack
+41124013:Jahoda_ElementalArt_Bullet_Attack_NoTarget
 42000003:Activity_Pitch_Pot_Throw_Bullet
 42000004:Activity_Pitch_Pot_Throw_Bullet_02
 42000005:BossNarzissenkreuzBattle_PlayerSkill_Bullet_1
@@ -1557,6 +1585,15 @@
 42308056:Fatuimecha_CoreC_MoveF_AttackB_Fire_GatlingNormalAtk_Bullet
 42308057:Fatuimecha_CoreC_MoveF_AttackB_Fire_CannonSpecialAtk_Bullet
 42308058:Fatuimecha_CoreC_MoveF_AttackB_Fire_ChargeAtk_FollowBullet
+42309004:Fatuimecha_AMP_01_RangeAttack_MainBullet
+42309005:Fatuimecha_AMP_01_RangeAttack_SubBullet
+42309006:Fatuimecha_AMP_01_RangeAttack_ShootMainBullet
+42309007:Fatuimecha_AMP_01_MeleeAttack01_Strike03_Bullet
+42309008:Fatuimecha_AMP_01_UltAttack_UltBomb
+42309009:Fatuimecha_AMP_01_MeleeAttack_FollowBullet_01
+42309010:Fatuimecha_AMP_01_MeleeAttack_FollowBullet_02
+42309011:Fatuimecha_AMP_01_MeleeAttack_FollowBullet_03
+42309012:Fatuimecha_AMP_01_MeleeAttack_IceBullet
 42401001:巡弋機關-瞄準射擊子彈
 42401002:巡弋機關-延遲攻擊位置
 42401003:巡弋機關-能量球
@@ -2189,6 +2226,8 @@
 42623064:Natsaurus_Flamingo_Primo_Visionserpent_SpecialAtk_Alebrije_GroundBullet
 42624003:Monster_Natsaurus_Shamansaurus_Normal_WaveBullet
 42624005:Monster_Natsaurus_Shamansaurus_Normal_Elite_Tornado_Bullet
+42624008:Monster_Natsaurus_Shamansaurus_Normal_RotateAttackBullet
+42624010:Monster_Natsaurus_Shamansaurus_Normal_Elite_Tornado_Bullet_LeyLineChallenge
 42625007:Monster_Bisonsaurus_Crystal_BulletBallShoot
 42625009:Monster_Bisonsaurus_Crystal_TornadoMove
 42625010:Monster_Bisonsaurus_Crystal_RushBullet
@@ -2272,6 +2311,8 @@
 42803001:Penguin_RollingAttack
 42803002:Penguin_RollingAttack_Homeworld_Attack
 42806001:Chrysopelea_Attack01_Bullet
+42808008:ToyBrickDragon_SingleBullet
+42808015:ToyBrickDragon_BulletArrayBullet
 42901012:風龍S02機炮
 42901050:風龍S01風能量球
 42901052:風龍S01火深淵炎花子彈
@@ -3148,8 +3189,22 @@
 73072018:SceneObj_Area_Common_Property_Ani_Prop_NodKraiTourHack_Key_03
 73072056:SceneObj_Area_NodKrai_Property_Ani_Prop_SpecialMineral_04
 73073045:SceneObj_Area_NodKrai_Property_Ani_Prop_RoboCharging_01_Bullet
+73083009:SceneObj_Activity_V6_2_Parkour_Coin_02
+73083025:SceneObj_Activity_V6_2_PitchPot_SnowBall_Bullet_01
+73083026:SceneObj_Activity_V6_2_PitchPot_SnowBall_Bullet_02
+73090003:SceneObj_Level_Common_Property_Ball_01_Normal
+73090004:SceneObj_Level_Common_Property_Ball_02_Super
+73090005:SceneObj_Level_Common_Property_Ball_02_Super_WaterSurfaceGadget
+73090006:SceneObj_Level_Common_Property_Ball_03_Punish
+73090007:SceneObj_Level_Common_Property_NatlanDragonParty_Koholasaurus_Shockwave_01
+73090029:SceneObj_Level_Common_Property_Ani_Prop_NatlanDragonParty_Rocket_01
 73093003:SceneObj_SolnarisSpace_DefenseTower_Bullet
 73093005:SceneObj_SolnarisSpace_DefenseTower_Purify_Bullet
+73098026:SceneObj_Quest_NodKrai_V6_2_PitchPot_Bullet_01
+73104010:Bullet_Level_Property_Ani_Prop_MagicItem_04
+73104011:Bullet_Level_Property_Ani_Prop_MagicItem_04_InstaKill
+73108002:SceneObj_Level_Property_Ani_Level_KleeMastery_Guard_Bullet
+77401320:SceneObject_Hallworld_Drxg_Shooting_Snowball_Bullet_01
 400335201:Natsaurus_PaintSeelie_NormalAttack_Bullet_1
 400335202:Natsaurus_PaintSeelie_NormalAttack_Bullet_2
 420000009:小動物捕捉器（近）
@@ -3215,6 +3270,7 @@
 41027018:空目標
 41029007:嘟嘟可地雷
 41029016:可莉重擊創生物
+41029020:Klee_ExtraAttack_Auto_01
 41030001:鐘離-普攻05
 41030002:鐘離-石柱
 41034011:測試資源
@@ -3224,6 +3280,7 @@
 41037015:甘雨破冰使_爆炸掉球
 41037016:甘雨永恒凍土幻象
 41038001:阿貝多-煉金結構
+41038004:Albedo_FuriousMonolith_Hexenzirkel
 41039013:迪奧娜的種子
 41044131:雷主角元素戰技拾取勾玉
 41047004:桐生萬葉-充能技迷霧幻境
@@ -3341,6 +3398,8 @@
 41122001:Nefer_ElementalArt_Phantom
 41122003:Nefer_ElementalArt_Mushroom
 41122006:Nefer_ElementalBurst_Attacker
+41123001:Durin_Burst_WhiteDragon
+41123002:Durin_Burst_BlackDragon
 42000011:ActivityAbility_MVM_AvatarSkill_Asist_02
 42000012:ActivityAbility_MVM_AvatarSkill_Asist_03
 42000013:Activity_RechargeDisk_Purple_WindZone
@@ -3631,6 +3690,7 @@
 42308059:Fatuimecha_CoreC_MoveF_AttackB_Fire_ChargePos_ForCremHammer
 42308098:Fatuimecha_SquadAI_NoVote
 42308099:Fatuimecha_SquadAI
+42309003:Fatuimecha_AMP_01_RangeAttack_AimPoint
 42401004:巡弋機關-能量球殘留
 42401005:巡弋機關-援護射擊目標點
 42401007:殲擊機關-熱砂大地目標點
@@ -3677,6 +3737,9 @@
 42408022:MachinaIustitia_Excavator_Pneuma_ShockWave_Bullet
 42409011:MachinaIustitia_Gravitas_ZeroGravitasZone_01
 42409014:MachinaIustitia_Gravitas_ImpactWave_01
+42409016:MachinaIustitia_Gravitas_PneumaDebuffZone_GroundedDetector
+42409017:MachinaIustitia_Gravitas_PneumaDebuffZone_HeightDetector
+42409018:MachinaIustitia_Gravitas_ImpactWave_Bullet_02
 42409024:DragonClaw_ChargeAttack_DamageGadget
 42409025:DragonClaw_UltAttack_StabilizerL
 42409026:DragonClaw_UltAttack_StabilizerR
@@ -3912,6 +3975,8 @@
 42624004:Monster_Natsaurus_Shamansaurus_Normal_WindField
 42624006:Monster_Natsaurus_Shamansaurus_Normal_Elite_Tornado_BulletAnchor
 42624007:Monster_Natsaurus_Shamansaurus_Normal_Circle_AC
+42624009:Monster_Natsaurus_Shamansaurus_Normal_Elite_MagicCircle
+42624011:Monster_Natsaurus_Shamansaurus_Normal_Elite_Tornado_BulletAnchor_LeyLineChallenge
 42625001:Monster_Bisonsaurus_Crystal_BornAnchor
 42625002:Monster_Bisonsaurus_Crystal_CrystalSmall
 42625003:Monster_Bisonsaurus_Crystal_CrystalBig
@@ -3957,6 +4022,21 @@
 42803102:Animal_NodSquid_02_MagBall_S
 42803111:Animal_NodRhino_SingleMagnet_Point_01
 42805001:聖金蟲的球
+42808001:ToyBrickDragon_Claw
+42808002:ToyBrickDragon_Claw_Mirror
+42808003:ToyBrickDragon_Claw_Drop
+42808004:ToyBrickDragon_Claw_Atk
+42808005:ToyBrickDragon_Claw_AtkMirror
+42808006:ToyBrickDragon_Claw_DropPos
+42808007:ToyBrickDragon_Claw_AtkPos
+42808010:ToyBrickDragon_BulletArray01
+42808011:ToyBrickDragon_BulletArray02
+42808012:ToyBrickDragon_BulletArray03
+42808013:ToyBrickDragon_BulletArray04
+42808014:ToyBrickDragon_BulletArraySP
+42808016:ToyBrickDragon_AreaAtkPos
+42808017:ToyBrickDragon_Airflow
+42808018:ToyBrickDragon_Shield
 42901001:風龍階段觸發器
 42901002:風龍全局風場
 42901003:風龍加速環01
@@ -14523,6 +14603,64 @@
 73082005:SceneObj_Property_Ani_Prop_AnecodateBook_02
 73082007:[N/A] 2216480206
 73082009:[N/A] 2129482318
+73083001:SceneObj_Activity_HideSeekV5_Snowman_Character
+73083002:SkillObj_Activity_HideSeekV5_SnowManBait_01
+73083003:SkillObj_Activity_HideSeekV5_SnowManBait_01
+73083004:SkillObj_Activity_HideSeekV5_Type_01
+73083006:SceneObj_Activity_V6_2_Parkour_Obstacle_01
+73083007:SceneObj_Activity_V6_2_Parkour_Coin_01
+73083008:SceneObj_Activity_V6_2_Parkour_DashGate_01
+73083010:SceneObj_Activity_V6_2_Parkour_MagnetBall_01
+73083011:SceneObj_Activity_V6_2_Parkour_InvincibleBall_01
+73083012:SceneObj_Activity_V6_2_Parkour_ShamansaurusGundam_01
+73083013:SceneObj_Activity_V6_2_Parkour_Obstacle_01
+73083014:SceneObj_Activity_V6_2_Parkour_DashGate_02
+73083015:SceneObj_Area_Common_Property_Ani_Prop_HideAndSeekV5_FakeCharacters_01
+73083016:SceneObj_Area_Common_Property_Ani_Prop_HideAndSeekV5_FakeCharacters_01
+73083017:SceneObj_Area_Common_Property_Ani_Prop_HideAndSeekV5_FakeCharacters_01
+73083018:HideType_A_Style_Bait_Target
+73083019:HideType_A_Style_Bait_Target
+73083020:HideType_A_Style_Bait_Target
+73083021:SkillObj_Activity_HideSeekV5_Type_03
+73083022:SkillObj_Activity_HideSeekV5_Type_03
+73083023:SkillObj_Activity_HideSeekV5_Type_03
+73083024:SkillObj_Activity_HideSeekV5_Type_02
+73083032:SceneObj_Activity_V6_2_PitchPot_SocreBonusRing_01
+73083033:[N/A] 584870878
+73083034:[N/A] 874422150
+73083035:[N/A] 1118312422
+73083036:[N/A] 2085255374
+73083037:[N/A] 165634758
+73083038:[N/A] 1128955334
+73083039:[N/A] 2103562830
+73083040:[N/A] 1963634622
+73083041:[N/A] 3813488486
+73083042:[N/A] 3064996718
+73083043:[N/A] 3969505166
+73083044:[N/A] 254919070
+73083045:[N/A] 3996313526
+73083046:[N/A] 3411544438
+73083047:[N/A] 3071910446
+73083048:[N/A] 3985765134
+73083049:[N/A] 2564613782
+73083050:SkillObj_Activity_HideSeekV5_SnowManBait_01
+73083051:SkillObj_Activity_HideSeekV5_SnowManBait_01
+73083052:SkillObj_Activity_HideSeekV5_SnowManBait_01
+73083053:SkillObj_Activity_HideSeekV5_SnowManBait_01
+73083054:[N/A] 1981833686
+73083055:[N/A] 2149700902
+73083056:SkillObj_Activity_HideSeekV4_HuntRadarMark_01
+73083057:[N/A] 3815645430
+73083058:[N/A] 228444278
+73083059:[N/A] 1431368494
+73083060:[N/A] 1592338302
+73083061:[N/A] 1645437638
+73083062:[N/A] 986548246
+73083063:[N/A] 461696958
+73083064:[N/A] 3106398270
+73083065:[N/A] 3940042430
+73083066:[N/A] 89257446
+73083067:[N/A] 375302406
 73084001:SceneObj_Level_Nt_Property_Ani_Prop_Toe_PlayerPawn
 73084002:SceneObj_Level_Nt_Property_Ani_Prop_Toe_AIPawn
 73084003:SceneObj_Level_Nt_Property_Ani_Prop_Toe_PawnSlot
@@ -14572,6 +14710,36 @@
 73089003:[N/A] 1650863622
 73089004:[N/A] 2696474214
 73089005:[N/A] 3132116926
+73090001:SceneObj_Level_Common_Property_BallMachine_01
+73090002:SceneObj_Level_Common_Property_BallMachine_Global_01
+73090008:SceneObj_Area_Common_Property_Ani_Prop_NatlanDragonParty_Common_Coin_Small_01
+73090009:SceneObj_Area_Common_Property_Ani_Prop_NatlanDragonParty_Common_Coin_Small_Falling_01
+73090010:SceneObj_Area_Common_Property_Ani_Prop_NatlanDragonParty_Common_Coin_Large_Falling_01
+73090011:SceneObj_Level_Common_Property_NatlanDragonParty_Koholasaurus_Shockwave_Transmitter_01
+73090012:SceneObj_Area_Common_Property_Ani_Prop_NatlanDragonParty_Yumkasaurus_SwitchFloor_01
+73090014:SceneObj_Area_Common_Property_Ani_Prop_NatlanDragonParty_Common_Coin_Large_01
+73090015:SceneObj_Level_Common_Property_Ani_Prop_NatlanDragonParty_GoldGenerator_Small_01
+73090016:SceneObj_Level_Common_Property_Ani_Prop_NatlanDragonParty_GoldGenerator_Large_01
+73090017:SceneObj_Level_Common_Property_Ani_Prop_NatlanDragonParty_Cloud_01
+73090018:SceneObj_Area_Common_Property_Ani_Prop_NatlanDragonParty_Tatankasaurus_SwitchFloor_01
+73090020:SceneObj_Level_Common_Property_Ani_Prop_NatlanDragonParty_GoldGenerator_Small_02
+73090021:SceneObj_Area_Common_Property_Ani_Prop_NatlanDragonParty_Common_Coin_Small_Falling_01
+73090022:SceneObj_Level_Common_Property_Ani_Prop_SafePlatform_01
+73090023:SceneObj_Area_Common_Property_Ani_Prop_NatlanDragonParty_VoxelRock_Coin_01
+73090024:SceneObj_Area_Common_Property_Ani_Prop_NatlanDragonParty_AbsorbCoin_01
+73090025:SceneObj_Area_Nt_Property_Ani_Prop_NatlanDragonParty_FastSprintDoor_01
+73090026:SceneObj_Level_Common_Property_Ani_Prop_NatlanDragonParty_volcanio_Effect_01
+73090027:SceneObj_Level_Common_Property_Ani_Prop_NatlanDragonParty_Tepetlisaurus_Shockwave_Transmitter_01
+73090030:SceneObj_Level_Common_Property_Ani_Prop_NatlanDragonParty_PropsBox_01
+73090031:SceneObj_Level_Common_Property_Ani_Prop_NatlanDragonParty_MeteorCoin_01
+73090032:SceneObj_Level_Nt_Property_Ani_Prop_NatlanDragonParty_Drillhead_ResonantCrystal_01
+73090033:SceneObj_Area_Common_Property_Ani_Prop_NatlanDragonParty_Tatankasaurus_SwitchFloor_02
+73090034:SceneObj_Level_Common_Property_Ani_Prop_NatlanDragonParty_FollowMoveGoldCoin_01
+73090035:SceneObj_Level_Common_Property_Ani_Prop_NatlanDragonParty_TargetBeam_01
+73090036:SceneObj_Level_Common_Property_Ani_Prop_NatlanDragonParty_MagmaSpawner_Target_01
+73090037:SceneObj_Level_Common_Property_Ani_Prop_NatlanDragonParty_MagmaSpawner_01
+73090038:[N/A] 2313573934
+73090039:SceneObj_Level_Common_Property_Ani_Prop_NatlanDragonParty_PhlogistonBomb_01
 73091001:SceneObj_Area_Nt_Property_Ani_Prop_PortableSproutPlatform_01_HumanDragonPuzzle
 73091003:SceneObj_Area_Nt_Property_Ani_Prop_HumanDragonPuzzle_Coin_01
 73091004:SceneObj_Area_Nt_Property_Ani_Prop_HumanDragonPuzzle_IronFence_01
@@ -14674,6 +14842,30 @@
 73097036:[N/A] 3267469798
 73097037:[N/A] 2924474070
 73097038:[N/A] 2579888150
+73098001:SceneObj_Area_Common_Property_Ani_Prop_SleepingWhale_Tooth
+73098002:SceneObj_Area_Common_Property_Ani_Prop_MoonNightRobo_Countdown
+73098004:SceneObj_Area_Common_Property_Ani_Prop_MerryGoround_BaseSet
+73098005:SceneObj_Area_Common_Property_Ani_Prop_MerryGoround_Sit
+73098006:SceneObj_Area_Common_Property_Ani_Prop_QuestClockworkToy
+73098007:SceneObj_Area_Common_Property_Ani_Prop_QuestBallV2_02
+73098008:SceneObj_Area_Common_Property_Ani_Prop_MoonNightGame_Drummer
+73098009:SceneObj_Area_Common_Property_Ani_Prop_MoonNightGame_Drummer_Interact
+73098010:SceneObj_Area_Common_Property_Ani_Prop_MoonNightGame_Drummer_Player
+73098011:SceneObj_Area_NodKrai_Property_Ani_Prop_MoonNightGame_Drummer_WhiteMoonSpirit
+73098012:SceneObj_Area_Ndkl_Property_Ani_Prop_MagicTarot
+73098013:SceneObj_Area_NodKrai_Property_Ani_Prop_MoonNightBalloon
+73098014:SceneObj_Area_NodKrai_Property_Ani_Prop_MoonNightBalloon
+73098015:SceneObj_Area_NodKrai_Property_Ani_Prop_MoonNightBalloon
+73098016:SceneObj_Area_NodKrai_Property_Ani_Prop_MoonNightBalloon
+73098017:SceneObj_Area_NodKrai_Property_Ani_Prop_MoonNightBalloon_Hook
+73098018:SceneObj_Area_Common_Property_Ani_Prop_MerryGoround_TopEffectHook
+73098019:SceneObj_Area_Ndkl_Property_Ani_Prop_MoonNightMerryGoRound_AllNodes
+73098020:SceneObj_Area_Ndkl_Property_Ani_Prop_MoonNightMerryGoRound_NpcNode
+73098022:SceneObj_Area_Common_Property_Ani_Prop_WhaleNeonLight
+73098023:SceneObj_Area_Ndkl_Property_Ani_Prop_MoonNightMerryGoRound_PlayerNode
+73098024:SceneObj_Area_Ndkl_Property_Ani_Prop_MoonNightMerryGoRound_InteractRegion
+73098025:SceneObj_Area_Common_Property_Ani_Prop_QuestBallV2_01
+73098028:SceneObj_Area_Ndkl_Property_Ani_Prop_MoonNightMerryGoRound_NpcNode
 73099002:安裝
 73099003:安裝備用零件
 73100001:交付「星星果」
@@ -14699,6 +14891,85 @@
 73102020:[N/A] 3060461382
 73102021:[N/A] 1028730582
 73102022:[N/A] 3782839070
+73103002:SceneObj_Level_Zd_Property_Prop_Hexenzirkel_Story_Mn
+73103003:SceneObj_Level_Zd_Property_Prop_Hexenzirkel_FlightEntrance
+73103004:SceneObj_Area_Common_Property_AlchemySimCauldron_QuestEntrance
+73103005:[N/A] 1575522358
+73103006:[N/A] 1199128654
+73103007:[N/A] 2552725814
+73103008:[N/A] 3277175990
+73103009:[N/A] 2847907598
+73104002:SceneObj_Level_Zd_Property_Prop_SPAirWall
+73104003:SceneObj_Level_Property_Ani_Prop_MagicItem_01
+73104004:SceneObj_Level_Property_Ani_Prop_MagicItem_02
+73104005:SceneObj_Level_Property_Ani_Prop_MagicItem_03
+73104007:SceneObj_Area_Fairybook_Property_Ani_Prop_CastleBlock
+73104008:SceneObj_Level_Property_Ani_Prop_BlockObservationScope
+73104009:SceneObj_Level_Property_Ani_Prop_MagicItem_04
+73104012:SceneObj_Level_Property_Ani_Prop_MagicStoryBook
+73104013:SceneObj_Area_MFS_Property_Ani_Prop_DEgg
+73104015:[N/A] 4257686790
+73104016:SceneObj_Area_Fairybook_Property_Ani_Prop_CastleBlock_JumpBlock
+73104017:[N/A] 3285148566
+73104018:SceneObj_Area_Fairybook_Property_Ani_Prop_OneWayAirwall
+73104019:SceneObj_Area_MFS_Property_Ani_Prop_SimpleBlockMatch
+73106001:SceneObj_Level_Common_Property_Ani_Prop_MasteryAlbedo_Bomb
+73106002:SceneObj_Level_Common_Property_Ani_Prop_MasteryAlbedo_Guard
+73107001:SceneObj_Level_Property_Ani_Prop_Hyperborea_ObjectKeeper
+73107002:SceneObj_Level_Property_Ani_Prop_Hyperborea_FinalPortal
+73107003:SceneObj_Level_Property_Ani_Prop_Hyperborea_TransDoor
+73107004:SceneObj_Level_Property_Ani_Prop_Hyperborea_TransCeiling
+73107005:SceneObj_Level_Property_Ani_Prop_Hyperborea_FinalBridge
+73107007:SceneObj_Level_Property_Ani_Prop_ObjectKeeper_Core
+73107008:SceneObj_Level_Property_Ani_Prop_Hyperborea_IgnoreBullet_Airwall
+73108001:SceneObj_Level_Property_Ani_Level_KleeMastery_Guard
+73108003:SceneObj_GPU_Particles_Test
+73113002:[N/A] 1127738062
+73113003:[N/A] 3396820590
+73113004:[N/A] 1299454990
+73113005:SceneObj_Area_Common_Property_Ani_Prop_ShadowRuins_RuinsExplosives
+73113006:SceneObj_Area_Common_Property_Ani_Prop_ShadowRuins_RuinsStone
+73113007:SceneObj_Area_Common_Property_Ani_Prop_ShadowRuins_RuinsClawWall
+73113008:SceneObj_Area_Common_Property_Ani_Prop_QuestShip_01
+73113010:[N/A] 417685806
+73113011:[N/A] 3481153646
+73113012:[N/A] 83043894
+73113013:[N/A] 1606801270
+73113014:[N/A] 3807925406
+73113015:[N/A] 1909717230
+73113016:[N/A] 2922834926
+73113017:[N/A] 221147558
+73113018:[N/A] 1472091318
+73113019:[N/A] 3442562510
+73113020:[N/A] 2091714110
+73113021:[N/A] 2799831918
+73113022:[N/A] 2637771078
+73113023:SceneObj_ShadowRuins_EnvironmentalObjects
+73113024:SceneObj_ShadowRuins_EnvironmentalObjects
+73113025:SceneObj_ShadowRuins_EnvironmentalObjects
+73113026:SceneObj_ShadowRuins_EnvironmentalObjects
+73113027:SceneObj_ShadowRuins_EnvironmentalObjects
+73113028:SceneObj_ShadowRuins_EnvironmentalObjects
+73113029:SceneObj_ShadowRuins_EnvironmentalObjects
+73113030:SceneObj_Area_Common_Property_Ani_Prop_ShadowRuins_RuinsMonster
+73113031:[N/A] 3316803094
+73113032:[N/A] 3783056270
+73113033:[N/A] 2391956542
+73113034:SceneObj_ShadowRuins_NPCMonster_AnimTrigger
+73113035:[N/A] 2570070614
+73113036:[N/A] 1838515046
+73113037:[N/A] 214997678
+73113038:[N/A] 2660758894
+73113039:[N/A] 3316471510
+73113040:[N/A] 3086568462
+73113041:[N/A] 2675420998
+73113042:[N/A] 4124573174
+73113043:[N/A] 4285755534
+73113044:[N/A] 906583774
+73113045:[N/A] 1218402590
+73113046:SceneObj_ShadowRuins_EnvironmentalObjects
+73113047:SceneObj_Area_Common_Property_Ani_Prop_Questdooronlook_01
+73113048:[N/A] 382066470
 74001001:SceneObj_Area_Nt_Prop_AncientNameCollecter_03
 74001002:[N/A] 3639112446
 74001003:[N/A] 2911007494
@@ -15029,6 +15300,131 @@
 74024012:[N/A] 2403305974
 74025002:SceneObj_Area_Ndkl_Property_Ani_Prop_SpecialNodKraiMine_01
 74026001:[N/A] 2354011910
+74027001:SceneObj_Area_Common_Property_Ani_Prop_Whale
+74027002:[N/A] 3083775934
+74027003:[N/A] 3770828318
+74027004:[N/A] 839917518
+74027005:[N/A] 1317314630
+74027006:SceneObj_Area_Ndkl_Property_Ani_Prop_MagicTarot
+74027007:[N/A] 2140302478
+74027008:[N/A] 3838865326
+74027009:[N/A] 1295408550
+74027010:[N/A] 4148506686
+74027011:[N/A] 3989200910
+74027012:SceneObj_Area_Ndkl_Property_Ani_Prop_TarotCardBook
+74027013:[N/A] 4077046646
+74027014:[N/A] 1847827142
+74027015:[N/A] 903627350
+74027016:[N/A] 2999388526
+74027017:[N/A] 2154471950
+74027018:[N/A] 4198302366
+74027019:[N/A] 2246105118
+74027020:[N/A] 259496158
+74027021:SceneObj_Area_Ndkl_Property_Ani_Prop_NodKraiCup_01
+74027022:[N/A] 3819994558
+74027023:[N/A] 454242062
+74027024:SceneObj_Area_Ndkl_Property_Ani_Prop_AQDungeon_01
+74027025:[N/A] 3698114246
+74027026:[N/A] 311696510
+74027027:[N/A] 1333463510
+74027028:[N/A] 1754985982
+74027029:[N/A] 1287248694
+74027030:[N/A] 812313198
+74027031:[N/A] 4145249134
+74027032:[N/A] 131055622
+74027033:[N/A] 1318762678
+74027034:[N/A] 700398414
+74027035:[N/A] 2096557566
+74027036:[N/A] 1868432694
+74027037:SceneObj_Area_Nk_Property_Ani_Prop_TreasureBox_Opened
+74027038:[N/A] 2943497190
+74027039:[N/A] 3335184606
+74027040:[N/A] 2965505398
+74027041:[N/A] 649599262
+74027042:[N/A] 1073974518
+74027043:[N/A] 2291348750
+74027044:[N/A] 3290293878
+74027045:[N/A] 1095133366
+74027046:SceneObj_Area_NodKrai_Property_Ani_Prop_RedMoonSpirit
+74027047:SceneObj_Area_NodKrai_Property_Ani_Prop_BlueMoonSpirit
+74027048:SceneObj_Area_NodKrai_Property_Ani_Prop_WhiteMoonSpirit
+74027049:[N/A] 920585958
+74027050:[N/A] 994454182
+74027051:[N/A] 2735620982
+74027052:[N/A] 1378857318
+74027053:[N/A] 2515314398
+74027054:[N/A] 1835553838
+74027055:[N/A] 1616454190
+74027056:[N/A] 3187061462
+74027057:V6_2_FairyBook_OrigamiFrog_Scene_Moveable_01
+74027058:V6_2_FairyBook_OrigamiFrog_Scene_Moveable_01
+74027060:V6_2_FairyBook_OrigamiSquirrel_Scene_Moveable_02
+74027063:[N/A] 415478646
+74027064:[N/A] 932231142
+74027065:[N/A] 4054795590
+74027066:[N/A] 3406538006
+74027067:[N/A] 242312358
+74027068:[N/A] 2142389726
+74029001:[N/A] 876863958
+74029002:[N/A] 1422940038
+74029003:[N/A] 1224627046
+74029004:[N/A] 1243851918
+74029005:[N/A] 3716983286
+74029006:[N/A] 2560883638
+74029007:[N/A] 2987078966
+74029008:[N/A] 2646566718
+74029009:[N/A] 2990459134
+74029010:[N/A] 3103774622
+74029011:[N/A] 1248394774
+74029012:[N/A] 4136942334
+74029013:[N/A] 1550950174
+74029014:[N/A] 3388120702
+74029015:[N/A] 3408890694
+74029016:SceneObj_Area_Ljxs_Property_Ani_Prop_SelfMadeMask_01
+74029017:SceneObj_Area_Ljxs_Property_Ani_Prop_SelfMadeMask_01
+74029018:SceneObj_Area_Ljxs_Property_Ani_Prop_SelfMadeMask_01
+74029019:SceneObj_Area_Ljxs_Property_Ani_Prop_SelfMadeMask_01
+74029020:SceneObj_Area_Ljxs_Property_Ani_Prop_SelfMadeMask_01
+74029021:[N/A] 2310794350
+74029022:SceneObj_Area_Ljxs_Property_Ani_Tree_AncientBloodTree02
+74029023:[N/A] 2363422934
+74029024:[N/A] 3523413790
+74029025:[N/A] 2065011846
+74029026:[N/A] 305272454
+74029027:[N/A] 3641338686
+74029028:[N/A] 1054735870
+74032001:[N/A] 1516388446
+74032002:[N/A] 1261467334
+74032003:[N/A] 25572014
+74032004:[N/A] 1600132534
+74032005:[N/A] 1562938614
+74032006:[N/A] 533284670
+74032007:[N/A] 1455543726
+74032008:[N/A] 3694995838
+74032009:[N/A] 3136663990
+74032010:[N/A] 244829150
+74032011:[N/A] 2511905214
+74032012:[N/A] 1814510238
+74032013:[N/A] 1312951358
+74032014:[N/A] 279455830
+74032015:[N/A] 1868474086
+74032016:[N/A] 2891371742
+74032017:[N/A] 26431966
+74032018:[N/A] 225589574
+74032019:[N/A] 3112193822
+74032020:SceneObj_Area_MFS_Property_Ani_Prop_ES_Step_01
+74032021:[N/A] 907713574
+74032022:[N/A] 2773793222
+74032023:[N/A] 1535295982
+74032024:[N/A] 234902462
+74032025:[N/A] 806197094
+74032026:[N/A] 854433166
+74032027:[N/A] 1586633670
+74032028:[N/A] 2028680198
+74032029:[N/A] 565560582
+74032030:[N/A] 1835775078
+74032031:[N/A] 507856094
+74032032:[N/A] 1584875550
 77002001:樂高1
 77002002:樂高2
 77002003:樂高3
@@ -15606,6 +16002,10 @@
 77104145:「花型機關零件」
 77104146:「如雲朵小船般」
 77104147:「微醺配樂」
+77104148:「奇妙閃閃」
+77104149:「好運速轉」
+77104150:「食欲迸發」
+77104151:「前哨龍龍」
 77105001:唯一一個沙發-家園物件
 77105002:藍色的歐洲椅子-家園物件
 77105003:騎士團鐵椅-家園物件
@@ -15804,6 +16204,7 @@
 77112050:「幸運之星」
 77112051:工廠廣播-「提神醒腦」
 77112052:酒館鏢靶-「有效得分」
+77112053:酒館公告-「市井傳聞」
 77115001:一堆書-家園物件
 77115002:一摞書-家園物件
 77115003:文房四寶-家園物件
@@ -16590,6 +16991,15 @@
 77204328:聚會立牌-「躍躍欲試」
 77204329:聚會立牌-「纖姿曼舞」
 77204330:解謎夥伴-「緊張走開」
+77204331:「一秒鐘快快」
+77204332:「實用型隨身探測器」
+77204333:「超級烤肉傳奇」
+77204334:「搖搖小馬」
+77204335:立式三腳雙極塔
+77204336:「與你同在」
+77204337:「失芬芳之花」
+77204338:熾魂鬥士-「菲耶蒂娜」
+77204339:「嘟嘟可旋轉奇遇」
 77205001:木質長椅-家園物件
 77205002:石質的長椅-家園物件
 77205003:谷歌椅子-家園物件
@@ -16613,6 +17023,7 @@
 77205021:夏櫟木「向月」靠背椅
 77205022:餐廳長椅-「紋絲不動」
 77205023:「於此遙望」
+77205025:「魔龍出擊」
 77206001:室外茶桌-家園物件
 77206002:室外木質飲茶桌-家園物件
 77206003:璃月戲台道具桌帷-家園物件
@@ -16702,6 +17113,8 @@
 77208068:簡易自發光式提燈
 77208069:「清輝澹歸人」
 77208070:「如絮雲纏抱」
+77208071:「獨步行者」
+77208072:「不變的明光」
 77210001:菜架子-家園物件
 77213001:帶花的草叢-家園物件
 77213002:空空的草叢-家園物件
@@ -16877,6 +17290,9 @@
 77213172:斑斕青椰樹
 77213173:景觀樹籬-「碧影蓊鬱」
 77213174:「水色盈枝」
+77213175:「柔霧的輕語」
+77213176:「向舊日揮手」
+77213177:「熠熠煙蕊」
 77214001:小型石堆-家園物件
 77214002:中型石堆-家園物件
 77214003:大塊石頭-家園物件
@@ -17018,6 +17434,10 @@
 77215135:「嘟嘟可的轟轟火花」
 77215136:「如星在水」
 77215137:「圓圓帽大廚」
+77215138:「小小雀雀」
+77215139:「美食大盜」
+77215140:「幕後黑鼬」
+77215141:熾魂雪人-「好戰士」
 77216001:家園路面01-家園物件
 77216002:家園路面02-家園物件
 77216003:家園路面03-家園物件
@@ -17397,6 +17817,7 @@
 77401029:[N/A] 2552937785
 77401030:[N/A] 2879902993
 77401031:[N/A] 1470294881
+77401032:SceneObject_Hallworld_Ani_Common_Prop_CrystalBall_01
 77401100:SceneObject_Hallworld_Mnjc_Prop_Portal_01
 77401101:SceneObject_Hallworld_Ani_Mnjc_Prop_Paimon_01
 77401102:SceneObject_Hallworld_Ani_Mnjc_Prop_Otter_01
@@ -17416,6 +17837,7 @@
 77401116:[N/A] 3911147865
 77401117:SceneObject_Hallworld_Ani_Mnjc_Prop_Portal_01_Trigger
 77401118:[N/A] 988784561
+77401119:SceneObject_Hallworld_Ani_Common_Prop_CrystalBall_01
 77401200:SceneObject_Hallworld_Wsqh_Light_Candlestick_01
 77401201:SceneObject_Hallworld_Wsqh_Prop_Chair_01
 77401202:SceneObject_Hallworld_Ani_Wsqh_Prop_HideWall_01
@@ -17443,6 +17865,28 @@
 77401224:SceneObject_Hallworld_Wsqh_Light_Candle_PhotoEff_01
 77401225:SceneObject_Hallworld_Ani_Wsqh_Wisp_01_Submit
 77401226:SceneObject_Hallworld_Ani_Wsqh_Wisp_01_Weather_Handler
+77401227:SceneObject_Hallworld_Ani_Common_Prop_CrystalBall_01
+77401300:SceneObj_Hallworld_Ani_Drxg_Prop_Snowowl_01
+77401301:[N/A] 4260993361
+77401302:[N/A] 1184594369
+77401303:[N/A] 3011996065
+77401304:[N/A] 2566671441
+77401305:[N/A] 347814969
+77401306:[N/A] 3470788953
+77401307:[N/A] 2874435697
+77401308:[N/A] 3615170329
+77401309:[N/A] 3885475713
+77401310:[N/A] 3646514993
+77401311:[N/A] 4012074705
+77401312:[N/A] 434256353
+77401313:[N/A] 770084505
+77401314:[N/A] 1435113513
+77401315:[N/A] 1921962945
+77401316:[N/A] 546385905
+77401317:[N/A] 1363804617
+77401318:[N/A] 617453473
+77401319:[N/A] 2640830785
+77401321:SceneObject_Hallworld_Ani_Common_Prop_CrystalBall_01
 77500001:[N/A] 4118654865
 77500002:[N/A] 4158606561
 80000000:SceneObj_Beyond_Test
@@ -19133,6 +19577,7 @@
 73009097:SceneObj_Environment_V5_2_WindField_SpeedupField
 73041011:SceneObj_Area_Nt_Property_Ani_Prop_V5_6_WindRing_01
 73041012:SceneObj_Area_Nt_Property_Ani_Prop_V5_6_WindRing_02
+73103015:SceneObj_Environment_WindField_SpeedupField_Hexenzirkel
 
 // 采集物品
 41029005:禽肉（小）
@@ -19354,6 +19799,9 @@
 70540111:夏槲果
 70540112:虹滴晶
 70540114:老舊的隨身軸承
+70540115:白靈果
+70540116:夏槲果
+70540117:霜盞花
 70560001:獸肉
 70560002:鐵塊-鐵塊（采集物）
 70560003:白鐵塊-白鐵塊（采集物）
@@ -21265,7 +21713,15 @@
 73081019:SceneObj_Property_Ani_Prop_OrdinaryJointedRockLong_02_Platform
 73081024:SceneObj_Area_Common_Property_Ani_Prop_ModelOnly_01
 73081025:SceneObj_Area_Property_Ani_Prop_NodWeasel_03
+73083027:SceneObj_Activity_V6_2_PitchPot_SnowMan_Normal_01
+73083028:SceneObj_Activity_V6_2_PitchPot_SnowMan_Explode_01
+73083029:SceneObj_Activity_V6_2_PitchPot_SnowMan_Blink_01
+73083030:SceneObj_Activity_V6_2_PitchPot_SnowMan_Boost_01
+73083031:SceneObj_Activity_V6_2_PitchPot_SnowMan_Hostile_01
 73088002:SceneObj_Area_Nt_Property_Ani_Prop_RobotCannon_01
+73090013:SceneObj_Area_Common_Property_Ani_Prop_NatlanDragonParty_Yumkasaurus_MoveFloor_01
+73090019:SceneObj_Area_Common_Property_Ani_Prop_NatlanDragonParty_TreasureBall_01
+73090040:SceneObj_Level_Common_Property_Ani_Prop_NatlanTourParkour_CoinFollowObject_01
 73091002:SceneObj_Area_Nt_Property_Ani_Prop_HumanDragonPuzzle_Laser
 73091007:SceneObj_Area_Nt_Property_Ani_Prop_HumanDragonPuzzle_Laser_02
 73091010:SceneObj_Area_Nt_Property_Ani_Prop_HumanDragonPuzzle_Stalagnate_01
@@ -21275,10 +21731,15 @@
 73091018:SceneObj_Area_Common_Property_Ani_Prop_AshDajiang_HumanDragonPuzzle_01
 73091019:SceneObj_Area_Nt_Property_Ani_Prop_HumanDragonPuzzle_WaterSound_01
 73091024:SceneObj_Area_Common_Property_Ani_Prop_AshDajiang_HumanDragonPuzzle_01
+73098027:SceneObj_Quest_NodKrai_V6_2_PitchPot_Pot_01
+73104001:SceneObj_Area_Hd_Property_Prop_FairyBoat_03
 74002030:Macrauchenia_01_HeadPlatform_Quest
 74006087:SceneObj_Gear_Platform_Seelie_disableTickDistance10000
 74006089:SceneObj_Gear_Platform_WaterPlatform
 74019006:SceneObj_Area_Tyd_Property_Ani_Prop_BornWithEffectPlatform_01
+74027059:V6_2_FairyBook_OrigamiHamster_Special_01
+74027061:V6_2_FairyBook_ClockworkToy_Anim_01
+74027062:V6_2_FairyBook_ClockworkToy_Anim_01
 77200117:電梯-家園物件
 77401001:SceneObject_Hallworld_Ani_Yly_Build_FerrisWheel_01
 77401002:SceneObject_Hallworld_Ani_Yly_Build_FerrisWheel_01_Sit
@@ -21572,6 +22033,7 @@
 50011515:Weapon_Sword_Metal
 50011516:Weapon_Sword_Metal
 50011517:Weapon_Sword_Metal
+50011518:Weapon_Sword_Metal
 50012101:訓練大劍-Equip_Claymore_Aniki
 50012201:傭兵重劍-Equip_Claymore_Oyaji
 50012301:鐵影闊劍-Equip_Claymore_Glaive
@@ -21749,6 +22211,7 @@
 50015431:Weapon_Bow_Metal
 50015432:Weapon_Bow_Metal
 50015433:Weapon_Bow_Metal
+50015434:Weapon_Bow_Metal
 50015501:天空之翼-Equip_Bow_Dvalin
 50015502:阿莫斯之弓-Equip_Bow_Amos
 50015503:終末嗟嘆之詩-Equip_Bow_Widsith
@@ -21762,6 +22225,7 @@
 50015512:Weapon_Bow_Metal
 50015513:Weapon_Bow_Metal
 50015514:Weapon_Bow_Metal
+50015515:Weapon_Bow_Metal
 50100001:緋煙-副武器-桿秤
 74006076:Weapon_Claymore_Metal
 74006077:Weapon_Bow_Metal
@@ -22750,7 +23214,9 @@
 73051015:SceneObj_Level_Nt_Property_Ani_Prop_AutoChessInterfaceInteract_01
 73055007:SceneObj_PhotoGraphV6_5_8_WorkTop
 73055008:SceneObj_AgentRecon_Property_Ani_Prop_BombBox_01_Worktop
+73083005:SceneObj_Area_Common_Property_Ani_Prop_HideAndSeekV5_Heating_01
 73091012:SceneObj_Area_Nt_Property_Ani_Prop_HumanDragonPuzzle_Operator_01
+73107006:SceneObj_Level_Property_Ani_Prop_Hyperborea_TransArtifact
 77015013:SceneObj_Homeworld_Exterior_Nt_Build_FireBalloon_Summon_Operator
 77307019:家園玩法-找阿圓-小阿圓
 77307021:SceneObj_Homeland_BombPlay_Bomb
@@ -23461,6 +23927,11 @@
 73076005:[N/A] 2792527398
 73076007:[N/A] 4184832966
 73091013:SceneObj_Area_Nt_Property_Ani_Prop_Slingshot_01_Fix
+73103010:[N/A] 380213558
+73103011:[N/A] 4051689390
+73103012:[N/A] 156258382
+73103013:[N/A] 1841845262
+73103014:[N/A] 3184388878
 74005001:[N/A] 3943672950
 74005002:[N/A] 1836228358
 74005003:[N/A] 1978913190

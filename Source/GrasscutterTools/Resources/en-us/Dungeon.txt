@@ -330,13 +330,26 @@
 1266:[N/A] 395785176
 1267:[N/A] 1265241320
 1268:[CHS] - test 6.0 TA性能测试地城
+1270:[N/A] 109996352
 1271:[CHS] - （test）6.1主线猎月人回忆地城—棋盘玩法（test）
 1272:[CHS] - 6.0苔藓球内部空间（test）
 1273:[N/A] 3220778240
 1274:[N/A] 135639544
 1275:A Laboratory Somewhere in the Universitas Magistrorum
+1276:Phantom of the Sanctuary
+1277:[CHS] - 菲谢尔线镜像大世界（test）
+1278:[CHS] - 莫娜线镜像大世界（test）
+1279:[CHS] - 雷泽线镜像大世界（test）
+1280:[CHS] - 杜林线镜像地城（test）
 1281:[CHS] - 6.1主线镜像大世界——阿如村（test）
+1282:[N/A] 1131340408
 1289:[CHS] - （test）6.1主线—镜像须弥图书馆
+1290:[N/A] 2241507024
+1294:[N/A] 3189841296
+1295:[N/A] 3582351384
+1296:[N/A] 1953161776
+1299:[N/A] 994090112
+1300:[N/A] 1155438600
 2000:Lost Treasure of Arcadia
 2001:Storming Terror
 2002:Cleanse Stormterror
@@ -455,6 +468,9 @@
 2200:[CHS] - 5.2灵视龙声望线室内地城(test)
 2201:[N/A] 429451728
 2202:[N/A] 3145122840
+2203:[N/A] 3265808288
+2204:[N/A] 4222026392
+2205:[CHS] - 杜林个人线地城（test）
 3001:Mist Labyrinth
 3004:Explore: Fallen Fortress
 3005:Pyro Trial
@@ -640,6 +656,12 @@
 3192:[CHS] - 爬塔（双路）(test)
 3193:[CHS] - 爬塔（双路）(test)
 3194:[CHS] - 爬塔（双路）(test)
+3195:[CHS] - 爬塔（双路）(test)
+3196:[CHS] - 爬塔（双路）(test)
+3197:[CHS] - 爬塔（双路）(test)
+3198:[CHS] - 爬塔（双路）(test)
+3199:[CHS] - 爬塔（双路）(test)
+3259:[CHS] - 爬塔（双路）(test)
 3200:Tower Descent - Floor 11: Chamber 1
 3201:[CHS] - 爬塔第二档-MC第42关（双路）(test)
 3202:[CHS] - 爬塔第二档-MC第43关（双路）(test)
@@ -1415,6 +1437,9 @@
 6126:[N/A] 583457200
 6127:[N/A] 4122188696
 6128:[N/A] 4124618264
+6129:[N/A] 3246942088
+6130:[N/A] 2769887272
+6131:[N/A] 3757161656
 7000:The Wind from the Reeds Topples Well-Fed Trees
 7001:The Wind from the Reeds Topples Well-Fed Trees: Difficulty 1
 7002:Stop to Rest Your Weary Head, Paint the Bridge Where Adepti Tread: Difficulty 2
@@ -1583,6 +1608,10 @@
 8319:[N/A] 1008639920
 8320:[N/A] 4211267920
 8321:[N/A] 1124484416
+8322:[N/A] 781211776
+8323:[N/A] 2057895208
+8324:[N/A] 264663784
+8325:[N/A] 762886096
 8401:[CHS] - (test)3.4拼刀地城01
 8402:[CHS] - (test)3.4拼刀地城02
 8403:[CHS] - (test)3.4拼刀地城03
@@ -1791,6 +1820,8 @@
 10013:[CHS] - 角色专精挑战-申鹤(test)
 10014:[CHS] - 角色专精挑战-夜兰(test)
 10015:[CHS] - 角色专精挑战-纳西妲(test)
+10016:[CHS] - 角色专精挑战-阿贝多(test)
+10017:[CHS] - 角色专精挑战-可莉(test)
 10101:[CHS] - (test)5.0战斗活动1
 10102:[CHS] - (test)5.0战斗活动2
 10103:[CHS] - (test)5.0战斗活动3
@@ -1917,6 +1948,10 @@
 10772:[CHS] - （test）6.0 大活动 跑酷关卡04
 10773:[CHS] - （test）6.0 大活动 跑酷关卡05
 10774:[CHS] - （test）6.0 大活动 跑酷关卡06
+10775:v6.2 Snowy Hide-and-Seek Stage 01
+10776:v6.2 Snowy Hide-and-Seek Stage 02
+10777:v6.2 Snowy Hide-and-Seek Stage 03
+10778:v6.2 Repertoire of Myriad Melodies PvP
 10779:[CHS] - (test)6.1开通路01
 10780:[CHS] - (test)6.1开通路02
 10781:[CHS] - (test)6.1开通路03
@@ -1940,7 +1975,21 @@
 10799:[CHS] - (test)6.1节奏派对01
 10800:[CHS] - (test)6.1节奏派对02
 10801:[CHS] - (test)6.1节奏派对03
+10802:[CHS] - (test)6.2龙pvp关卡01
+10803:[CHS] - (test)6.2龙pvp关卡02
+10804:[CHS] - (test)6.2龙pvp关卡03
+10805:[CHS] - (test)6.2龙pvp关卡04
+10810:v6.2 Bouncing Finchball Event Domain
+10811:v6.2 Bouncing Finchball Story Domain
+10812:[N/A] 2673550248
+10813:[N/A] 4233351608
+10814:[N/A] 844971016
+10815:[N/A] 1185082576
+10821:[CHS] - (test)6.2雪山跑酷_赛道1
 10823:[CHS] - (test)6.1节奏派对教学关
+10831:[CHS] - (test)6.2雪山跑酷_赛道2
+10832:[CHS] - (test)6.2雪山跑酷_赛道3
+10833:[CHS] - (test)6.2雪山跑酷_赛道4
 8903:BeyondEditor
 8904:Beyond Gameplay (test)
 8905:BeyondGameplayTest

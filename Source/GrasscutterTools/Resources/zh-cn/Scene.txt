@@ -110,10 +110,13 @@
 2401:Hall_Private_Witch
 2402:Hall_Private_World_Park
 2411:Hall_Private_Wsqh
+2412:Hall_Private_Drxg
 2601:Hall_Private_Witch
 2602:Hall_Private_World_Park
 2611:Hall_Private_Wsqh
+2612:Hall_Private_Drxg
 2811:Hall_Public_Wsqh
+2812:Hall_Public_Drxg
 20000:关卡玩法测试(test)
 20005:一锤定音的食材
 20006:丘丘人大据点(test)
@@ -331,12 +334,25 @@
 20286:Level_Ndcl_Rerir_01
 20287:BigWorld_LevelStreaming
 20288:test 6.0 TA性能测试地城
+20290:BigWorld_LevelStreaming
 20291:（test）6.1主线猎月人回忆地城—棋盘玩法（test）
 20292:6.0苔藓球内部空间（test）
 20293:BigWorld_LevelStreaming
 20294:BigWorld_LevelStreaming
 20295:深秘院某处的一间实验室
+20296:「圣地」的虚影
+20297:杜林个人线地城（test）
+20298:
+20299:菲谢尔线镜像大世界（test）
+20300:莫娜线镜像大世界（test）
+20301:雷泽线镜像大世界（test）
+20302:杜林线镜像地城（test）
+20303:BigWorld_LevelStreaming
 20304:6.1主线镜像大世界——阿如村（test）
+20319:Level_BomberDodoco
+20320:BigWorld_LevelStreaming
+20326:BigWorld_LevelStreaming
+20327:BigWorld_LevelStreaming
 30001:迷雾迷宫(test)
 30002:幽境危战·普通
 30003:幽境危战·进阶
@@ -592,6 +608,12 @@
 33830:爬塔（双路）(test)
 33831:爬塔（双路）(test)
 33832:爬塔（双路）(test)
+33833:爬塔（双路）(test)
+33834:爬塔（双路）(test)
+33835:爬塔（双路）(test)
+33836:爬塔（双路）(test)
+33837:爬塔（双路）(test)
+33838:爬塔（双路）(test)
 34100:爬塔第二档-ZHT第1关（单路）(test)
 34101:爬塔第二档-ZHT第2关（单路）(test)
 34102:爬塔第二档-ZHT第3关（单路）(test)
@@ -1382,6 +1404,9 @@
 41126:Level_Tower_01_Open
 41127:Level_Tower_01_Open
 41128:Level_Tower_01_Open
+41129:Level_Tower_01_Open
+41130:Level_Tower_01_Open
+41131:Level_Tower_01_Open
 42001:去年双燕来还去：难度3
 42002:解鞍倚枕画仙桥：难度2
 42003:春水蛾眉各分飞：难度5
@@ -1661,6 +1686,10 @@
 48082:BigWorld_LevelStreaming
 48083:BigWorld_LevelStreaming
 48084:BigWorld_LevelStreaming
+48085:Level_CooperateChallenge01
+48086:Level_CooperateChallenge01
+48087:Level_CooperateChallenge01
+48088:Level_CooperateChallenge01
 48090:(test)5.8联机喷绘1
 48091:(test)5.8联机喷绘2
 48092:(test)5.8联机喷绘3
@@ -1684,6 +1713,8 @@
 49013:角色专精挑战-申鹤(test)
 49014:角色专精挑战-夜兰(test)
 49015:角色专精挑战-纳西妲(test)
+49016:角色专精挑战-阿贝多(test)
+49017:角色专精挑战-可莉(test)
 50002:低温关卡白盒(test)
 50003:战斗性能测试(test)
 50004:电桩电源白盒(test)
@@ -1912,6 +1943,10 @@
 51137:（test）6.0 大活动 跑酷关卡04
 51138:（test）6.0 大活动 跑酷关卡05
 51139:（test）6.0 大活动 跑酷关卡06
+51140:6.2雪山躲猫猫关卡01
+51141:6.2雪山躲猫猫关卡02
+51142:6.2雪山躲猫猫关卡03
+51143:6.2千音雅集PVP
 51144:（test）6.0 大活动 跑酷关卡01
 51145:（test）6.0 大活动 跑酷关卡02
 51146:（test）6.0 大活动 跑酷关卡03
@@ -1920,13 +1955,29 @@
 51149:（test）6.0 大活动 跑酷关卡06
 51150:（test）6.0 大活动 跑酷关卡07
 51151:（test）6.0 大活动 跑酷关卡08
+51152:TestLevel_WhiteBox_RC_Albedo_GQQ
+51153:TestLevel_WhiteBox_6.2Hyperborea_GQQ
 51154:（test）6.0 大活动 跑酷关卡09
+51155:(test)6.2龙pvp关卡01
+51156:(test)6.2龙pvp关卡02
+51157:(test)6.2龙pvp关卡03
+51158:(test)6.2龙pvp关卡04
 51160:Level_Tower_Moon_01
 51161:Level_Tower_Moon_01
 51162:Level_Tower_Moon_01
 51163:Level_Tower_Moon_01
 51164:Level_Tower_Moon_01
 51165:Level_Tower_Moon_01
+51170:6.2雀雀弹球活动地城
+51171:6.2雀雀弹球剧情地城
+51172:BigWorld_LevelStreaming
+51173:BigWorld_LevelStreaming
+51174:BigWorld_LevelStreaming
+51175:BigWorld_LevelStreaming
+51176:(test)6.2雪山跑酷_赛道1
+51177:(test)6.2雪山跑酷_赛道2
+51178:(test)6.2雪山跑酷_赛道3
+51179:(test)6.2雪山跑酷_赛道4
 79999:(test)卡牌观战场景
 90001:UGC_LiHui_01
 90002:UGC功耗测试地城

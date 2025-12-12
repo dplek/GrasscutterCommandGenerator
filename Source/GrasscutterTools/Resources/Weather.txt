@@ -1092,6 +1092,15 @@
 10217:HomeExterior_Fd_B
 10218:HomeExterior_Fd_B
 10219:HomeExterior_Fd_C
+// 2412
+10456:PrivateHall_Drxg
+10457:PrivateHall_DrxgBigSnow
+// 2612
+10458:PrivateHall_Drxg
+10459:PrivateHall_DrxgBigSnow
+// 2812
+10460:PrivateHall_Drxg
+10461:PrivateHall_DrxgBigSnow
 // 20005
 3000:XianglingPlotLevel01_Test
 3001:XianglingPlotLevel01
@@ -1392,8 +1401,27 @@
 6357:NDKL61_BGC_KL02
 // 20294
 6358:NDKL61_GYSJ_CYYS
+// 20296
+10416:Du62_NK_Hyperborea_01
+10417:Du62_NK_Hyperborea_02
+// 20297
+10408:Du62_MFS_Workshop_01_Space
+10409:Du62_MFS_Workshop_02_RoomA
+10410:Du62_MFS_Workshop_03_Party
+10411:Du62_MFS_Workshop_04_Castle
+10412:Du62_MFS_Workshop_05_Forest
+10413:Du62_MFS_Workshop_06_Room
+10414:Du62_MFS_Workshop_07_Space
+10415:Du62_MFS_Workshop_08_Boss
+10418:Du62_MFS_Workshop_05_Forest_A
+10419:Du62_MFS_Workshop_05_Forest_B
+10471:Du62_MFS_Workshop_02_RoomB
+// 20303
+10407:NDKL_HS_HD_AQMD
 // 20304
 10434:Xm31_Aru
+// 20320
+10452:NDKL_JSTY_6.2
 // 35800
 10009:CycleDungeon_WindFlower
 10010:CycleDungeon_WindFlower_Outdoor
@@ -1759,3 +1787,19 @@
 // 51114
 6401:Du57_AutoChessRogue01_Rainforest
 6402:Du57_AutoChessRogue01_Rainforest
+// 51155
+6714:Du62_NodKrai_LongPVP_1
+// 51156
+6715:Du62_NodKrai_LongPVP_2
+// 51157
+6716:Du62_NodKrai_LongPVP_3
+// 51158
+6717:Du62_NodKrai_LongPVP_4
+// 51172
+10440:Md_SnowMountain_General
+// 51173
+10441:Md_SnowMountain_General
+// 51174
+10442:Md_SnowMountain_General
+// 51175
+10443:Md_SnowMountain_General

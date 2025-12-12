@@ -52,6 +52,7 @@
 11515:Absolution
 11516:Peak Patrol Song
 11517:Azurelight
+11518:Athame Artis
 12101:Waster Greatsword
 12201:Old Merc's Pal
 12301:Ferrous Shadow
@@ -220,6 +221,7 @@
 15431:Chain Breaker
 15432:Sequence of Solitude
 15433:Snare Hook
+15434:Rainbow Serpent's Rain Bow
 15501:Skyward Harp
 15502:Amos' Bow
 15503:Elegy for the End
@@ -230,4 +232,5 @@
 15512:The First Great Magic
 15513:Silvershower Heartstrings
 15514:Astral Vulture's Crimson Plumage
+15515:The Daybreak Chronicles
 10009:[CHS] - (test)空武器

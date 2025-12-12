@@ -105,3 +105,5 @@
 4120:Flins
 4121:Aino
 4122:Nefer
+4123:Durin
+4124:Jahoda

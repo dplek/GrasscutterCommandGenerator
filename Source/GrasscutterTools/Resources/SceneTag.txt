@@ -477,7 +477,17 @@
 1798:NK_INAQ_P1 (Default)
 1804:Combine_SumAdv
 1835:Combine_MuPa
+1837:Combine_AQMN (Default)
+1844:Combine_SnowRace
+1845:NK_AQMN_BF
+1846:Combine_AQMNBF
 1857:Combine_CY_QD (Default)
+1859:SnowRaceStart
+1864:NK_AQMN_ALS
+1867:Combine_AQMN_ALS
+1886:BigWorld_-0_13_BaseGrass (Default)
+1894:NK_QXZ_BaseGrass (Default)
+1895:NK_JSTY_ST (Default)
 // 4
 106:SummerTime
 108:SummerTime_High
@@ -960,6 +970,14 @@
 1786:NK_XNCS_S8
 1787:NK_XNCS_S9
 1788:NK_XNCS_S10
+// 20303
+1836:NodKraiAQMN
 // 20294
 1838:CY_QD
 1839:Combine_CY_QD
+// 20297
+1855:MFS_Wood (Default)
+1856:MFS_Curtain
+1860:MFS_Candy (Default)
+1861:MFS_Balloon
+1862:MFS_Chain (Default)

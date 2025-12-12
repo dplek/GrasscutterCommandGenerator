@@ -84,6 +84,7 @@
 186:Sunspray Spirit
 187:Legion Morale
 188:Prep Progress
+189:Blazing Spirit
 201:Primogem
 202:Mora
 203:Genesis Crystal
@@ -228,6 +229,8 @@
 4120:Flins
 4121:Aino
 4122:Nefer
+4123:Durin
+4124:Jahoda
 
 // Talent
 911:Memory of Eternal Flames
@@ -344,6 +347,8 @@
 5120:Flins's Stella Fortuna
 5121:Aino's Stella Fortuna
 5122:Nefer's Stella Fortuna
+5123:Durin's Stella Fortuna
+5124:Jahoda's Stella Fortuna
 
 // Adsorbate
 2001:Energy Orb (Pyro)
@@ -482,6 +487,8 @@
 6120:Flins's Stella Fortuna
 6121:Aino's Stella Fortuna
 6122:Nefer's Stella Fortuna
+6123:Durin's Stella Fortuna
+6124:Jahoda's Stella Fortuna
 
 // Chest
 3001:Test Random Treasure Chest
@@ -557,6 +564,9 @@
 121406:Curatorium Funds
 121407:Curatorium Funds
 121408:Curatorium Funds
+121419:Special Sugar Sculpture Box
+121420:Curatorium Funds
+121441:Special Sugar Sculpture Box
 
 // Cricket
 100121:Cricket (White)
@@ -969,6 +979,13 @@
 108915:Piramida Nightingale
 108917:Wildberry Trail
 108919:Sugar Sculpture: Nefer
+108921:"After-Class Practice"
+108924:Apple Stew (Trial Version)
+108926:Suspicious Spiced Fried Chicken
+108927:Spiced Fried Chicken
+108928:Delicious Spiced Fried Chicken
+108929:Sugar Sculpture: Jahoda
+108930:Sugar Sculpture: Kuuhenki
 121374:Apple Cider
 
 // Food
@@ -4352,7 +4369,6 @@
 121364:Stellafruit
 121365:Training Ground Target
 121366:Auni's Notes
-121367:Collated Intel
 121368:Backup Program Module
 121369:Damaged Photo
 121370:Damaged Photo
@@ -4382,6 +4398,12 @@
 121400:Aila's Notes
 121401:The Man Who Became a Mule
 121402:Half-Burned Page
+121414:Rhinedottir's "Gift"
+121415:Ragged Doll
+121418:Scribbled Letter
+121423:Moon-Prayer Candy From Columbina
+121424:Moon-Prayer Candy From Columbina
+121425:The Soulblazer Saga: Volume 2
 220068:[CHS] - (test)赤沙石板
 339901:Beginner Player Badge
 339902:Advanced Player Badge
@@ -4427,6 +4449,35 @@
 116016:Guides of a Journey
 116017:Philosophies of a Journey
 116018:Traveling Bounties
+
+// Consume Batch Use
+107009:Fragile Resin
+107012:Transient Resin
+117001:Domain Reliquary: Tier III
+117002:Domain Reliquary: Tier II
+117003:Domain Reliquary: Tier I
+117004:Reliquary: Wanderer's Troupe and Gladiator
+117005:Grand Reliquary: Wanderer's Troupe and Gladiator
+117006:Domain Reliquary: Tier II
+117007:Domain Reliquary: Tier I
+117008:Domain Reliquary: Tier II
+117009:Domain Reliquary: Tier I
+117010:Domain Reliquary: Tier II
+117011:Domain Reliquary: Tier I
+117012:Domain Reliquary: Tier II
+117013:Domain Reliquary: Tier I
+117014:Domain Reliquary: Tier II
+117015:Domain Reliquary: Tier I
+117016:Domain Reliquary: Tier II
+117017:Domain Reliquary: Tier I
+117018:Domain Reliquary: Tier II
+117019:Domain Reliquary: Tier I
+117020:Domain Reliquary: Tier II
+117021:Domain Reliquary: Tier I
+117022:Domain Reliquary: Tier II
+117023:Domain Reliquary: Tier I
+117024:Domain Reliquary: Tier II
+117025:Domain Reliquary: Tier I
 
 // Avatar Material
 104101:Brilliant Diamond Sliver
@@ -4739,6 +4790,7 @@
 113077:Precision Kuuvahki Stamping Die
 113078:Lightbearing Scale-Feather
 113079:Radiant Antler
+113080:Cyclic Military Kuuvahki Core
 114001:Tile of Decarabian's Tower
 114002:Debris of Decarabian's City
 114003:Fragment of Decarabian's Epic
@@ -4848,35 +4900,7 @@
 200125:Composite Bow Tuning Kit
 200126:Drifter's Crystal Marrow
 200127:Golden Strings
-
-// Consume Batch Use
-107009:Fragile Resin
-107012:Transient Resin
-117001:Domain Reliquary: Tier III
-117002:Domain Reliquary: Tier II
-117003:Domain Reliquary: Tier I
-117004:Reliquary: Wanderer's Troupe and Gladiator
-117005:Grand Reliquary: Wanderer's Troupe and Gladiator
-117006:Domain Reliquary: Tier II
-117007:Domain Reliquary: Tier I
-117008:Domain Reliquary: Tier II
-117009:Domain Reliquary: Tier I
-117010:Domain Reliquary: Tier II
-117011:Domain Reliquary: Tier I
-117012:Domain Reliquary: Tier II
-117013:Domain Reliquary: Tier I
-117014:Domain Reliquary: Tier II
-117015:Domain Reliquary: Tier I
-117016:Domain Reliquary: Tier II
-117017:Domain Reliquary: Tier I
-117018:Domain Reliquary: Tier II
-117019:Domain Reliquary: Tier I
-117020:Domain Reliquary: Tier II
-117021:Domain Reliquary: Tier I
-117022:Domain Reliquary: Tier II
-117023:Domain Reliquary: Tier I
-117024:Domain Reliquary: Tier II
-117025:Domain Reliquary: Tier I
+200128:Refined Heart
 
 // Spice Food
 101715:Fragrant Vegetarian Abalone
@@ -4958,11 +4982,6 @@
 // Mikawa Flower Invite
 121159:Invitation From Miko
 
-// Quest Album
-121161:Leafy Dreams
-121255:Dream-Mirror Remnant
-121271:Keepsake Photo With Yelan
-
 // Holiday Memory Book
 121231:Easybreeze Album
 
@@ -4975,6 +4994,21 @@
 
 // Photov6 Hand Book
 121270:Teyvat Commemorative Album
+
+// Quest Album
+121161:Leafy Dreams
+121255:Dream-Mirror Remnant
+121271:Keepsake Photo With Yelan
+121422:Greeting Card for Columbina
+
+// Clue Shop Handbook
+121367:Collated Intel
+
+// Moon Night Card
+121421:Moon-Prayer Night Pamphlet
+
+// Magic Story Book
+121426:Tale of "Durin"
 
 // Consume
 210:Original Essence (Invalidated)
@@ -5299,6 +5333,7 @@
 109638:Recipe: Lakkaberry Madame
 109639:Recipe: Lakkaberry Pie
 109640:Recipe: Lohikeitto
+109641:Recipe: Spiced Fried Chicken
 111020:Small Pretty Crystal
 111021:Medium Pretty Crystal
 111022:Big Pretty Crystal
@@ -5986,6 +6021,10 @@
 210260:Celebration: Sublime Flavors
 210261:Nefer: Secrets
 210262:Travel Notes: Bygone Ruins
+210263:Durin: Radiant Heart
+210264:Jahoda: Helping Hand
+210265:Travel Notes: Blazing Snow
+210266:Celebration: Dream Reader
 
 // Avatar Trace
 215001:Echo: Dandelion Knight
@@ -6003,6 +6042,8 @@
 215013:Echo: Lonesome Transcendence
 215014:Echo: Valley Orchid
 215015:Echo: Physic of Purity
+215016:Echo: Kreideprinz
+215017:Echo: Fleeing Sunlight
 
 // Profile Frame
 216001:Faint Glow
@@ -6128,6 +6169,7 @@
 220123:Luna Treasure Compass
 220124:Travel Accounts
 220125:Lunar Arcana Case
+220126:The Little Witch's Dictionary
 
 // Aranara
 220055:Aranyaka
@@ -6288,6 +6330,14 @@
 318138:A Little Scare
 318139:Eager and Ready
 318140:Leisurely Moment
+318141:Sharp Observer
+318142:Tea Time
+318143:All Green and Good to Go
+318144:Merchant's Aura
+318145:Ingenious Foresight
+318146:Celebrity Countenance
+318147:Cool Watcher
+318148:Sign of Prosperity
 
 // Music Game Book Theme
 319001:Fantastical Marvel
@@ -6313,6 +6363,7 @@
 // Profile Picture
 320001:[CHS] - (test)头像道具-测试用
 320002:Vigorous Yapping
+320003:Diligent Study
 
 // Gcg Card Face
 326000:Ganyu
@@ -6439,6 +6490,9 @@
 326121:Varesa
 326122:Ifa
 326123:Hydro Tulpa
+326124:Escoffier
+326125:Gaming
+326126:Black Serpent Knight: Rockbreaker Ax
 326500:Undivided Heart
 326501:Cold-Blooded Strike
 326502:Steady Breathing
@@ -6563,6 +6617,9 @@
 326621:A Hero of Justice's Triumph
 326622:Tactical Warm Compress Bandaging
 326623:Flow Convergence
+326624:Tea Parties Bursting With Color
+326625:Bringer of Blessing
+326626:"Once Stood Against the Tide of Dark Waters Like Bedrock..."
 327000:Magic Guide
 327001:Sacrificial Fragments
 327002:Skyward Atlas
@@ -6673,6 +6730,7 @@
 327107:Everlasting Moonglow
 327108:Fell Dragon's Monocle
 327109:Noblesse Oblige
+327110:Nymph's Dream
 328000:Liyue Harbor Wharf
 328001:Knights of Favonius Library
 328002:Jade Chamber
@@ -6742,6 +6800,7 @@
 328066:Forest Blessing
 328067:Gift of the Goddess of Prophecy
 328068:Adventurers' Guild
+328069:Seymour
 329000:Elemental Resonance: Woven Ice
 329001:Elemental Resonance: Shattering Ice
 329002:Elemental Resonance: Woven Waters
@@ -6846,6 +6905,9 @@
 329102:"Revelrous Beats"
 329103:An Ancient Sacrifice of Sacred Brocade
 329104:Chenyu Brew
+329105:Lost Legacies in the Sand
+329106:The Narzissenkreuz Adventure
+329107:Plan to Save the World
 334000:Ganyu
 334001:Kaeya
 334002:Chongyun
@@ -6970,6 +7032,9 @@
 334121:Varesa
 334122:Ifa
 334123:Hydro Tulpa
+334124:Escoffier
+334125:Gaming
+334126:Black Serpent Knight: Rockbreaker Ax
 334500:Undivided Heart
 334501:Cold-Blooded Strike
 334502:Steady Breathing
@@ -7094,6 +7159,9 @@
 334621:A Hero of Justice's Triumph
 334622:Tactical Warm Compress Bandaging
 334623:Flow Convergence
+334624:Tea Parties Bursting With Color
+334625:Bringer of Blessing
+334626:"Once Stood Against the Tide of Dark Waters Like Bedrock..."
 335000:Magic Guide
 335001:Sacrificial Fragments
 335002:Skyward Atlas
@@ -7204,6 +7272,7 @@
 335107:Everlasting Moonglow
 335108:Fell Dragon's Monocle
 335109:Noblesse Oblige
+335110:Nymph's Dream
 336000:Liyue Harbor Wharf
 336001:Knights of Favonius Library
 336002:Jade Chamber
@@ -7273,6 +7342,7 @@
 336066:Forest Blessing
 336067:Gift of the Goddess of Prophecy
 336068:Adventurers' Guild
+336069:Seymour
 337000:Elemental Resonance: Woven Ice
 337001:Elemental Resonance: Shattering Ice
 337002:Elemental Resonance: Woven Waters
@@ -7377,6 +7447,9 @@
 337102:"Revelrous Beats"
 337103:An Ancient Sacrifice of Sacred Brocade
 337104:Chenyu Brew
+337105:Lost Legacies in the Sand
+337106:The Narzissenkreuz Adventure
+337107:Plan to Save the World
 
 // Gcg Card
 330000:Ganyu
@@ -7503,6 +7576,9 @@
 330121:Varesa
 330122:Ifa
 330123:Hydro Tulpa
+330124:Escoffier
+330125:Gaming
+330126:Black Serpent Knight: Rockbreaker Ax
 330500:Undivided Heart
 330501:Cold-Blooded Strike
 330502:Steady Breathing
@@ -7627,6 +7703,9 @@
 330621:A Hero of Justice's Triumph
 330622:Tactical Warm Compress Bandaging
 330623:Flow Convergence
+330624:Tea Parties Bursting With Color
+330625:Bringer of Blessing
+330626:"Once Stood Against the Tide of Dark Waters Like Bedrock..."
 331000:Magic Guide
 331001:Sacrificial Fragments
 331002:Skyward Atlas
@@ -7737,6 +7816,7 @@
 331107:Everlasting Moonglow
 331108:Fell Dragon's Monocle
 331109:Noblesse Oblige
+331110:Nymph's Dream
 332000:Liyue Harbor Wharf
 332001:Knights of Favonius Library
 332002:Jade Chamber
@@ -7806,6 +7886,7 @@
 332066:Forest Blessing
 332067:Gift of the Goddess of Prophecy
 332068:Adventurers' Guild
+332069:Seymour
 333000:Elemental Resonance: Woven Ice
 333001:Elemental Resonance: Shattering Ice
 333002:Elemental Resonance: Woven Waters
@@ -7910,6 +7991,9 @@
 333102:"Revelrous Beats"
 333103:An Ancient Sacrifice of Sacred Brocade
 333104:Chenyu Brew
+333105:Lost Legacies in the Sand
+333106:The Narzissenkreuz Adventure
+333107:Plan to Save the World
 
 // Gcg Card Back
 339000:Origin
@@ -7981,6 +8065,7 @@
 340020:New Year's Cheer
 340021:Tranquil Banquet
 340022:Adventures in Blazing Hue
+340025:Toward the Distant Horizon
 
 // Weapon Skin
 341101:Serpent Devourer
@@ -9303,6 +9388,22 @@
 381511:Question With a Price Tag
 382282:Hidden Secrets
 394810:Loafing Kitty
+383411:Gleam & Glow
+383412:Lucky Spin
+383413:Burst of Appetite
+384225:Tavern Notice: Whispers of the Street
+394637:One-Sec Whiz
+393939:Utility Pocket Detector
+394639:Grillmaster Supreme
+394640:Wobbly Pony Ride
+394641:Vertical Bipolar Tri-Leg Tower
+393222:Petals Without Perfume
+394818:Dragon on the Move
+380467:The Lonely Wayfarer
+380468:Timeless Shine
+394814:Little Finchie
+394815:Gourmet Bandit
+394816:Master Weaselmind
 
 // Furniture
 369101:Jade-Eyed Cat
@@ -9420,6 +9521,8 @@
 368204:Flins
 368205:Aino
 368206:Nefer
+368207:Durin
+368208:Jahoda
 360101:Timber Wall With Jade Eaves
 360102:Dark Wood Arch Wall
 360201:Traditional Cedar Flooring
@@ -11481,6 +11584,30 @@
 361511:Question With a Price Tag
 362282:Hidden Secrets
 374810:Loafing Kitty
+363411:Gleam & Glow
+363412:Lucky Spin
+363413:Burst of Appetite
+363386:"Saury-Saury Scout"
+364225:Tavern Notice: Whispers of the Street
+374637:One-Sec Whiz
+373939:Utility Pocket Detector
+374639:Grillmaster Supreme
+374640:Wobbly Pony Ride
+374641:Vertical Bipolar Tri-Leg Tower
+374811:Together with You
+373222:Petals Without Perfume
+374812:Soulblazer: Fietena
+374813:Dodoco's Whirly Gig
+374818:Dragon on the Move
+360467:The Lonely Wayfarer
+360468:Timeless Shine
+372516:Blushmist Whisper
+372517:Waving to Yesterday
+372518:Softglow Stamen
+374814:Little Finchie
+374815:Gourmet Bandit
+374816:Master Weaselmind
+374817:Soulblaze Snowman: The Warrior
 360001:Wall 1
 360002:Wall 2
 360003:Floor 1
