@@ -318,6 +318,46 @@
 40544:Deep Gallery's Echoing Song
 40553:Deep Gallery's Moment of Oblivion
 40554:Deep Gallery's Moment of Oblivion
+41412:Vessel of Plenty
+41413:Vessel of Plenty
+41422:Feather of Indelible Sin
+41423:Feather of Indelible Sin
+41432:Crown of the Befallen
+41433:Crown of the Befallen
+41442:Bloom of the Mind's Desire
+41443:Bloom of the Mind's Desire
+41452:Revelation's Toll
+41453:Revelation's Toll
+41513:Vessel of Plenty
+41514:Vessel of Plenty
+41523:Feather of Indelible Sin
+41524:Feather of Indelible Sin
+41533:Crown of the Befallen
+41534:Crown of the Befallen
+41543:Bloom of the Mind's Desire
+41544:Bloom of the Mind's Desire
+41553:Revelation's Toll
+41554:Revelation's Toll
+42412:Joyous Glory of the Pure
+42413:Joyous Glory of the Pure
+42422:Pristine Plume of the Blessed
+42423:Pristine Plume of the Blessed
+42432:Holy Crown of the Believer
+42433:Holy Crown of the Believer
+42442:Crystal Tear of the Wanderer
+42443:Crystal Tear of the Wanderer
+42452:Frost Devotee's Delirium
+42453:Frost Devotee's Delirium
+42513:Joyous Glory of the Pure
+42514:Joyous Glory of the Pure
+42523:Pristine Plume of the Blessed
+42524:Pristine Plume of the Blessed
+42533:Holy Crown of the Believer
+42534:Holy Crown of the Believer
+42543:Crystal Tear of the Wanderer
+42544:Crystal Tear of the Wanderer
+42553:Frost Devotee's Delirium
+42554:Frost Devotee's Delirium
 51110:Goblet of the Sojourner
 51111:Goblet of the Sojourner
 51112:Goblet of the Sojourner

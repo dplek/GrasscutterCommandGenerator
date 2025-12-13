@@ -14,6 +14,8 @@
 38:Obsidian Codex
 39:Long Night’s Oath
 40:Finale of the Deep Galleries
+41:Night of the Sky’s Unveiling
+42:Silken Moon’s Serenade
 51:Resolution of Sojourner
 52:Brave Heart
 53:Defender's Will
