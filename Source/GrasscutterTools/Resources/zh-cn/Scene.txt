@@ -111,12 +111,15 @@
 2402:Hall_Private_World_Park
 2411:Hall_Private_Wsqh
 2412:Hall_Private_Drxg
+2413:Hall_Private_Wxyc
 2601:Hall_Private_Witch
 2602:Hall_Private_World_Park
 2611:Hall_Private_Wsqh
 2612:Hall_Private_Drxg
+2613:Hall_Private_Wxyc
 2811:Hall_Public_Wsqh
 2812:Hall_Public_Drxg
+2813:Hall_Public_Wxyc
 20000:关卡玩法测试(test)
 20005:一锤定音的食材
 20006:丘丘人大据点(test)
@@ -334,6 +337,7 @@
 20286:Level_Ndcl_Rerir_01
 20287:BigWorld_LevelStreaming
 20288:test 6.0 TA性能测试地城
+20289:Level_Dotorre_Moon
 20290:BigWorld_LevelStreaming
 20291:（test）6.1主线猎月人回忆地城—棋盘玩法（test）
 20292:6.0苔藓球内部空间（test）
@@ -349,10 +353,20 @@
 20302:杜林线镜像地城（test）
 20303:BigWorld_LevelStreaming
 20304:6.1主线镜像大世界——阿如村（test）
+20313:6.3海灯节白马地城1（test）
+20314:6.3海灯节白马地城2（test）
+20315:6.3海灯节白马地城3（test）
+20316:6.3海灯节白马地城4（test）
 20319:Level_BomberDodoco
 20320:BigWorld_LevelStreaming
+20321:BigWorld_LevelStreaming
+20322:Level_NK_DoctorBoss01
+20323:6.3破败月宫（test）
+20324:6.3主线下半地城（test）
+20325:6.3少女花田（test）
 20326:BigWorld_LevelStreaming
 20327:BigWorld_LevelStreaming
+20335:追忆：异端者的黄昏 IV
 30001:迷雾迷宫(test)
 30002:幽境危战·普通
 30003:幽境危战·进阶
@@ -614,6 +628,18 @@
 33836:爬塔（双路）(test)
 33837:爬塔（双路）(test)
 33838:爬塔（双路）(test)
+33839:爬塔（双路）(test)
+33840:爬塔（双路）(test)
+33841:爬塔（双路）(test)
+33842:爬塔（双路）(test)
+33843:爬塔（双路）(test)
+33844:爬塔（双路）(test)
+33845:爬塔（双路）(test)
+33846:爬塔（双路）(test)
+33847:爬塔（双路）(test)
+33848:爬塔（双路）(test)
+33849:爬塔（双路）(test)
+33850:爬塔（双路）(test)
 34100:爬塔第二档-ZHT第1关（单路）(test)
 34101:爬塔第二档-ZHT第2关（单路）(test)
 34102:爬塔第二档-ZHT第3关（单路）(test)
@@ -1267,6 +1293,10 @@
 40817:炼武秘境：祭月 II
 40818:炼武秘境：祭月 III
 40819:炼武秘境：祭月 IV
+40820:祝圣秘境：圣库 I
+40821:祝圣秘境：圣库 II
+40822:祝圣秘境：圣库 III
+40823:祝圣秘境：圣库 IV
 40900:炼武秘境：流沙之葬 I
 40901:炼武秘境：流沙之葬 II
 40902:炼武秘境：流沙之葬 III
@@ -1407,6 +1437,9 @@
 41129:Level_Tower_01_Open
 41130:Level_Tower_01_Open
 41131:Level_Tower_01_Open
+41132:Level_Tower_01_Open
+41133:Level_Tower_01_Open
+41134:Level_Tower_01_Open
 42001:去年双燕来还去：难度3
 42002:解鞍倚枕画仙桥：难度2
 42003:春水蛾眉各分飞：难度5
@@ -1694,6 +1727,11 @@
 48091:(test)5.8联机喷绘2
 48092:(test)5.8联机喷绘3
 48093:(test)5.8联机喷绘4
+48094:Level_Act_Lantern02
+48095:Level_Act_Lantern02
+48096:Level_Act_Lantern02
+48097:Level_Act_Lantern02
+48098:Level_Act_Lantern02
 48101:(test)5.8狙击活动1
 48102:(test)5.8狙击活动2
 48103:(test)5.8狙击活动3
@@ -1968,6 +2006,7 @@
 51163:Level_Tower_Moon_01
 51164:Level_Tower_Moon_01
 51165:Level_Tower_Moon_01
+51169:Level_Tower_Moon_01
 51170:6.2雀雀弹球活动地城
 51171:6.2雀雀弹球剧情地城
 51172:BigWorld_LevelStreaming
@@ -1978,6 +2017,13 @@
 51177:(test)6.2雪山跑酷_赛道2
 51178:(test)6.2雪山跑酷_赛道3
 51179:(test)6.2雪山跑酷_赛道4
+51181:Level_LY_Parkour_01
+51182:Level_LY_Parkour_02
+51183:Level_LY_Parkour_03
+51184:Level_LY_Parkour_04
+51185:Level_LY_Parkour_05
+51186:(test)6.3怪物自走棋场地
+51194:TestLevel_WhiteBox_Practice_LJW
 79999:(test)卡牌观战场景
 90001:UGC_LiHui_01
 90002:UGC功耗测试地城

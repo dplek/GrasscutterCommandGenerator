@@ -155,10 +155,10 @@ namespace GrasscutterTools.Pages
 
                 TextMapData ??= new TextMapData(TxtGcResRoot.Text);
 
-                // UpdateActivityForLanguage(activityItems, "TextMapCHS", "zh-cn");
+                UpdateActivityForLanguage(activityItems, "TextMapCHS", "zh-cn");
                 UpdateActivityForLanguage(activityItems, "TextMapCHT", "zh-tw");
                 UpdateActivityForLanguage(activityItems, "TextMapEN", "en-us");
-                UpdateActivityForLanguage(activityItems, "TextMapRU", "ru-ru");
+                // UpdateActivityForLanguage(activityItems, "TextMapRU", "ru-ru");
                 MessageBox.Show("OK", Resources.Tips, MessageBoxButtons.OK);
             }
             catch (Exception ex)
@@ -232,7 +232,7 @@ namespace GrasscutterTools.Pages
                 UpdateGachaResourceForLanguage("TextMapCHS", "zh-cn");
                 UpdateGachaResourceForLanguage("TextMapCHT", "zh-tw");
                 UpdateGachaResourceForLanguage("TextMapEN", "en-us");
-                UpdateGachaResourceForLanguage("TextMapRU", "ru-ru");
+                // UpdateGachaResourceForLanguage("TextMapRU", "ru-ru");
                 MessageBox.Show("OK", Resources.Tips, MessageBoxButtons.OK);
             }
             catch (Exception ex)

@@ -405,6 +405,25 @@
 80455:Joint Meeting Point Construction: Frostmoon Enclave - Reach maximum Construction Level at the Frostmoon Enclave.
 81600:The Weaver in the Ossuary - Explore the sanctum sealed off by the first Moonchanter.
 81601:The Sins of the Fathers - Complete the adventure at the Kuuvahki Experimental Design Bureau.
+80456:Dime Pulp Fiction - Collect the entire "The Legends of Reed Miller, Thief Extraordinaire" series.
+80457:Faith Was for the Transience - Collect the entire "Hymns of the Far North" series.
+80458:...As a Bee Produces Honey - Collect the entire "Conch Echoes" series.
+80459:Part the Snow-Curtain of the Sky - Collect the entire "Tales Carried by the Northwind" series.
+80460:The History of One City - Collect the entire "A Brief History of the Pale Starborn" series.
+80461:A Bewitched Place Beneath the Moon - Collect the entire "Night Murmurs From the Far Border" series.
+80462:Moondust Treasure Hunter (II) - Open {param0} chests in Voidsea Outlook, Wavechaser Plain, and Ashveil Peak.
+80463:Moondust Treasure Hunter (II) - Open {param0} chests in Voidsea Outlook, Wavechaser Plain, and Ashveil Peak.
+80464:Moondust Treasure Hunter (II) - Open {param0} chests in Voidsea Outlook, Wavechaser Plain, and Ashveil Peak.
+80465:Moondust Adventurer (II) - Complete {param0} Open World mechanism-activated Time Trial Challenges in Voidsea Outlook, Wavechaser Plain, and Ashveil Peak.
+80466:Continental Explorer: Moonlit Isles (II) - Light up the maps of the following areas in Nod-Krai: Voidsea Outlook, Wavechaser Plain, and Ashveil Peak.
+80467:Frosty Groves Beyond the Darkness (II) - Unlock all Teleport Waypoints in the following areas in Nod-Krai: Voidsea Outlook, Wavechaser Plain, and Ashveil Peak.
+80468:Sanctuary Pilgrim: Moonlit Isles (II) - Unlock all the Shrines of Depths in the following areas in Nod-Krai: Voidsea Outlook, Wavechaser Plain, and Ashveil Peak.
+80469:Offerings to the Night: Moonlit Isles (II) - Unlock all the seals on the Kuuhenki's Hidden Troves in the following areas in Nod-Krai: Voidsea Outlook, Wavechaser Plain, and Ashveil Peak.
+80470:The Winds Awaken, the Leaves Whirl Round - A nightingale, bearing an ember in its beak, flew only after dusk.
+80471:Si le grain ne meurt - Even when the flower withers, the leaves still keep their promise.
+80472:Joint Meeting Point Construction: Cliffwatch Camp - Reach maximum Construction Level at the Cliffwatch Camp.
+80473:Joint Meeting Point Construction: The Witch's Garden - Reach maximum Construction Level at the Witch's Garden.
+80474:Joint Meeting Point Construction: Favonius Keep - Reach maximum Construction Level at the Favonius Keep.
 81000:Overlooking View - Reach the very top of Qingyun Peak.
 81001:The Remains of the Gale - Reach the top of the tower in Stormterror's Lair.
 81002:"Seeds of Stories, Brought by the Wind..." - Reach the nameless island northeast of Mondstadt.
@@ -968,6 +987,24 @@
 81622:Magnum Opus - Hold 22 different Lunar Arcana at once.
 81623:The End of the Innocence - The world isn't as sweet as we imagined...
 81624:Golden Traveler, Silver Moon - Complete "Selenic Chronicles: Part II."
+81625:Moonlit Whitenight Serenade - Complete "Selenic Chronicles: Part III."
+81626:To Turn Each Sin Against the Sinner - Help Janusz deal with the monsters in Dreadshade Mire.
+81627:Dead Man's Hand - The end is yet to come.
+81628:Farewell Hope, With Hope Farewell Fear - Witness the ancient palace rise from the depths.
+81629:"East of the Moon, West of the Sun" - Complete "East of the Moon, West of the Sun."
+81630:Quis Custodiet Ipsos Custodes - Uncover Grazina's plan.
+81631:The Lone Wolf's Memory - Henceforth, the Bloodstained Knight walked away from the world of men...
+81632:Where Heroes Rest - Witness the end of the Frostgale Steeds' tale.
+81633:Parting Ways on the Journey Home - Assist Kuzmich on his journey home.
+81634:There Will Be Bread - Make hot, freshly-baked Mushroom Phantasm on the grill.
+81635:The Mound in the Moonlight - Unseal a time capsule left behind by an unknown Hyperborean.
+81636:The Paths of Glory Lead but to the Grave - Eliminate all of "Professor" Rotwang's followers.
+81637:It's Always About Timing - Seize the exact instant to turn the tide.
+81638:Don't Drop It - Absorb and throw a Mandragora with kuuvahki.
+81639:The Thin Black Line - Purify the flowing emanations of Abyssal power.
+81640:Wandered Lonely as a Cloud - Feel the Cottonspring Flowers' soft, springy touch.
+81641:The Shepherd - Take a peaceful stroll alongside Slothsheep.
+81642:In Darkness Perish'd - Collapse under the corruption of Abyssal Decay.
 82001:Nothing Special, Just Practice - Hit a falcon mid-flight with your bow.
 82002:Master Sniper - Strike an opponent's weak point from afar with an Aimed Shot.
 82003:Der Freischütz - Strike an opponent's weak point from extremely far away with an Aimed Shot.
@@ -1256,6 +1293,9 @@
 82301:"Mine Now, Friend!" - ...As expected, your own weapon feels most natural.
 82302:Stranded Constellation - Defeat the Frostnight Herra without it changing its Elemental Type.
 82303:Drzislav's Moving Castle - Defeat a Super-Heavy Landrover: Mechanized Fortress that has overheated and become immobilized at least 2 times.
+82304:As It Should Have Been - Witness the return of the Nightmare Moon.
+82305:Do Not Put a God to the Test - Break the rule set by Il Dottore.
+82306:"We Call This Efficiency" - Break its shield without defeating any Fishers of Hidden Depths summoned by the Lord of the Hidden Depths: Whisperer of Nightmares.
 84000:The End of the Beginning - Complete the Mondstadt Archon Quests.
 84001:The Outlander Who Caught the Wind - Complete "The Outlander Who Caught the Wind."
 84002:For a Tomorrow Without Tears - Complete "For a Tomorrow Without Tears."
@@ -1425,6 +1465,14 @@
 84371:Like an Illusory Dream - Witness the history that once unfolded here.
 84372:Converging Paths - Somewhere in time, you once crossed paths...
 84373:A Nocturne of the Far North - Complete "A Nocturne of the Far North."
+84374:A Traveler on a Winter's Night - To what end will her journey carry her?
+84375:The Wanderer and His Shadow - Perhaps this is the power destined to be yours.
+84376:The Heretic's Utopia - Investigate the energy field created by The Doctor.
+84377:Moonlight From Ages Long Past - Meet the Three Moon Sisters of the past in the prison once used to confine the moon goddesses.
+84378:When the New Moon Returns - From the ashes, the "New Moon" rises, its ascent spinning the wheel of fate anew...
+84379:Sailing Toward Tomorrow - Witness the alliance forged between Nod-Krai's factions.
+84380:To the Moon - Reach the moon's surface.
+84381:True Moon - Complete "True Moon."
 84501:...Odomu? - Successfully conduct cultural exchange with the hilichurls in "Language Exchange."
 84502:Yo dala? - Successfully conduct cultural exchange with the hilichurls in "Poetry Exchange."
 84503:Perfectionist - Complete all of Tsarevich's commissions flawlessly in "Reliable Helper."

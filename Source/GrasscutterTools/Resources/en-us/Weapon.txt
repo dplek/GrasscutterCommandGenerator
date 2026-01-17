@@ -53,6 +53,7 @@
 11516:Peak Patrol Song
 11517:Azurelight
 11518:Athame Artis
+11519:Lightbearing Moonshard
 12101:Waster Greatsword
 12201:Old Merc's Pal
 12301:Ferrous Shadow
@@ -186,6 +187,7 @@
 14519:Vivid Notions
 14520:Nightweaver's Looking Glass
 14521:Reliquary of Truth
+14522:Nocturne's Curtain Call
 15101:Hunter's Bow
 15201:Seasoned Hunter's Bow
 15301:Raven Bow
