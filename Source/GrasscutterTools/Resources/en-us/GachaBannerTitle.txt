@@ -68,6 +68,8 @@ A0238:Moonsong of the Groves
 A0239:The Lone Light Knocks at Night
 A0240:Temptation of the Crimson Sands
 A0241:Rubedo, of White Stone Born
+A0242:Somnias a Luna
+A0243:Harmonious Abundance
 B001:Ode to the Dawn Breeze
 B002:Remembrance of Jade and Stone
 B003:Thunder Rends the Plains on High

@@ -164,7 +164,7 @@ namespace GrasscutterTools.Game.Data
             ["zh-cn"] = "TextMapCHS",
             ["zh-tw"] = "TextMapCHT",
             ["en-us"] = "TextMapEN",
-            ["ru-ru"] = "TextMapRU",
+            // ["ru-ru"] = "TextMapRU",
         };
 
         public void ConvertResources(string projectResourcesDir)

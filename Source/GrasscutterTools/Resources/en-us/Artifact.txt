@@ -358,6 +358,46 @@
 42544:Crystal Tear of the Wanderer
 42553:Frost Devotee's Delirium
 42554:Frost Devotee's Delirium
+43412:Moonlit Offering's Libation
+43413:Moonlit Offering's Libation
+43422:Moonlit Offering's Parting Light
+43423:Moonlit Offering's Parting Light
+43432:Moonlit Offering's Silver Crown
+43433:Moonlit Offering's Silver Crown
+43442:Moonlit Offering's Opulent Dream
+43443:Moonlit Offering's Opulent Dream
+43452:Moonlit Offering's Final Hour
+43453:Moonlit Offering's Final Hour
+43513:Moonlit Offering's Libation
+43514:Moonlit Offering's Libation
+43523:Moonlit Offering's Parting Light
+43524:Moonlit Offering's Parting Light
+43533:Moonlit Offering's Silver Crown
+43534:Moonlit Offering's Silver Crown
+43543:Moonlit Offering's Opulent Dream
+43544:Moonlit Offering's Opulent Dream
+43553:Moonlit Offering's Final Hour
+43554:Moonlit Offering's Final Hour
+44412:Heldenepos's Unspoken Tale
+44413:Heldenepos's Unspoken Tale
+44422:Dawn's Brilliant Oath
+44423:Dawn's Brilliant Oath
+44432:Minnesang of Love and Lament
+44433:Minnesang of Love and Lament
+44442:Windborne Flower's Spruchdichtung
+44443:Windborne Flower's Spruchdichtung
+44452:A Note in Spring's Leich
+44453:A Note in Spring's Leich
+44513:Heldenepos's Unspoken Tale
+44514:Heldenepos's Unspoken Tale
+44523:Dawn's Brilliant Oath
+44524:Dawn's Brilliant Oath
+44533:Minnesang of Love and Lament
+44534:Minnesang of Love and Lament
+44543:Windborne Flower's Spruchdichtung
+44544:Windborne Flower's Spruchdichtung
+44553:A Note in Spring's Leich
+44554:A Note in Spring's Leich
 51110:Goblet of the Sojourner
 51111:Goblet of the Sojourner
 51112:Goblet of the Sojourner

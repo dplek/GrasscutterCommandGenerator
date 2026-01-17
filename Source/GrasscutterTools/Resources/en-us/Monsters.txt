@@ -22,6 +22,7 @@
 20010581:Slime_Electric_02 - [N/A] 3442560241
 20010590:Slime_Electric_04 - [N/A] 3609489745
 20010591:Slime_Electric_04 - [N/A] 401945745
+20010592:Slime_Electric_04 - [N/A] 2771482209
 20010601:Large Electro Slime
 20010602:Large Electro Slime (Mechanicus)
 20010603:Slime_Electric_03 - [N/A] 297871041
@@ -43,6 +44,7 @@
 20010805:Slime_Ice_02 - [N/A] 2338929825
 20010806:Slime_Ice_02 - [N/A] 3164091153
 20010807:Slime_Ice_02_SlimeBallV2 - [N/A] 1145085793
+20010808:Slime_Ice_02 - [N/A] 3750260881
 20010881:Slime_Ice_02 - [N/A] 4201242009
 20010901:Large Cryo Slime
 20010902:Large Cryo Slime - Snowy Mountain Event
@@ -54,12 +56,14 @@
 20010981:Slime_Ice_03 - [N/A] 3735952601
 20010991:Slime_Ice_03 - [N/A] 3986442793
 20010992:Slime_Ice_03_AC - [N/A] 2606536577
+20010993:Slime_Ice_03 - [N/A] 2924991473
 20011001:Hydro Slime
 20011002:Hydro Slime (Mechanicus)
 20011003:Slime_Water_02_SlimeBallV2 - [N/A] 657964425
 20011004:Slime_Water_02_CooperateChallenge - [N/A] 2985561569
 20011081:Slime_Water_02 - [N/A] 1716628585
 20011090:Slime_Water_02 - [N/A] 3127974793
+20011091:Slime_Water_02 - [N/A] 3765994465
 20011101:Large Hydro Slime
 20011102:Large Hydro Slime (Mechanicus)
 20011103:Large Hydro Slime
@@ -69,6 +73,7 @@
 20011191:Slime_Water_03 - [N/A] 3601671865
 20011192:Slime_Water_03_AC - [N/A] 175830833
 20011193:Slime_Water_03_MvM2 - [N/A] 3113104009
+20011194:Slime_Water_03 - [N/A] 749489681
 20011201:Pyro Slime
 20011202:Pyro Slime
 20011203:Pyro Slime (Mechanicus)
@@ -80,6 +85,7 @@
 20011281:Slime_Fire_02 - [N/A] 1865400017
 20011290:Slime_Fire_06 - [N/A] 759614481
 20011291:Slime_Fire_06 - [N/A] 987115569
+20011292:Slime_Fire_06 - [N/A] 2245567729
 20011301:Large Pyro Slime
 20011302:Large Pyro Slime (Mechanicus)
 20011304:Large Pyro Slime
@@ -88,6 +94,7 @@
 20011307:Slime_Fire_03 - [N/A] 1507349745
 20011308:Slime_Fire_03_Explode - [N/A] 163160265
 20011309:Slime_Fire_03_SlimeBallV2 - [N/A] 3527426673
+20011310:Slime_Fire_03 - [N/A] 2654374785
 20011381:Slime_Fire_03 - [N/A] 1103669321
 20011390:Slime_Fire_03_AC - [N/A] 3654132009
 20011401:Geo Slime
@@ -97,6 +104,7 @@
 20011501:Large Geo Slime
 20011502:Large Geo Slime
 20011503:Large Geo Slime (Mechanicus)
+20011504:Slime_Rock_03 - [N/A] 1978188217
 20011581:Slime_Rock_03 - [N/A] 3371607849
 20011601:Hydro Hypostasis Summon: Split (L)
 20011701:Hydro Hypostasis Summon: Split (S)
@@ -107,6 +115,7 @@
 20012201:Effigy_Water_Underling_Ooze_07 - [N/A] 716714657
 20020101:Eye of the Storm
 20020191:Elemental_Wind_02 - [N/A] 1767097505
+20020192:Elemental_Wind_02 - [N/A] 4015077033
 20050201:Oceanid Boar
 20050202:Oceanid Boar (Enhanced)
 20050203:Oceanid Boar
@@ -124,6 +133,7 @@
 20050581:Monster_Oceanid_Tit - [N/A] 2975528057
 20050590:Monster_Oceanid_Tit_02 - [N/A] 3906620841
 20050591:Monster_Oceanid_Tit_02_MvM - [N/A] 54180473
+20050593:Monster_Oceanid_Tit_02_MvM - [N/A] 1272751625
 20050601:Oceanid Mallard
 20050602:Oceanid Mallard (Landwalker Version)
 20050603:Oceanid Mallard
@@ -143,6 +153,7 @@
 20051102:Monster_Necalevia_Big_02 - [N/A] 2300719865
 20051103:Monster_Necalevia_Big_02 - [N/A] 924289801
 20051104:Monster_Necalevia_Big_03 - [N/A] 2473475609
+20051105:Monster_Necalevia_Big_03 - [N/A] 41908241
 20051301:Monster_Narcissusborn_Underling_Small_01 - [N/A] 1011837441
 20051302:Monster_Narcissusborn_Underling_Small_02 - [N/A] 3051456465
 20051303:Monster_Narcissusborn_Underling_Small_02 - [N/A] 3301174921
@@ -159,13 +170,16 @@
 20060481:Sylph_Ice_01 - [N/A] 3638534065
 20060490:Sylph_Ice_02 - [N/A] 1165765169
 20060491:Sylph_Ice_02 - [N/A] 2598669153
+20060492:Sylph_Ice_02 - [N/A] 3567945321
 20060501:Electro Specter
 20060581:Sylph_Electric_01 - [N/A] 1346991849
 20060591:Sylph_Electric_02 - [N/A] 917214273
+20060592:Sylph_Electric_02 - [N/A] 2585910489
 20060601:Pyro Specter
 20060681:Sylph_Fire_01 - [N/A] 2020892233
 20060690:Sylph_Fire_02 - [N/A] 242072433
 20060691:Sylph_Fire_02 - [N/A] 3712658841
+20060692:Sylph_Fire_02 - [N/A] 1281631889
 20060701:Sylph_Grass_01 - [N/A] 586909705
 20060781:Sylph_Grass_01 - [N/A] 1523065297
 20080101:Monster_Moonbeast_Electric_01 - [N/A] 403753833
@@ -176,6 +190,16 @@
 20080302:Monster_Moonbeast_Fire_01 - [N/A] 1699262833
 20080401:Monster_Moonbeast_Ice_01 - [N/A] 1527863049
 20080402:Monster_Moonbeast_Ice_01 - [N/A] 627254329
+20080501:Monster_Moonbeast_Water_01 - [N/A] 1355332129
+20080502:Monster_Moonbeast_Water_01 - [N/A] 1117255833
+20080601:Monster_Moonbeast_Wind_01 - [N/A] 3180425809
+20080602:Monster_Moonbeast_Wind_01 - [N/A] 3434810617
+20080701:Monster_Moonbeast_Rock_01 - [N/A] 4025086769
+20080702:Monster_Moonbeast_Rock_01 - [N/A] 48889817
+20081201:Mandragora_Elite - [N/A] 3312792921
+20081202:Mandragora_Elite_Abyss - [N/A] 430184593
+20081301:Mandragora_Tiny - [N/A] 543021417
+20081302:Mandragora_Tiny_Abyss - [N/A] 1301757137
 21010101:Hilichurl
 21010102:Hilichurl (Mechanicus)
 21010103:Hili_None_01 - [N/A] 1925341953
@@ -185,6 +209,7 @@
 21010107:Hili_None_01 - [N/A] 2425190145
 21010108:Hili_None_01_SlimeBallV2 - [N/A] 3251631513
 21010109:Hili_None_01_CooperateChallenge - [N/A] 705847089
+21010110:Hili_None_01_NoAI - [N/A] 884732257
 21010181:Hili_None_01 - [N/A] 3091545697
 21010201:Hilichurl Fighter
 21010202:Hili_None_01_Club - [N/A] 518903577
@@ -193,6 +218,7 @@
 21010281:Hili_None_01_Club - [N/A] 148649137
 21010290:Hili_None_02_Club - [N/A] 2282353529
 21010291:Hili_None_02_Club - [N/A] 3134370113
+21010292:Hili_None_02_Club - [N/A] 1494217377
 21010299:Hili_None_01_Club_NoAI - [N/A] 1500968553
 21010301:Wooden Shield Hilichurl Guard
 21010302:Wooden Shield Hilichurl Guard (Mechanicus)
@@ -211,6 +237,7 @@
 21010581:Hili_Fire_Range - [N/A] 997038873
 21010582:Hili_Fire_Range_Multi - [N/A] 2755513225
 21010591:Hili_Fire_Range - [N/A] 2642563401
+21010592:Hili_Fire_Range - [N/A] 3312660809
 21010601:Hilichurl Grenadier
 21010603:Hilichurl Grenadier
 21010681:Hili_Fire_Bomb - [N/A] 838214889
@@ -224,12 +251,14 @@
 21010982:Hili_Ice_Range_Multi - [N/A] 1237213681
 21010990:Hili_Ice_Range_03 - [N/A] 2345480137
 21010991:Hili_Ice_Range_03 - [N/A] 3868246185
+21010992:Hili_Ice_Range_03 - [N/A] 2948268817
 21011001:Electro Hilichurl Shooter
 21011002:Test_Varied Electro Hilichurl Shooter
 21011081:Hili_Electric_Range - [N/A] 2022453977
 21011082:Hili_Electric_Range_Multi - [N/A] 3012953161
 21011090:Hili_Electric_Range_03 - [N/A] 4254195473
 21011091:Hili_Electric_Range_03 - [N/A] 2320982777
+21011092:Hili_Electric_Range_03 - [N/A] 709465233
 21011201:Rock Shield Hilichurl Guard
 21011202:Rock Shield Hilichurl Guard (Mechanicus)
 21011281:Hili_None_01_RockShield - [N/A] 2602064417
@@ -260,6 +289,7 @@
 21020282:Brute_None_Axe - [N/A] 1576743033
 21020290:Brute_None_Axe_01 - [N/A] 2024375625
 21020291:Brute_None_Axe_01 - [N/A] 2994100073
+21020292:Brute_None_Axe_01 - [N/A] 741739681
 21020299:Brute_None_Axe_NoAI - [N/A] 4081842953
 21020301:Rock Shieldwall Mitachurl
 21020302:Rock Shieldwall Mitachurl (Mechanicus)
@@ -273,6 +303,7 @@
 21020491:Brute_Ice_None_01 - [N/A] 2359923689
 21020492:Brute_Ice_None_02_MvM2 - [N/A] 1993662473
 21020493:Brute_Ice_None_03 - [N/A] 1279528241
+21020494:Brute_Ice_None_01 - [N/A] 4090805249
 21020501:Stonehide Lawachurl
 21020502:Stonehide Lawachurl (Mechanicus)
 21020503:Brute_Rock_None_ElectricHercules - [N/A] 4284982537
@@ -301,6 +332,7 @@
 21030181:Shaman_Water_01 - [N/A] 3149869785
 21030190:Shaman_Water_02 - [N/A] 1877774473
 21030191:Shaman_Water_03 - [N/A] 2212978593
+21030192:Shaman_Water_03 - [N/A] 672733385
 21030201:Dendro Samachurl
 21030202:Dendro Samachurl (Mechanicus)
 21030203:Dendro Samachurl
@@ -314,6 +346,7 @@
 21030382:Shaman_Wind_01_WindZoneEnhance - [N/A] 3892014745
 21030383:Shaman_Wind_01 - [N/A] 3302606601
 21030391:Shaman_Wind_02 - [N/A] 3581832089
+21030392:Shaman_Wind_02 - [N/A] 2667846329
 21030401:Geo Samachurl
 21030402:Geo Samachurl
 21030403:Geo Samachurl (Mechanicus)
@@ -329,6 +362,7 @@
 21030603:Electro Samachurl - Enhanced Support
 21030681:Shaman_Electric_01 - [N/A] 37022969
 21030701:Shaman_None_01 - [N/A] 1672096257
+21030702:Shaman_None_01 - [N/A] 2645488409
 21040101:Hilistray_Wind_01 - [N/A] 641948121
 21040181:Hilistray_Wind_01 - [N/A] 3420404417
 21040182:Hilistray_Wind_01 - [N/A] 842581561
@@ -336,6 +370,7 @@
 21040281:Hilistray_Water_01 - [N/A] 3700380209
 21040282:Hilistray_Water_01 - [N/A] 358646537
 21040291:Hilistray_Water_02 - [N/A] 1244821113
+21040292:Hilistray_Water_02 - [N/A] 984182241
 22010101:Pyro Abyss Mage
 22010102:Test_Shield-Enhanced Pyro Abyss Mage
 22010103:Test_Teleport-Enhanced Pyro Abyss Mage
@@ -377,12 +412,14 @@
 22040201:Thundercraven Rifthound Whelp
 22040202:Hound_Kanis_Electric_01_Crystallization - [N/A] 2152008849
 22040203:Hound_Kanis_Electric_01 - [N/A] 3494860345
+22040204:Hound_Kanis_Electric_Institute - [N/A] 845894089
 22050101:Rockfond Rifthound
 22050102:Hound_Riftstalker_Rock_01_Crystallization - [N/A] 1530750273
 22050103:Hound_Riftstalker_Rock_03 - [N/A] 792010129
 22050201:Thundercraven Rifthound
 22050202:Hound_Riftstalker_Electric_01_Crystallization - [N/A] 661857473
 22050203:Hound_Riftstalker_Electric_01 - [N/A] 2595699489
+22050205:Hound_Riftstalker_Electric_Institute - [N/A] 3057757545
 22070101:Shadowy Husk: Standard Bearer
 22070102:Shadowy Husk: Standard Bearer
 22070201:Shadowy Husk: Line Breaker
@@ -439,6 +476,8 @@
 22130002:Monster_WildHunt_Female_02 - [N/A] 2653669713
 22130003:Monster_WildHunt_Female_01 - [N/A] 1182922417
 22130004:Monster_WildHunt_Female_02 - [N/A] 4123426849
+22130005:Monster_WildHunt_Female_01_Quest - [N/A] 939397393
+22130006:Monster_WildHunt_Female_02_Quest - [N/A] 1845521873
 22130101:Monster_WildHunt_Male_01 - [N/A] 1726517761
 22130102:Monster_WildHunt_Male_02 - [N/A] 925245169
 22130103:Monster_WildHunt_Male_03 - [N/A] 2315727673
@@ -448,24 +487,42 @@
 22130107:Monster_WildHunt_Female_02 - [N/A] 3027625633
 22130108:Monster_WildHunt_Female_01 - [N/A] 3812085449
 22130109:Monster_WildHunt_Female_02 - [N/A] 888068689
+22130110:Monster_WildHunt_Male_01_Quest - [N/A] 2024963657
+22130111:Monster_WildHunt_Male_02_Quest - [N/A] 3413974057
+22130112:Monster_WildHunt_Male_03_Quest - [N/A] 433188753
+22130113:Monster_WildHunt_Male_04_Quest - [N/A] 178550369
 22130201:Monster_WildHunt_MuscleMan_01 - [N/A] 10828489
 22130202:Monster_WildHunt_MuscleMan_02 - [N/A] 3917147753
 22130203:Monster_WildHunt_MuscleMan_01 - [N/A] 677054561
 22130204:Monster_WildHunt_MuscleMan_01 - [N/A] 945355249
 22130205:Monster_WildHunt_MuscleMan_02 - [N/A] 4086253249
+22130206:Monster_WildHunt_MuscleMan_01_Quest - [N/A] 1457748857
+22130207:Monster_WildHunt_MuscleMan_02_Quest - [N/A] 1775132097
 22131001:Monster_WildHunt_Elite_01 - [N/A] 2108929609
+22131002:Monster_WildHunt_Elite_01_Quest - [N/A] 4184633889
+22131003:Monster_WildHunt_Elite_01_AbyssCity - [N/A] 981161153
 22132001:Monster_WildHunt_Male_Sigurd - [N/A] 3033241569
 22132002:Monster_WildHunt_Male_Sigurd_Abyss - [N/A] 4086908241
 22132003:Monster_WildHunt_Male_Sigurd - [N/A] 4082280569
 22132004:Monster_WildHunt_Male_Sigurd_Abyss - [N/A] 1373261457
 22132005:Monster_WildHunt_Male_Sigurd_Abyss - [N/A] 3631406665
+22140101:Monster_Lloigor_Sub_01 - [N/A] 3166451481
+22140102:Monster_Lloigor_Sub_01_Abyss - [N/A] 273420489
+22140103:Monster_Lloigor_Sub_01_WQ - [N/A] 1086635649
+22140111:Monster_Lloigor_Sub_01_Summon - [N/A] 1474128401
+22140112:Monster_Lloigor_Sub_01_SummonAbyss - [N/A] 2465649497
+22140113:Monster_Lloigor_Sub_01_SummonWQ - [N/A] 4240115513
+22140114:Monster_Lloigor_Sub_01_Summon - [N/A] 3627483049
+22140115:Monster_Lloigor_Sub_01_Summon - [N/A] 3249442049
 23010101:Fatui Skirmisher - Cryogunner Legionnaire
+23010102:Skirmisher_Male_Fat_SprayGun_Ice_01 - [N/A] 2786421097
 23010201:Fatui Skirmisher - Hydrogunner Legionnaire
 23010301:Fatui Skirmisher - Electrohammer Vanguard
 23010401:Fatui Skirmisher - Geochanter Bracer
 23010501:Fatui Skirmisher - Anemoboxer Vanguard
 23010502:Skirmisher_Male_Strong_Gloves_Wind_02 - [N/A] 4092413793
 23010601:Fatui Skirmisher - Pyroslinger Bracer
+23010602:Skirmisher_Male_Standard_Rifle_Fire_01 - [N/A] 296567873
 23011101:Skirmisher_Male_Fat_SprayGun_Ice_02 - [N/A] 159244633
 23011102:Skirmisher_Male_Fat_SprayGun_Ice_03 - [N/A] 3396206865
 23011301:Skirmisher_Male_Strong_GreatHammer_Electric_02 - [N/A] 328640969
@@ -492,6 +549,8 @@
 23060503:Fatuus_Escadron_Ice_02 - [N/A] 79757697
 23070101:Human_Male_Standard_Gun_01 - [N/A] 3963034537
 23070102:Human_Male_Standard_Gun_01 - [N/A] 1422460417
+23070105:NPC_NodKrai_Male_Standard_LightKeeperGunMan_7624 - [N/A] 1423954233
+23070106:NPC_NodKrai_Male_Standard_Rollon_7184 - [N/A] 191633905
 23071101:Human_Female_Gun_01 - [N/A] 1750016465
 23071102:Human_Female_Gun_02 - [N/A] 2104428993
 23072101:Human_MuscleMan_Shield_01 - [N/A] 3478950193
@@ -508,10 +567,13 @@
 23078102:Human_Male_Standard_NoWeapon_BombBackpack_01 - [N/A] 1476063369
 23079101:Oprichnik_Male_Strong_LanceArquebus_01 - [N/A] 2535600097
 23079102:Oprichnik_Male_Strong_LanceArquebus_01 - [N/A] 3610268945
+23079104:Oprichnik_Male_Strong_LanceArquebus_01 - [N/A] 1371679689
 23079201:Oprichnik_Male_Fat_CannonShield_01 - [N/A] 2435981281
 23079202:Oprichnik_Male_Fat_CannonShield_01 - [N/A] 2043034249
+23079204:Oprichnik_Male_Fat_CannonShield_01 - [N/A] 2765557001
 23079301:prichnik_Female_Slim_MachineGun_01 - [N/A] 2482114905
 23079302:prichnik_Female_Slim_MachineGun_01 - [N/A] 2050597185
+23079304:prichnik_Female_Slim_MachineGun_01 - [N/A] 2582501977
 23079401:Oprichnik_Male_Strong_LanceArquebus_01 - [N/A] 999775617
 23079402:Oprichnik_Male_Strong_LanceArquebus_01 - [N/A] 2461410841
 23079403:Oprichnik_Male_Strong_LanceArquebus_01 - [N/A] 2205528113
@@ -543,8 +605,10 @@
 24010190:Defender_None_03 - [N/A] 1203739089
 24010191:Defender_None_04 - [N/A] 3145856857
 24010192:Defender_None_05 - [N/A] 2438077345
+24010193:Defender_None_04 - [N/A] 1449574617
 24010201:Ruin Hunter
 24010202:Ruin Hunter (Mechanicus)
+24010203:Formathr_None - [N/A] 2297909409
 24010281:Formathr_None - [N/A] 2103947025
 24010301:Ruin Grader
 24010302:Ruin Grader (Mechanicus)
@@ -553,6 +617,7 @@
 24010305:Konungmathr_None_WQ - [N/A] 2174470953
 24010306:Konungmathr_None - [N/A] 1518409865
 24010307:Konungmathr_None_01_AC - [N/A] 2689119513
+24010308:Konungmathr_None - [N/A] 2331952609
 24010381:Konungmathr_None - [N/A] 2454183009
 24010382:Konungmathr_None - [N/A] 3236356593
 24020101:Ruin Cruiser
@@ -567,6 +632,7 @@
 24020302:Ruin Defender (Weakened)
 24020303:Ruin Defender (Enhanced)
 24020304:Apparatus_Enigma_BionicInsecta_Karkata - [N/A] 3323395121
+24020305:Apparatus_Enigma_BionicInsecta - [N/A] 426692601
 24020381:Apparatus_Enigma_BionicInsecta - [N/A] 2457577849
 24020401:Ruin Scout
 24020402:Ruin Scout (Weakened)
@@ -575,6 +641,7 @@
 24030101:Gargoyle_Airborne_01 - [N/A] 765448937
 24030181:Gargoyle_Airborne_01 - [N/A] 910724809
 24030201:Gargoyle_Ground_01 - [N/A] 3903929633
+24030202:Gargoyle_Ground_01 - [N/A] 1919709905
 24030281:Gargoyle_Ground_01 - [N/A] 379017265
 24030401:Gargoyle_Ground_02 - [N/A] 815735369
 24040101:Monolith_Ordinator_01 - [N/A] 1462919497
@@ -605,6 +672,7 @@
 24060990:MachinaIustitia_Ruggiero_04 - [N/A] 2442754929
 24060991:MachinaIustitia_Ruggiero_04 - [N/A] 1597120025
 24060992:MachinaIustitia_Ruggiero_04_MvM2 - [N/A] 222598561
+24060993:MachinaIustitia_Ruggiero_04 - [N/A] 1442567905
 24061001:MachinaIustitia_Bradamante_01 - [N/A] 3820417257
 24061002:MachinaIustitia_Bradamante_02 - [N/A] 2286290561
 24061101:MachinaIustitia_LengthShifter_01 - [N/A] 3147408705
@@ -624,6 +692,7 @@
 24065103:MachinaIustitia_Sentry_05 - [N/A] 2654153049
 24065201:MachinaIustitia_Pylon_03 - [N/A] 1560844217
 24065202:MachinaIustitia_Pylon_04 - [N/A] 2830294113
+24065203:MachinaIustitia_Pylon_03 - [N/A] 3825000505
 24065301:MachinaIustitia_Recon_03 - [N/A] 8473497
 24065302:MachinaIustitia_Recon_04 - [N/A] 2184517033
 24065401:MachinaIustitia_Probe_03 - [N/A] 4058203913
@@ -636,6 +705,7 @@
 24065702:MachinaIustitia_Assimilator_04 - [N/A] 3834516417
 24065790:MachinaIustitia_Assimilator_90 - [N/A] 410434241
 24065791:MachinaIustitia_Assimilator_90 - [N/A] 2496520769
+24065792:MachinaIustitia_Assimilator_90 - [N/A] 3958463505
 24065801:MachinaIustitia_Ruggiero_03 - [N/A] 3392589561
 24065802:MachinaIustitia_Ruggiero_04 - [N/A] 2337120689
 24065803:MachinaIustitia_Ruggiero_05 - [N/A] 1989788129
@@ -745,6 +815,7 @@
 25010281:Thoarder_Male_Standard_NoWeapon_02 - [N/A] 2390798289
 25010291:Thoarder_Male_Standard_NoWeapon_02_MvM - [N/A] 4128285361
 25010292:Thoarder_Male_Standard_NoWeapon_02_AC - [N/A] 675344457
+25010293:Thoarder_Male_Standard_NoWeapon_02_MvM - [N/A] 367694809
 25010301:Treasure Hoarders: Pyro Potioneer
 25010302:Treasure Hoarders: Pyro Potioneer
 25010303:NPC_Quest_Male_Standard_Oppo_13715 - [N/A] 724448633
@@ -780,7 +851,9 @@
 25010781:Thoarder_Male_Fat_NoWeapon_01 - [N/A] 2772499633
 25010791:Thoarder_Male_Fat_NoWeapon_01 - [N/A] 511345505
 25010792:Thoarder_Male_Fat_NoWeapon_02_AC - [N/A] 683091609
+25010793:Thoarder_Male_Fat_NoWeapon_01 - [N/A] 2909593273
 25010801:NPC_Quest_Male_Standard_Rocky_001 - [N/A] 1664298137
+25010802:NPC_Quest_Male_Standard_Rocky_001 - [N/A] 2454103281
 25020101:Raptor
 25020102:Treasure Hoarders: Raptor
 25020103:NPC_Quest_Male_Standard_Virgil_21027 - [N/A] 2865050201
@@ -865,6 +938,7 @@
 25080381:Samurai_Ronin_03 - [N/A] 2465854769
 25080390:Samurai_Ronin_05 - [N/A] 1736584545
 25080391:Samurai_Ronin_05 - [N/A] 3155081193
+25080392:Samurai_Ronin_05 - [N/A] 2712236529
 25080401:Shogunate Samurai
 25080402:Yoriki Samurai
 25080403:Samurai_Hatamoto_03 - [N/A] 1581579825
@@ -878,6 +952,7 @@
 25100183:Samurai_Kairagi_01 - [N/A] 222568409
 25100190:Samurai_Kairagi_07 - [N/A] 2745601001
 25100191:Samurai_Kairagi_01_MvM - [N/A] 1555754025
+25100192:Samurai_Kairagi_01_MvM - [N/A] 4112681593
 25100201:Pyro Kairagi
 25100202:Samurai_Kairagi_07 - Pyro Kairagi
 25100203:Samurai_Kairagi_02 - [N/A] 4018598265
@@ -887,6 +962,7 @@
 25100290:Samurai_Kairagi_08 - [N/A] 1886860641
 25100291:Samurai_Kairagi_02_MvM - [N/A] 1281160553
 25100292:Samurai_Kairagi_02_AC - [N/A] 1844585217
+25100293:Samurai_Kairagi_02_MvM - [N/A] 1955004633
 25100301:Thunderwraith Kairagi
 25100302:Ochimusha: Ensorcelled Thunder
 25100303:Samurai_Kairagi_10 - [N/A] 1474895577
@@ -898,6 +974,7 @@
 25110291:Vulture_Eremite_Wind_01_MvM - [N/A] 3943488249
 25110301:Scorpion_Eremite_Fire_01 - [N/A] 1458817257
 25110391:Scorpion_Eremite_Fire_01_MvM - [N/A] 1197138721
+25110392:Scorpion_Eremite_Fire_01_MvM - [N/A] 2617363817
 25110401:Chrysopelea_Eremite_Grass_01 - [N/A] 1458817257
 25210101:Eremite_Female_Hatchet_01 - [N/A] 593962337
 25210102:Eremite_Female_Hatchet_02 - [N/A] 655804089
@@ -990,6 +1067,7 @@
 25410382:Eremite_Female_Standard_Oracle_01 - [N/A] 1241360601
 25410391:Eremite_Female_Standard_Oracle_01_MvM - [N/A] 3037874953
 25410392:Eremite_Female_Standard_Oracle_02_AC - [N/A] 283333593
+25410393:Eremite_Female_Standard_Oracle_01_MvM - [N/A] 1703064209
 25410401:Monster_Eremite_Female_Standard_Dancer_01 - [N/A] 1223193297
 25410481:Eremite_Female_Standard_Dancer_01 - [N/A] 548583769
 25500101:Human_Female_NoWeapon_Mosasaurus_01 - [N/A] 3746355721
@@ -1086,13 +1164,18 @@
 25550203:NPC_Quest_Female_Standard_Allpa_15004 - [N/A] 3731211801
 25550204:NPC_Quest_Female_Standard_Flamingo_15009 - [N/A] 4006723489
 25550205:NPC_Quest_Female_Standard_Flamingo_15012 - [N/A] 3809407505
+25550206:NPC_NodKrai_Female_Standard_LightKeeperSwordWoman_7625 - [N/A] 254205313
 25550301:Human_Male_Standard_Sword_01 - [N/A] 2399494297
+25550302:NPC_NodKrai_Male_Standard_Biyueen_7182 - [N/A] 3662221729
+25550303:NPC_NodKrai_Male_Standard_LightKeeperSwordMan_7623 - [N/A] 3238543593
 25550401:Human_Male_Standard_Claymore_01 - [N/A] 534530361
 25550402:NPC_Natlan_Male_Standard_BisonsaurusWarrior_001A - [N/A] 3222631833
 25550403:NPC_Natlan_Male_Standard_BisonsaurusWarrior_001B - [N/A] 3765881993
 25550501:Human_MuscleMan_Claymore_01 - [N/A] 393476129
 25550502:NPC_Quest_MuscleMan_Standard_Flamingo_15010 - [N/A] 151226905
 25550503:NPC_Quest_MuscleMan_Standard_Flamingo_15013 - [N/A] 3217041545
+25550504:NPC_NodKrai_MuscleMan_Standard_Anleifr_7183 - [N/A] 3751044529
+25550505:NPC_NodKrai_MuscleMan_Standard_LightKeeperWarrior_7626 - [N/A] 3520588873
 25550601:Human_Male_Fat_NoWeapon_01 - [N/A] 1802128297
 25550701:Human_Male_Fat_Special_Pacal - [N/A] 1026111241
 25560101:Mascot_SuitActor_Cactus - [N/A] 825345745
@@ -1107,9 +1190,14 @@
 25560204:Mascot_Tenoyollotzin - [N/A] 3992839337
 25560205:Mascot_Tenoyollotzin - [N/A] 1180536201
 25560206:Mascot_Tenoyollotzin - [N/A] 1760465617
+25560207:Mascot_Tenoyollotzin - [N/A] 646575577
 25560301:Mascot_Tenoyollotzin_Hat - [N/A] 514379329
 25560302:Mascot_Tenoyollotzin_Hat - [N/A] 3826019593
 25560303:Mascot_Tenoyollotzin_Hat - [N/A] 531485753
+25600101:Thoarder_Elder_Standard_Hildegard_01 - [N/A] 186110457
+25600102:Thoarder_Elder_Standard_Hildegard_01_Unequipped_ExoSkeleton - [N/A] 186713961
+25600103:Thoarder_Elder_Standard_Hildegard_02 - [N/A] 1278604449
+25600104:Thoarder_Elder_Standard_Hildegard_03 - [N/A] 1838471233
 26010101:Cryo Whopperflower
 26010102:Cryo Whopperflower (Dragonspine Event)
 26010190:Mimik_Ice_MvM - [N/A] 2939225577
@@ -1119,6 +1207,7 @@
 26030181:Wyrm_Rock - [N/A] 3059435841
 26030190:Wyrm_Rock_02 - [N/A] 557038713
 26030191:Wyrm_Rock_02 - [N/A] 1923006081
+26030192:Wyrm_Rock_02 - [N/A] 1926240553
 26040101:Geovishap: Hydro
 26040102:Geovishap: Pyro
 26040103:Geovishap: Cryo
@@ -1153,9 +1242,11 @@
 26060101:Electro Cicin
 26060190:Cicin_Thunder_02 - [N/A] 1457632377
 26060191:Cicin_Thunder_02 - [N/A] 1211497009
+26060192:Cicin_Thunder_02 - [N/A] 3980367377
 26060201:Hydro Cicin
 26060290:Cicin_Water_02 - [N/A] 3625213961
 26060291:Cicin_Water_02 - [N/A] 336495993
+26060292:Cicin_Water_02 - [N/A] 2511544625
 26060301:Cryo Cicin
 26090101:Floating Hydro Fungus
 26090181:Fungus_Un_Gamma_Water_01 - [N/A] 1665501025
@@ -1163,6 +1254,7 @@
 26090191:Fungus_Un_Gamma_Water_01_Capture - [N/A] 4229105793
 26090192:Fungus_Un_Gamma_Water_01 - [N/A] 1383248473
 26090193:Fungus_Un_Gamma_Water_03_AC - [N/A] 659256441
+26090194:Fungus_Un_Gamma_Water_01 - [N/A] 392690401
 26090201:Fungus_Un_Delta_Grass_01 - [N/A] 4206793049
 26090202:Fungus_Un_Delta_Grass_01_02 - [N/A] 3825581857
 26090281:Fungus_Un_Delta_Grass_01 - [N/A] 2572195721
@@ -1175,6 +1267,7 @@
 26090393:Fungus_Un_Delta_Wind_02 - [N/A] 2743236449
 26090394:Fungus_Un_Delta_Wind_02 - [N/A] 343657545
 26090395:Fungus_Un_Delta_Wind_03_AC - [N/A] 518494713
+26090396:Fungus_Un_Delta_Wind_02 - [N/A] 4171683297
 26090401:Fungus_Trois_Epsilon_Electric_01 - [N/A] 2774139065
 26090481:Fungus_Trois_Epsilon_Electric_01 - [N/A] 4151812377
 26090490:Fungus_Trois_Epsilon_Electric_Enemy - [N/A] 783524481
@@ -1210,14 +1303,17 @@
 26100201:Panther_Sacred_Grass_01 - [N/A] 4068909457
 26100301:Monster_Vulture_Sacred_Fire_01 - [N/A] 2399196673
 26100391:Vulture_Sacred_Fire_02 - [N/A] 3777917569
+26100392:Vulture_Sacred_Fire_02 - [N/A] 3933735185
 26100401:Monster_Scorpion_Sacred_Electric_01 - [N/A] 2399196673
 26100491:Scorpion_Sacred_Electric_02 - [N/A] 2042974481
+26100492:Scorpion_Sacred_Electric_02 - [N/A] 468116225
 26100501:Monster_Chrysopelea_Sacred_Wind_01 - [N/A] 2399196673
 26120101:Fungus_Amanita_Unu_Anudatta_Grass_01 - [N/A] 198051785
 26120181:Fungus_Amanita_Unu_Anudatta_Grass_01 - [N/A] 1700747945
 26120201:Fungus_Amanita_Unu_Svarita_Ices_01 - [N/A] 2368019041
 26120281:Fungus_Amanita_Unu_Svarita_Ices_01 - [N/A] 4174675321
 26120291:Fungus_Amanita_Unu_Svarita_Ices_01 - [N/A] 2834954137
+26120292:Fungus_Amanita_Unu_Svarita_Ices_01 - [N/A] 1683078097
 26120301:Fungus_Amanita_Du_Anudatta_Water_01 - [N/A] 3299184601
 26120381:Fungus_Amanita_Du_Anudatta_Water_01 - [N/A] 707562209
 26120382:Fungus_Amanita_Du_Anudatta_Water_01 - [N/A] 2703249025
@@ -1250,13 +1346,18 @@
 26157201:Aplysia_Larva_02 - [N/A] 2494691033
 26160101:HermitCrab_Mature_01_Sea - [N/A] 3328562481
 26160102:HermitCrab_Mature_01_Land - [N/A] 555743185
+26160103:HermitCrab_Mature_01_Land - [N/A] 2060890881
+26160104:HermitCrab_Mature_01_Land - [N/A] 3716154449
+26160105:HermitCrab_Mature_01_Land - [N/A] 2096017569
 26160191:HermitCrab_Mature_01_Land - [N/A] 3372660529
+26160192:HermitCrab_Mature_01_Land - [N/A] 302313337
 26160201:Aplysia_Mature_01_Sea - [N/A] 1713831289
 26160202:Aplysia_Mature_01_Land - [N/A] 2244040649
 26160301:SeaHorse_Mature_01_Sea - [N/A] 1544112625
 26160302:SeaHorse_Mature_01_Land - [N/A] 3992435993
 26160390:SeaHorse_Mature_02 - [N/A] 4085486801
 26160391:SeaHorse_Mature_02 - [N/A] 3929854969
+26160392:SeaHorse_Mature_02 - [N/A] 287969249
 26162101:HermitCrab_Mature_02 - [N/A] 3832936073
 26162201:MantaRay_Larva_03 - [N/A] 1943296953
 26162301:Seal_Larva_02 - [N/A] 1874832521
@@ -1269,6 +1370,7 @@
 26162605:HermitCrab_Mature_Elite - [N/A] 3180125217
 26162606:HermitCrab_Mature_Elite_PlantBomb - [N/A] 2159382857
 26162607:HermitCrab_Mature_Elite - [N/A] 2219995729
+26162608:HermitCrab_Mature_Elite - [N/A] 415386001
 26190201:Striped_01 - [N/A] 4088985337
 26200101:Monster_Natsaurus_Drillhead_Small_01 - [N/A] 1639215081
 26200201:Monster_Natsaurus_Drillhead_Normal_01 - [N/A] 214550865
@@ -1333,6 +1435,15 @@
 26300202:Monster_Magbeast_Rhino_01 - [N/A] 151693401
 26300301:Monster_Magbeast_Squid_01 - [N/A] 1042528897
 26300302:Monster_Magbeast_Squid_01 - [N/A] 3144338761
+26300401:Monster_Magbeast_Steppenwolf_01 - [N/A] 2266289137
+26300402:Monster_Magbeast_Steppenwolf_01 - [N/A] 91249649
+26300501:Monster_Magbeast_Steppenwolf_02_Ice - [N/A] 504858665
+26300502:Monster_Magbeast_Steppenwolf_02_Wind - [N/A] 429559385
+26300503:Monster_Magbeast_Steppenwolf_02_Ice - [N/A] 517859441
+26300504:Monster_Magbeast_Steppenwolf_02_Wind - [N/A] 1126047361
+28010209:Lizard_Laurus_01 - [N/A] 3855600713
+28010210:Lizard_Laurus_01 - [N/A] 3010830337
+28010211:Lizard_Laurus_01 - [N/A] 1472051529
 28010501:NodSquid_01 - [N/A] 3541974905
 28010502:NodSquid_02 - [N/A] 2204373601
 28010601:FauneAbyssale_HermitCrab_Larva_Magnet_N - [N/A] 2720889217
@@ -1421,6 +1532,7 @@
 28020903:Taroumaru
 28020904:Inu_Shihandai_04 - [N/A] 467002241
 28020905:Inu_Shihandai_FunFight_01 - [N/A] 1517375169
+28020906:Inu_Shihandai_02 - [N/A] 2345209881
 28021001:Tortoise_01 - [N/A] 2426305833
 28021002:Tortoise_02 - [N/A] 3520119361
 28021003:Tortoise_03 - [N/A] 870783945
@@ -1481,6 +1593,7 @@
 28022601:Capybara_Nyx_01 - [N/A] 136566617
 28022602:Capybara_Nyx_01 - [N/A] 1507269633
 28022603:Capybara_Nyx_01_Common - [N/A] 1936273753
+28022604:Capybara_Nyx_01_Common - [N/A] 1103019969
 28022701:Capra_01 - [N/A] 1230212345
 28022801:Capra_02 - [N/A] 2203302161
 28022802:Capra_02 - [N/A] 3357259737
@@ -1501,6 +1614,8 @@
 28030108:Crane_Flamingo_01 - [N/A] 1574824449
 28030109:Crane_Flamingo_01 - [N/A] 591160625
 28030110:Crane_Flamingo_TheAbyss - [N/A] 3125327217
+28030111:Crane_Laurus_01 - [N/A] 2055110505
+28030112:Crane_Laurus_01 - [N/A] 218062289
 28030201:Brownwing Falcon
 28030202:Umbertail Falcon
 28030203:Lapis Glede
@@ -1572,6 +1687,10 @@
 28030716:Larvivora_02 - [N/A] 2105318465
 28030717:Cacatuidae_01 - [N/A] 2009833729
 28030718:Cacatuidae_01 - [N/A] 3872137353
+28030719:Falcon_Laurus_01 - [N/A] 801930081
+28030720:Falcon_Laurus_01 - [N/A] 358983593
+28030721:Falcon_Laurus_01 - [N/A] 623079689
+28030722:Falcon_Laurus_01 - [N/A] 2295698105
 28030801:Meleagris_01 - [N/A] 3295501585
 28030802:Meleagris_01 - [N/A] 611631513
 28030901:Penguin_01 - [N/A] 2273315593
@@ -1680,6 +1799,7 @@
 28210206:Domestic Sunny Loach
 28210207:Domestic Marrow Lizard
 28210208:Homeworld_Lizard_05 - [N/A] 4168682209
+28210209:Homeworld_Lizard_Laurus_01 - [N/A] 2152292633
 28210301:Domestic Frog
 28210302:Domestic Mud Frog
 28210303:Domestic Blue Frog
@@ -1753,6 +1873,7 @@
 28230102:Domestic Violet Ibis
 28230104:Homeworld_Crane_01_Lbis - [N/A] 811422561
 28230107:Homeworld_Crane_Flamingo_01 - [N/A] 3863088617
+28230111:Homeworld_Crane_Laurus_01 - [N/A] 3899960769
 28230301:Domestic White Pigeon
 28230302:Domestic Brightcrown Pigeon
 28230303:Domestic Graywing Pigeon
@@ -1777,6 +1898,7 @@
 28230707:Homeworld_Larvivora_01 - [N/A] 4241780953
 28230708:Homeworld_Larvivora_02 - [N/A] 1236262377
 28230709:Homeworld_Cacatuidae_01 - [N/A] 4136266297
+28230710:Homeworld_Falcon_Laurus_01 - [N/A] 748865049
 28230801:Homeworld_Meleagris_01 - [N/A] 1637034305
 28230901:Homeworld_Penguin_01 - [N/A] 2886180649
 28231101:Homeworld_Frigatebird_01_N - [N/A] 4153335681
@@ -1876,23 +1998,30 @@
 84001141:Slime_Rock_02 - [N/A] 89054968
 84001151:Slime_Rock_03 - [N/A] 2009294272
 84101011:Hili_None_01 - [N/A] 2603745200
+84101012:Hili_None_01 - [N/A] 1448447160
 84101021:Hili_None_01_Club - [N/A] 4280143712
 84101051:Hili_Fire_Range - [N/A] 2491664528
+84101052:Hili_Fire_Range_02 - [N/A] 1966026416
 84102011:Brute_None_Shield - [N/A] 2202846464
 84102021:Brute_None_Axe - [N/A] 135344632
+84102022:Brute_None_Axe_02 - [N/A] 678099728
 84102041:Brute_Ice_None - [N/A] 3646470704
+84102042:Brute_Ice_None_02 - [N/A] 1362715384
 84102051:Brute_Rock_None - [N/A] 1689815864
 84102081:Brute_Electric_None - [N/A] 1220918848
 84103011:Shaman_Water_01 - [N/A] 209458592
 84201011:Abyss_Fire_01 - [N/A] 2324885152
 84201021:Abyss_Ice_01 - [N/A] 3780008880
 84201031:Abyss_Water_01 - [N/A] 3267074640
+84201032:Abyss_Water_01 - [N/A] 2764068976
 84201041:Abyss_Electric_01 - [N/A] 3122241120
+84201042:Abyss_Electric_02 - [N/A] 3210227080
 84301011:Skirmisher_Male_Fat_SprayGun_Ice_01 - [N/A] 2074288288
 84301031:Skirmisher_Male_Strong_GreatHammer_Electric_01 - [N/A] 3553568992
 84301041:Skirmisher_Male_Standard_Staff_Rock_01 - [N/A] 2161714584
 84301061:Skirmisher_Male_Standard_Rifle_Fire_01 - [N/A] 882350200
 84401011:Defender_None_01 - [N/A] 946362976
+84401012:Defender_None_02 - [N/A] 3095614664
 84401031:Konungmathr_None - [N/A] 3086252904
 84403011:Gargoyle_Airborne_01 - [N/A] 3388180168
 84501021:Thoarder_Male_Standard_NoWeapon_02 - [N/A] 3835990264
@@ -1956,6 +2085,12 @@
 22121603:TheAbyss_Dendrite_02 - [N/A] 493068097
 22121604:TheAbyss_Dendrite_02 - [N/A] 2130087753
 22121701:TheAbyss_Dendrite_03 - [N/A] 226262401
+22150101:Monster_Lloigor_Primo_01 - [N/A] 2069840521
+22150102:Monster_Lloigor_Primo_01_Abyss - [N/A] 973268705
+22150103:Monster_Lloigor_Primo_01_WQ - [N/A] 4067307097
+22150104:Monster_Lloigor_Primo_01 - [N/A] 1528219305
+22150105:Monster_Lloigor_Primo_01_Abyss - [N/A] 2210967321
+22150106:Monster_Lloigor_Primo_01_Abyss - [N/A] 3344994705
 23090101:Fatuimecha_AMP_02 - [N/A] 3659311561
 23090102:Fatuimecha_AMP_02 - [N/A] 2375216025
 24010110:Samurai_Ningyo_09 - [N/A] 358146977
@@ -2039,6 +2174,9 @@
 26140105:Golem_Centaur - [N/A] 4077482777
 26170101:HermitCrab_Primo_01 - [N/A] 3278035969
 26170102:HermitCrab_Primo_02 - [N/A] 772809505
+26170103:HermitCrab_Primo_01 - [N/A] 3861178001
+26170104:HermitCrab_Primo_01 - [N/A] 1444623625
+26170105:HermitCrab_Primo_03 - [N/A] 3388460737
 26180101:SeaHorse_Primo_Electric_01 - [N/A] 2457009441
 26180102:SeaHorse_Primo_Electric_01_BossEvent - [N/A] 586958361
 26190101:Hermit_Normal_01 - [N/A] 368496321
@@ -2112,6 +2250,12 @@
 29121201:Monster_GiantChess_King_StageB - [N/A] 1197663025
 29121202:Monster_GiantChess_King_StageB_Quest - [N/A] 928583961
 29122000:Monster_GiantChess_DummyMonster - [N/A] 3950131857
+29130101:Monster_Dotorre_01 - [N/A] 2419616993
+29130201:Monster_Dotorre_Moon_01 - [N/A] 338057577
+29130202:Monster_Dotorre_Moon_01 - [N/A] 1126597569
+29130301:Monster_Dotorre_Moon_SummonShadow - [N/A] 103370233
+29130302:Monster_Dotorre_Moon_SummonShadow - [N/A] 3205334017
+29130401:Monster_Dotorre_Drone - [N/A] 1503907865
 29140101:Monster_Rerir_01 - [N/A] 1905994057
 84509011:Samurai_Ningyo_01 - [N/A] 1944139888
 84623031:Monster_Natsaurus_Flamingo_Primo_01 - [N/A] 1045199816
@@ -2227,66 +2371,106 @@
 30010490:Partner_Slime_Wind_03_AC - [N/A] 3101772801
 30010590:Partner_Slime_Electric_04 - [N/A] 1360704329
 30010591:Partner_Slime_Electric_04 - [N/A] 2704437897
+30010592:Partner_Slime_Electric_04 - [N/A] 3933341761
 30010690:Partner_Slime_Electric_03_AC - [N/A] 3545470153
 30010791:Partner_Slime_Electric_03_Positive - [N/A] 1923070529
 30010805:Partner_Slime_Ice_02 - [N/A] 1070821273
+30010808:Partner_Slime_Ice_02 - [N/A] 2139764721
 30010991:Partner_Slime_Ice_03 - [N/A] 2176935721
 30010992:Partner_Slime_Ice_03_AC - [N/A] 1689100873
+30010993:Partner_Slime_Ice_03 - [N/A] 4271362865
+30011091:Partner_Slime_Water_02 - [N/A] 154921761
 30011190:Partner_Slime_Water_02 - [N/A] 2063914665
 30011191:Partner_Slime_Water_03 - [N/A] 685126169
 30011192:Partner_Slime_Water_03_AC - [N/A] 1846838801
+30011193:Partner_Slime_Water_03 - [N/A] 2281962473
 30011290:Partner_Slime_Fire_06 - [N/A] 1945956961
 30011291:Partner_Slime_Fire_06 - [N/A] 2160462457
+30011292:Partner_Slime_Fire_06 - [N/A] 215641369
+30011310:Partner_Slime_Fire_03 - [N/A] 3525707649
 30011390:Partner_Slime_Fire_03_AC - [N/A] 4261565449
+30011504:Slime_Rock_03 - [N/A] 1964825049
 30020191:Partner_Elemental_Wind_01 - [N/A] 515093913
+30020192:Partner_Elemental_Wind_01 - [N/A] 1376135225
 30050501:Partner_Oceanid_Tit - [N/A] 2294162793
 30050590:Partner_Monster_Oceanid_Tit_02 - [N/A] 1992834649
 30050591:Partner_Monster_Oceanid_Tit_02_MvM - [N/A] 3192848977
 30050592:Partner_Monster_Oceanid_Tit_02_MvM2 - [N/A] 651645209
+30050593:Partner_Monster_Oceanid_Tit_02_MvM2 - [N/A] 908010577
 30050601:Partner_Oceanid_Wigeon_02 - [N/A] 903450313
 30050701:Partner_Oceanid_Squirrel - [N/A] 2642015873
+30051105:Monster_Necalevia_Big_03 - [N/A] 3093618457
 30060490:Partner_Sylph_Ice_02 - [N/A] 3052301665
 30060491:Partner_Sylph_Ice_02 - [N/A] 3452164737
 30060492:Partner_Sylph_Ice_03_MvM2 - [N/A] 4191983009
+30060493:Partner_Sylph_Ice_02 - [N/A] 4018492961
 30060591:Partner_Sylph_Electric_01 - [N/A] 2729364193
+30060592:Partner_Sylph_Electric_01 - [N/A] 2962479993
 30060690:Partner_Sylph_Fire_02 - [N/A] 2606395609
 30060691:Partner_Sylph_Fire_02 - [N/A] 4291485529
+30060692:Partner_Sylph_Fire_02 - [N/A] 153539161
+30081201:Mandragora_Elite_Institute - [N/A] 4071241105
 31010290:Partner_Hili_None_02_Club - [N/A] 1348459489
 31010291:Partner_Hili_None_02_Club - [N/A] 1625711097
 31010292:Partner_Hili_None_02_Club_MvM2 - [N/A] 2196065009
+31010293:Partner_Hili_None_02_Club - [N/A] 2434514857
 31010299:Partner_Hili_None_01_Club_NoAI - [N/A] 2055613809
 31010591:Partner_Hili_Fire_Range - [N/A] 1368975609
+31010592:Partner_Hili_Fire_Range - [N/A] 949729033
 31010690:Hili_Fire_Bomb_MvM2 - [N/A] 3586995185
 31010990:Partner_Hili_Ice_Range_03 - [N/A] 318427833
 31010991:Partner_Hili_Ice_Range_03 - [N/A] 2990055689
+31010992:Partner_Hili_Ice_Range_03 - [N/A] 3005060849
 31011090:Partner_Hili_Electric_Range_03 - [N/A] 2029584281
 31011091:Partner_Hili_Electric_Range_03 - [N/A] 2333612465
+31011092:Partner_Hili_Electric_Range_03 - [N/A] 1947913545
 31020290:Partner_Brute_None_Axe_01 - [N/A] 208842305
 31020291:Partner_Brute_None_Axe_01 - [N/A] 3159690217
+31020292:Partner_Brute_None_Axe_01 - [N/A] 4262107425
 31020491:Partner_Brute_Ice_None_01 - [N/A] 1889318969
+31020494:Partner_Brute_Ice_None_01 - [N/A] 2953960473
 31020791:Partner_Brute_Electric_Axe_03 - [N/A] 4018420585
 31030190:Partner_Shaman_Water_02 - [N/A] 3800190729
 31030191:Partner_Shaman_Water_02 - [N/A] 1357439169
+31030192:Partner_Shaman_Water_02 - [N/A] 2838399873
 31030391:Partner_Shaman_Wind_01 - [N/A] 3533500177
+31030392:Partner_Shaman_Wind_01 - [N/A] 3378328673
 31030690:Partner_Shaman_Electric_01_MvM2 - [N/A] 1597301225
+31030702:Shaman_None_01 - [N/A] 2671873225
 31040101:Partner_Hilistray_Wind_01 - [N/A] 1924270545
 31040291:Partner_Hilistray_Water_01 - [N/A] 3916787545
+31040292:Partner_Hilistray_Water_01 - [N/A] 1838740841
 32110201:Ovacua_Order_02 - [N/A] 569946161
 32132001:Monster_WildHunt_Male_Sigurd - [N/A] 4043060113
+33010102:Skirmisher_Male_Fat_SprayGun_Ice_01 - [N/A] 1849100729
 33010301:Skirmisher_Male_Strong_GreatHammer_Electric_01 - [N/A] 480624865
 33010401:Skirmisher_Male_Standard_Staff_Rock_01 - [N/A] 2171127937
 33010501:Skirmisher_Male_Strong_Gloves_Wind_01 - [N/A] 1867664225
 33010601:Skirmisher_Male_Standard_Rifle_Fire_01 - [N/A] 2556438193
+33010602:Skirmisher_Male_Standard_Rifle_Fire_01 - [N/A] 1773880609
+33070101:NPC_NodKrai_Male_Standard_Rollon_7184 - [N/A] 3205622313
+33070102:NPC_NodKrai_Male_Standard_LightKeeperGunMan_7624 - [N/A] 1896745793
+33079104:Oprichnik_Male_Strong_LanceArquebus_01 - [N/A] 3802031097
+33079204:Oprichnik_Male_Fat_CannonShield_01 - [N/A] 3942344745
+33079304:prichnik_Female_Slim_MachineGun_01 - [N/A] 1049163073
 34010190:Partner_Defender_None_03 - [N/A] 2666244393
 34010191:Partner_Defender_None_04 - [N/A] 4122878329
 34010192:Partner_Defender_None_05_MvM2 - [N/A] 2001282321
+34010193:Partner_Defender_None_04 - [N/A] 2680989249
+34010203:Formathr_None - [N/A] 718900825
+34010308:Konungmathr_None - [N/A] 796030145
+34020305:Apparatus_Enigma_BionicInsecta - [N/A] 2316246529
+34030202:Gargoyle_Ground_01 - [N/A] 2629478113
 34060101:Partner_MachinaIustitia_Sentry_01 - [N/A] 68219401
 34060102:Partner_MachinaIustitia_Sentry_01 - [N/A] 1581798833
 34060901:Partner_MachinaIustitia_Ruggiero_02 - [N/A] 2221802481
 34060990:Partner_MachinaIustitia_Ruggiero_04 - [N/A] 1146147913
 34060991:Partner_MachinaIustitia_Ruggiero_04 - [N/A] 2704330601
+34060993:Partner_MachinaIustitia_Ruggiero_04 - [N/A] 1212500905
+34065203:MachinaIustitia_Pylon_03 - [N/A] 956865737
 34065790:Partner_MachinaIustitia_Assimilator_90 - [N/A] 3382698241
 34065791:Partner_MachinaIustitia_Assimilator_90 - [N/A] 738033969
+34065792:Partner_MachinaIustitia_Assimilator_90 - [N/A] 1541405793
 34090101:Partner_ToothTrap_01 - [N/A] 84104033
 34810190:Partner_MvM_TowerFire_01 - [N/A] 2504772937
 34810191:Partner_MvM_TowerFire_02 - [N/A] 3028471225
@@ -2307,12 +2491,15 @@
 35010206:NPC_Quest_Male_Standard_MoonchildC_15540 - [N/A] 2960201945
 35010207:NPC_Quest_Male_Standard_Razmaspes_15958 - [N/A] 2522173193
 35010291:Partner_Thoarder_Male_Standard_NoWeapon_02 - [N/A] 3169981481
+35010293:Partner_Thoarder_Male_Standard_NoWeapon_02 - [N/A] 1764852473
 35010301:NPC_Quest_Male_Standard_Aatso_15538 - [N/A] 4268683161
 35010390:Partner_Thoarder_Male_Standard_NoWeapon_Fire_02 - [N/A] 642225153
 35010391:Partner_Thoarder_Male_Standard_NoWeapon_Fire_02 - [N/A] 1872642777
 35010601:Thoarder_Male_Standard_NoWeapon_Ice_01 - [N/A] 3509479025
 35010602:Thoarder_Male_Standard_NoWeapon_Ice_02 - [N/A] 2367366025
 35010791:Partner_Thoarder_Male_Fat_NoWeapon_01 - [N/A] 2444506953
+35010793:Partner_Thoarder_Male_Fat_NoWeapon_01 - [N/A] 3668866793
+35010802:NPC_Quest_Male_Standard_Rocky_001 - [N/A] 3950896305
 35020201:NPC_Fontaine_Male_Standard_Blanc_5233 - [N/A] 295013961
 35020202:NPC_Fontaine_Male_Standard_Bleu_5232 - [N/A] 2091883585
 35020203:Thoarder_Male_Standard_Crossbow_08 - [N/A] 3749661921
@@ -2328,12 +2515,15 @@
 35070102:Thoarder_MuscleMan_Hammer_06 - [N/A] 2033404833
 35080390:Partner_Samurai_Ronin_05 - [N/A] 1710869545
 35080391:Partner_Samurai_Ronin_05 - [N/A] 3167108745
+35080392:Partner_Samurai_Ronin_05 - [N/A] 1186680329
 35100101:Partner_Samurai_Kairagi_01 - [N/A] 1748698097
 35100190:Partner_Samurai_Kairagi_07 - [N/A] 1725122433
 35100191:Partner_Samurai_Kairagi_01_MvM - [N/A] 1852943609
+35100192:Partner_Samurai_Kairagi_01_MvM - [N/A] 2935708057
 35100201:Partner_Samurai_Kairagi_02 - [N/A] 1083912321
 35100290:Partner_Samurai_Kairagi_08 - [N/A] 3265297905
 35100291:Partner_Samurai_Kairagi_02_MvM - [N/A] 4019782961
+35100293:Partner_Samurai_Kairagi_02_MvM - [N/A] 608118617
 35110101:NPC_Fontaine_Female_Standard_Genevieve_5260 - [N/A] 465377969
 35110102:NPC_Fontaine_Female_Standard_Genevieve_5260 - [N/A] 4203920553
 35110103:NPC_Fontaine_Female_Standard_Genevieve_5260 - [N/A] 387141537
@@ -2341,6 +2531,7 @@
 35110291:Partner_Vulture_Eremite_Wind_01_MvM - [N/A] 2441270721
 35110301:NPC_Fontaine_Male_Standard_Poiret_5261 - [N/A] 2390985785
 35110391:Partner_Scorpion_Eremite_Fire_01_MvM - [N/A] 2685707441
+35110392:Partner_Scorpion_Eremite_Fire_01_MvM - [N/A] 3633268297
 35210101:Gilded Brigade - One-Handed Axe (Forest Book)
 35210102:Jungle Leopard
 35210103:NPC_Quest_Female_Standard_Eremite_02 - [N/A] 3895331681
@@ -2369,6 +2560,7 @@
 35410201:Partner_Eremite_Female_Standard_Longbow_01 - [N/A] 2996340361
 35410291:Partner_Eremite_Female_Standard_Longbow_01_MvM - [N/A] 1057706849
 35410391:Partner_Eremite_Female_Standard_Oracle_01_MvM - [N/A] 3079825001
+35410392:Partner_Eremite_Female_Standard_Oracle_01_MvM - [N/A] 3526885681
 35500101:Partner_Human_Female_NoWeapon_Mosasaurus_Spirit_01 - [N/A] 882704201
 35500102:Human_Female_NoWeapon_Mosasaurus_02 - [N/A] 881217609
 35500201:Monster_Human_Female_Sword_Bona - [N/A] 1955775497
@@ -2424,6 +2616,7 @@
 35550207:Human_Female_Sword_08 - [N/A] 2243478297
 35550208:Human_Female_Sword_10 - [N/A] 3032908593
 35550209:NPC_Quest_Female_Standard_Cochitta_14601 - [N/A] 1128884353
+35550210:NPC_NodKrai_Female_Standard_LightKeeperSwordWoman_7625 - [N/A] 139552601
 35550301:Human_Male_Standard_Sword_02 - [N/A] 3219376833
 35550302:Human_Male_Standard_Sword_03 - [N/A] 616275377
 35550303:Human_Male_Standard_Sword_04 - [N/A] 2380522385
@@ -2433,6 +2626,13 @@
 35550307:NPC_Mengde_Male_Standard_Raymond_1447 - [N/A] 122116369
 35550308:NPC_Mengde_Male_Strong_Athos_1457 - [N/A] 3278469233
 35550309:NPC_Mengde_Male_Standard_Porthos_1459 - [N/A] 3278209065
+35550310:NPC_NodKrai_Male_Standard_Biyueen_7182 - [N/A] 2106172841
+35550311:NPC_NodKrai_Male_Standard_LightKeeperSwordMan_7623 - [N/A] 2729110297
+35550312:NPC_NodKrai_Male_Standard_GhostLightKeeperGunMan_22363 - [N/A] 1069468257
+35550313:NPC_NodKrai_Male_Standard_GhostLightKeeperSwordMan_22362 - [N/A] 333375857
+35550314:NPC_NodKrai_Male_Standard_GhostLightKeeperSwordMan_22364 - [N/A] 3104568137
+35550315:NPC_NodKrai_Male_Standard_GhostLightKeeperSwordMan_22365 - [N/A] 3937148361
+35550316:NPC_NodKrai_Male_Standard_Valdis_7611 - [N/A] 1993716465
 35550401:Human_Male_Standard_Claymore_02 - [N/A] 2902819865
 35550402:Human_Male_Standard_Claymore_03 - [N/A] 281921985
 35550403:Human_Male_Standard_Claymore_04 - [N/A] 1002179857
@@ -2440,22 +2640,29 @@
 35550501:Human_MuscleMan_Claymore_02 - [N/A] 1226858921
 35550502:Human_MuscleMan_Claymore_03 - [N/A] 1709125473
 35550503:Human_MuscleMan_Claymore_04 - [N/A] 1723546945
+35550504:NPC_NodKrai_MuscleMan_Standard_Anleifr_7183 - [N/A] 45955529
+35550505:NPC_NodKrai_MuscleMan_Standard_Nikita_7180 - [N/A] 59061721
+35550506:NPC_NodKrai_MuscleMan_Standard_LightKeeperWarrior_7626 - [N/A] 3514517689
 35550601:Human_Male_Fat_NoWeapon_03 - [N/A] 2354569937
 35550701:Human_Male_Fat_Special_Pacal - [N/A] 3546287225
 36030190:Partner_Wyrm_Rock_02 - [N/A] 4078935249
 36030191:Partner_Wyrm_Rock_02 - [N/A] 2069693729
+36030192:Partner_Wyrm_Rock_02 - [N/A] 1867037385
 36050601:Drake_DeepSea_Water_01 - [N/A] 478535833
 36060190:Partner_Cicin_Thunder_02 - [N/A] 90474689
 36060191:Partner_Cicin_Thunder_02 - [N/A] 2470977633
 36060192:Partner_Cicin_Thunder_02_MvM2 - [N/A] 45739689
+36060193:Partner_Cicin_Thunder_02 - [N/A] 2953860897
 36060290:Partner_Cicin_Water_02 - [N/A] 4196823585
 36060291:Partner_Cicin_Water_02 - [N/A] 557041409
 36060292:Partner_Cicin_Water_02_MvM2 - [N/A] 2956747977
+36060293:Partner_Cicin_Water_02 - [N/A] 2669272505
 36090190:Activity - Friendly Flying Water
 36090191:Partner_Fumgus_Un_Gamma_Water - [N/A] 3593336553
 36090192:Partner_Fumgus_Un_Gamma_Water - [N/A] 2780786345
 36090193:Partner_Fungus_Un_Gamma_Water_02 - [N/A] 2505990681
 36090194:Partner_Fungus_Un_Gamma_Water_03_AC - [N/A] 3004896489
+36090195:Partner_Fungus_Un_Gamma_Water_02 - [N/A] 2630290809
 36090290:Activity - Friendly Flying Grass
 36090291:Partner_Fumgus_Un_Delta_Grass - [N/A] 1407448081
 36090292:Partner_Fumgus_Un_Delta_Grass - [N/A] 3462395281
@@ -2465,6 +2672,7 @@
 36090393:Partner_Fungus_Un_Delta_Wind_02 - [N/A] 2231278801
 36090394:Partner_Fungus_Un_Delta_Wind_02 - [N/A] 2646571265
 36090395:Partner_Fungus_Un_Delta_Wind_03_AC - [N/A] 4279582513
+36090396:Partner_Fungus_Un_Delta_Wind_02 - [N/A] 348356889
 36090490:Activity - Friendly Spinning Thunder
 36090491:Partner_Fumgus_Trois_Epsilon_Electric - [N/A] 4089561145
 36090492:Partner_Fumgus_Trois_Epsilon_Electric - [N/A] 2409750417
@@ -2490,11 +2698,16 @@
 36091091:Partner_Fumgus_Deux_Delta_Electric - [N/A] 2177474001
 36091092:Partner_Fumgus_Deux_Delta_Electric - [N/A] 1670919961
 36100391:Partner_Vulture_Sacred_Fire_02 - [N/A] 1235140297
+36100392:Partner_Vulture_Sacred_Fire_02 - [N/A] 2892764641
 36100491:Partner_Scorpion_Sacred_Electric_02 - [N/A] 1067625337
+36100492:Partner_Scorpion_Sacred_Electric_02 - [N/A] 3062822689
 36120291:Partner_Fungus_Amanita_Unu_Svarita_Ices_01 - [N/A] 697767297
+36120292:Partner_Fungus_Amanita_Unu_Svarita_Ices_01 - [N/A] 2445720441
 36160191:Partner_HermitCrab_Mature_01_Land - [N/A] 348492361
+36160192:Partner_HermitCrab_Mature_01_Land - [N/A] 4225316809
 36160390:Partner_SeaHorse_Mature_02 - [N/A] 2198861673
 36160391:Partner_SeaHorse_Mature_02 - [N/A] 3412406449
+36160392:Partner_SeaHorse_Mature_02 - [N/A] 3811199761
 36200201:Partner_Natsaurus_Drillhead_Normal_01 - [N/A] 2611536817
 36200202:Partner_Natsaurus_Drillhead_Normal_01 - [N/A] 2902495353
 36200203:Monster_Natsaurus_Drillhead_Normal_01 - [N/A] 937098793
@@ -2522,9 +2735,12 @@
 36260802:Wayob_Shamansaurus_02 - [N/A] 2961313361
 36260803:Wayob_Shamansaurus_02 - [N/A] 2595904561
 36270190:Monster_Lava_Solid_03_MvM2 - [N/A] 3168439673
+38020906:Inu_Shihandai_02 - [N/A] 2137890937
 38022001:Macrauchenia_01 - [N/A] 2677586281
+38022604:Capybara_Nyx_01_Common - [N/A] 405474089
 38023003:Wolf_03 - [N/A] 2504829361
 38023004:Wolf_04 - [N/A] 956289937
+38023005:Wolf_05 - [N/A] 1470171481
 38050590:Partner_Animal_Electrohercules_01 - [N/A] 2442210649
 38050591:Partner_Animal_Electrohercules_02 - [N/A] 1954661401
 38050592:Partner_Animal_Electrohercules_03_01 - [N/A] 1160729777

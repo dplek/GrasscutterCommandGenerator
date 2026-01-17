@@ -41,6 +41,7 @@
 44:[CHS] - 挑战因子测试7(test)
 45:[CHS] - 挑战因子测试8(test)
 47:[CHS] - 4.1月度主题因子测试1(test)
+48:[N/A] 3315745584
 49:[N/A] 1528337728
 50:[CHS] - 水boss测试场景(test)
 55:[CHS] - 壶中天挑战玩法测试(test)
@@ -150,6 +151,10 @@
 166:Memories: Wager With the Mages II
 167:Memories: Wager With the Mages III
 168:Memories: Wager With the Mages IV
+169:Memories: Twilight of the Heretic I
+170:Memories: Twilight of the Heretic II
+171:Memories: Twilight of the Heretic III
+172:Memories: Twilight of the Heretic IV
 1000:Stage Gameplay Test
 1001:Deep Within the Temple of the Falcon
 1002:Find the Stolen Book
@@ -330,6 +335,7 @@
 1266:[N/A] 395785176
 1267:[N/A] 1265241320
 1268:[CHS] - test 6.0 TA性能测试地城
+1269:[N/A] 3202983184
 1270:[N/A] 109996352
 1271:[CHS] - （test）6.1主线猎月人回忆地城—棋盘玩法（test）
 1272:[CHS] - 6.0苔藓球内部空间（test）
@@ -343,11 +349,20 @@
 1280:[CHS] - 杜林线镜像地城（test）
 1281:[CHS] - 6.1主线镜像大世界——阿如村（test）
 1282:[N/A] 1131340408
+1283:[CHS] - 6.3海灯节白马地城1（test）
+1284:[CHS] - 6.3海灯节白马地城2（test）
+1285:[CHS] - 6.3海灯节白马地城3（test）
+1286:[CHS] - 6.3海灯节白马地城4（test）
 1289:[CHS] - （test）6.1主线—镜像须弥图书馆
 1290:[N/A] 2241507024
+1291:[N/A] 104885448
+1292:[CHS] - 6.3破败月宫（test）
+1293:[CHS] - 6.3主线下半地城（test）
 1294:[N/A] 3189841296
 1295:[N/A] 3582351384
 1296:[N/A] 1953161776
+1297:[N/A] 3323655184
+1298:[CHS] - 6.3少女花田（test）
 1299:[N/A] 994090112
 1300:[N/A] 1155438600
 2000:Lost Treasure of Arcadia
@@ -662,6 +677,18 @@
 3198:[CHS] - 爬塔（双路）(test)
 3199:[CHS] - 爬塔（双路）(test)
 3259:[CHS] - 爬塔（双路）(test)
+3260:[CHS] - 爬塔（双路）(test)
+3261:[CHS] - 爬塔（双路）(test)
+3262:[CHS] - 爬塔（双路）(test)
+3263:[CHS] - 爬塔（双路）(test)
+3264:[CHS] - 爬塔（双路）(test)
+3265:[CHS] - 爬塔（双路）(test)
+3266:[CHS] - 爬塔（双路）(test)
+3267:[CHS] - 爬塔（双路）(test)
+3268:[CHS] - 爬塔（双路）(test)
+3269:[CHS] - 爬塔（双路）(test)
+3270:[CHS] - 爬塔（双路）(test)
+3271:[CHS] - 爬塔（双路）(test)
 3200:Tower Descent - Floor 11: Chamber 1
 3201:[CHS] - 爬塔第二档-MC第42关（双路）(test)
 3202:[CHS] - 爬塔第二档-MC第43关（双路）(test)
@@ -1189,6 +1216,10 @@
 4680:Domain of Forgery: Lunar Oblation II
 4681:Domain of Forgery: Lunar Oblation III
 4682:Domain of Forgery: Lunar Oblation IV
+4683:Domain of Blessing: Sacred Vault I
+4684:Domain of Blessing: Sacred Vault II
+4685:Domain of Blessing: Sacred Vault III
+4686:Domain of Blessing: Sacred Vault IV
 5000:Domain of Blessing: Fires of Purification I
 5001:Domain of Blessing: Fires of Purification I
 5002:Domain of Blessing: Fires of Purification II
@@ -1303,6 +1334,11 @@
 5311:[CHS] - (test)奇趣秘园2.0
 5312:3.8 Adventurer's Trials — Phase 2
 5313:5.2 Adventurer's Trials — Phase 3
+5314:[N/A] 3955095800
+5315:[N/A] 2046045616
+5316:[N/A] 3686873056
+5317:[N/A] 525784040
+5318:[N/A] 656269856
 5321:4.3 Film Festival Mechanical Ball Gameplay 1
 5322:4.3 Film Festival Mechanical Ball Gameplay 2
 5323:4.3 Film Festival Mechanical Ball Gameplay 3
@@ -1440,6 +1476,9 @@
 6129:[N/A] 3246942088
 6130:[N/A] 2769887272
 6131:[N/A] 3757161656
+6132:[N/A] 572557152
+6133:[N/A] 1528815120
+6134:[N/A] 1072792448
 7000:The Wind from the Reeds Topples Well-Fed Trees
 7001:The Wind from the Reeds Topples Well-Fed Trees: Difficulty 1
 7002:Stop to Rest Your Weary Head, Paint the Bridge Where Adepti Tread: Difficulty 2
@@ -1985,7 +2024,13 @@
 10813:[N/A] 4233351608
 10814:[N/A] 844971016
 10815:[N/A] 1185082576
+10816:[N/A] 1007919576
+10817:[N/A] 1939819048
+10818:[N/A] 2146875272
+10819:[N/A] 7608696
+10820:[N/A] 1430080120
 10821:[CHS] - (test)6.2雪山跑酷_赛道1
+10822:[CHS] - (test)6.3怪物自走棋场地
 10823:[CHS] - (test)6.1节奏派对教学关
 10831:[CHS] - (test)6.2雪山跑酷_赛道2
 10832:[CHS] - (test)6.2雪山跑酷_赛道3
