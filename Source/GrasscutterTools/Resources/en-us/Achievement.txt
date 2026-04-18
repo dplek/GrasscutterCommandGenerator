@@ -27,19 +27,19 @@
 80027:Echoing Song - Enhance a 4-star artifact to its highest level.
 80028:Legendary Treasure - Obtain a 5-star artifact.
 80029:Sacred Canto - Enhance a 5-star artifact to its highest level.
-80030:Continental Explorer: Mondstadt - Light up the entire Mondstadt map (excluding the Dragonspine area).
-80031:Brush of a Thousand Winds - Unlock all Teleport Waypoints in Mondstadt (excludes the Dragonspine area).
+80030:Continental Explorer: Mondstadt - Light up the entire Mondstadt map (excluding Dragonspine, Windrest Peak, and the Temple of Space).
+80031:Brush of a Thousand Winds - Unlock all Teleport Waypoints in Mondstadt (excluding Dragonspine, Windrest Peak, and the Temple of Space).
 80032:Let the Wind Lead - Upgrade the Statues of The Seven in Mondstadt to their maximum level.
 80033:Sanctuary Pilgrim: Mondstadt - Unlock all the Shrines of Depths in Mondstadt.
-80034:Guiding Wind - Follow 10 Seelie in Mondstadt to their Seelie Courts (excludes the Dragonspine area).
-80035:Guiding Wind - Follow 20 Seelie in Mondstadt to their Seelie Courts (excludes the Dragonspine area).
-80036:Guiding Wind - Follow 40 Seelie in Mondstadt to their Seelie Courts (excludes the Dragonspine area).
-80037:Wind-Chasing Treasure Hunter - Open 100 chests in Mondstadt (excluding the Dragonspine area).
-80038:Wind-Chasing Treasure Hunter - Open 200 chests in Mondstadt (excluding the Dragonspine area).
-80039:Wind-Chasing Treasure Hunter - Open 400 chests in Mondstadt (excluding the Dragonspine area).
-80040:Wind-Chasing Adventurer - Complete 5 Open World mechanism-activated Time Trial Challenges in Mondstadt (excludes the Dragonspine area).
-80041:Wind-Chasing Adventurer - Complete 10 Open World mechanism-activated Time Trial Challenges in Mondstadt (excludes the Dragonspine area).
-80042:Wind-Chasing Adventurer - Complete 15 Open World mechanism-activated Time Trial Challenges in Mondstadt (excludes the Dragonspine area).
+80034:Guiding Wind - Follow 10 Seelie in Mondstadt to their Seelie Courts (excluding Dragonspine, Windrest Peak, and the Temple of Space).
+80035:Guiding Wind - Follow 20 Seelie in Mondstadt to their Seelie Courts (excluding Dragonspine, Windrest Peak, and the Temple of Space).
+80036:Guiding Wind - Follow 40 Seelie in Mondstadt to their Seelie Courts (excluding Dragonspine, Windrest Peak, and the Temple of Space).
+80037:Wind-Chasing Treasure Hunter - Open 100 chests in Mondstadt (excluding Dragonspine, Windrest Peak, and the Temple of Space).
+80038:Wind-Chasing Treasure Hunter - Open 200 chests in Mondstadt (excluding Dragonspine, Windrest Peak, and the Temple of Space).
+80039:Wind-Chasing Treasure Hunter - Open 400 chests in Mondstadt (excluding Dragonspine, Windrest Peak, and the Temple of Space).
+80040:Wind-Chasing Adventurer - Complete 5 Open World mechanism-activated Time Trial Challenges in Mondstadt (excluding Dragonspine, Windrest Peak, and the Temple of Space).
+80041:Wind-Chasing Adventurer - Complete 10 Open World mechanism-activated Time Trial Challenges in Mondstadt (excluding Dragonspine, Windrest Peak, and the Temple of Space).
+80042:Wind-Chasing Adventurer - Complete 15 Open World mechanism-activated Time Trial Challenges in Mondstadt (excluding Dragonspine, Windrest Peak, and the Temple of Space).
 80043:Continental Explorer: Liyue - Light up the map in the following zones: Bishui Plain, Qiongji Estuary, Minlin, Lisha, Sea of Clouds.
 80044:Surveyor of Stone - Unlock all Teleport Waypoints in Liyue (The Chasm and Chenyu Vale are counted separately).
 80045:Unmovable Mountain - Upgrade the Statues of The Seven in Liyue to their maximum level.
@@ -309,7 +309,7 @@
 80323:Ancient Sea Adventurer - Complete {param0} Open World mechanism-activated Time Trial Challenges in the Nostoi Region and Sea of Bygone Eras.
 80324:Ancient Sea Adventurer - Complete {param0} Open World mechanism-activated Time Trial Challenges in the Nostoi Region and Sea of Bygone Eras.
 80325:Ancient Sea Adventurer - Complete {param0} Open World mechanism-activated Time Trial Challenges in the Nostoi Region and Sea of Bygone Eras.
-80326:Echoes of the Grand Symphony - Play all the melodies within the Ancient Autoharmonic Music Box
+80326:Echoes of the Grand Symphony - Play all the melodies within the Ancient Autoharmonic Music Box.
 80327:Canticles of Harmony - Complete "Canticles of Harmony."
 80328:Continental Explorer: Pyre Plains (I) - Light up the maps of the following areas in Natlan: Basin of Unnumbered Flames, Tequemecan Valley, Coatepec Mountain, and Toyac Springs.
 80329:Scaling the Scorching Sacred Mountain (I) - Unlock all Teleport Waypoints in the following areas in Natlan: Basin of Unnumbered Flames, Tequemecan Valley, Coatepec Mountain, and Toyac Springs.
@@ -424,6 +424,20 @@
 80472:Joint Meeting Point Construction: Cliffwatch Camp - Reach maximum Construction Level at the Cliffwatch Camp.
 80473:Joint Meeting Point Construction: The Witch's Garden - Reach maximum Construction Level at the Witch's Garden.
 80474:Joint Meeting Point Construction: Favonius Keep - Reach maximum Construction Level at the Favonius Keep.
+80475:Treasure Hunter of the Interstice - Open {param0} chests at Windrest Peak and the Temple of Space.
+80476:Treasure Hunter of the Interstice - Open {param0} chests at Windrest Peak and the Temple of Space.
+80477:Treasure Hunter of the Interstice - Open {param0} chests at Windrest Peak and the Temple of Space.
+80487:Adventurer of the Interstice - Complete {param0} Open World Time Trial Challenges at Windrest Peak and the Temple of Space.
+80488:Adventurer of the Interstice - Complete {param0} Open World Time Trial Challenges at Windrest Peak and the Temple of Space.
+80489:Adventurer of the Interstice - Complete {param0} Open World Time Trial Challenges at Windrest Peak and the Temple of Space.
+80479:Colorless Wind on Mysterious Mountain - Light up the Windrest Peak map in Mondstadt.
+80480:Aimless Journey to the Abandoned Sanatorium - Light up the Temple of Space map in Mondstadt.
+80481:Farewell, Magic Mountain - Complete "A Long Day in the Mountains."
+80482:Three Reunions and a Farewell - Find all of Zeitlind's lost belongings.
+80484:To a Heart That's True - Break the seals at the Noblesse Secret Treasury at Windrest Peak and in the Secret Hall of the Realms at the Temple of Space.
+80485:Space and Unfree Will - Upgrade the Memory Core in the Temple of Space to its maximum level.
+80486:Tagelieder for Tithonus - Unlock all Teleport Waypoints at Windrest Peak and the Temple of Space in Mondstadt.
+80500:Guide of the Interstice - Follow 3 Seelie at Windrest Peak and the Temple of Space to their Seelie Courts.
 81000:Overlooking View - Reach the very top of Qingyun Peak.
 81001:The Remains of the Gale - Reach the top of the tower in Stormterror's Lair.
 81002:"Seeds of Stories, Brought by the Wind..." - Reach the nameless island northeast of Mondstadt.
@@ -1005,6 +1019,25 @@
 81640:Wandered Lonely as a Cloud - Feel the Cottonspring Flowers' soft, springy touch.
 81641:The Shepherd - Take a peaceful stroll alongside Slothsheep.
 81642:In Darkness Perish'd - Collapse under the corruption of Abyssal Decay.
+81643:It's Someone Else Who Should Apologize... - The sentry mechanism beneath the old tower no longer flickers in the raging wind.
+81644:A Good Book Is Always Worth Reading - Collect all chests concealed by the pages.
+81645:The Sacred Grail and Miracles Are a Thing, Apparently - Complete the adventure of "Aerinny."
+81646:An Ecosystem in a Drawer - Life always finds a way.
+81647:You Have the Right, O Therefore You Have the Right - Whether one is qualified to cross the threshold depends on whether they can think of a way around it...
+81648:Covering All Angles - ...Though technically, the challenge actually has only two sides.
+81649:Odds Are, You're Right-Handed - Coordinate with Dex to use spatial abilities for the first time.
+81650:Fright at the Museum - Let's just leave the items in the display case where they belong...
+81651:The Garden Where the Lilacs Blossom - View Zeitlind's and her sister's memories for the first time.
+81652:Old-School Essentials - Classic adventures, and the forms that shape them...
+81653:Wings Born of Dreams - Try spreading your newfound wings...
+81654:A World in One's Palm - Explore the inside of the miniature landscape for the first time.
+81655:Where Now Lies the Raincutter's Hidden Light? - Those are tales of chivalry and righteousness that belong in the past.
+81656:Undaunted by Drifting Clouds - Climb to the mountain's peak, and perhaps the world will no longer obscure your sight.
+81657:Shed a Light - To embrace the mortal world or to transcend it are but two trajectories along the same path.
+81658:Of Past, Present, and Future - Arrive at the central zone of the Pillar Hall in the Temple of Space.
+81659:The Cure of Melancholy, Alis Cutting the Gall - Defeat Melanta.
+81660:Gallery Manners 101 - Complete the challenges for five display cases.
+81661:A Speck Between Heaven and Earth - Everything seems so small when viewed from above. But when viewed from below, one may also appear to be as minuscule as a single drop in the ocean.
 82001:Nothing Special, Just Practice - Hit a falcon mid-flight with your bow.
 82002:Master Sniper - Strike an opponent's weak point from afar with an Aimed Shot.
 82003:Der Freischütz - Strike an opponent's weak point from extremely far away with an Aimed Shot.
@@ -1297,6 +1330,7 @@
 82305:Do Not Put a God to the Test - Break the rule set by Il Dottore.
 82306:"We Call This Efficiency" - Break its shield without defeating any Fishers of Hidden Depths summoned by the Lord of the Hidden Depths: Whisperer of Nightmares.
 82307:Moonwalker - Destroy the Moonstone Anchor while the Radiant Moongecko is preparing to unleash "Voidstep Reverberation" to disrupt its charging.
+82308:No Element Left Behind - Defeat Active Elemental Stars of every elemental type.
 84000:The End of the Beginning - Complete the Mondstadt Archon Quests.
 84001:The Outlander Who Caught the Wind - Complete "The Outlander Who Caught the Wind."
 84002:For a Tomorrow Without Tears - Complete "For a Tomorrow Without Tears."

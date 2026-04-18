@@ -34,6 +34,9 @@
 
 ## 更新日誌
 
+### v1.14 - v1.19
+遊戲資料持續更新至 6.5 版本
+
 ### GrasscutterTools-v1.13
 ![Proxy](Doc/Screenshots/22-Proxy.png)
 

@@ -11,6 +11,7 @@
 20010402:大型风史莱姆（塔防）
 20010403:大型风史莱姆-强攻强化
 20010404:Slime_Wind_03 - [N/A] 2691071841
+20010405:Slime_Wind_03 - [N/A] 2726442313
 20010481:Slime_Wind_03 - [N/A] 401698273
 20010490:Slime_Wind_03_AC - [N/A] 948264273
 20010501:雷史莱姆
@@ -99,6 +100,7 @@
 20011381:Slime_Fire_03 - [N/A] 1103669321
 20011390:Slime_Fire_03_AC - [N/A] 3654132009
 20011391:Slime_Fire_03 - [N/A] 3143241993
+20011392:Slime_Fire_03 - [N/A] 1768841513
 20011401:岩史莱姆
 20011402:岩史莱姆（塔防）
 20011403:Slime_Rock_02_SlimeBallV2 - [N/A] 1980386177
@@ -176,6 +178,7 @@
 20060491:Sylph_Ice_02 - [N/A] 2598669153
 20060492:Sylph_Ice_02 - [N/A] 3567945321
 20060501:雷飘浮灵
+20060502:Sylph_Electric_01 - [N/A] 2360950849
 20060581:Sylph_Electric_01 - [N/A] 1346991849
 20060591:Sylph_Electric_02 - [N/A] 917214273
 20060592:Sylph_Electric_02 - [N/A] 2585910489
@@ -230,6 +233,8 @@
 21010291:Hili_None_02_Club - [N/A] 3134370113
 21010292:Hili_None_02_Club - [N/A] 1494217377
 21010293:Hili_None_01_Club - [N/A] 3958161465
+21010294:Hili_None_01_Club - [N/A] 3348911569
+21010295:Hili_None_01_Club - [N/A] 3955227097
 21010299:Hili_None_01_Club_NoAI - [N/A] 1500968553
 21010301:木盾丘丘人
 21010302:木盾丘丘人（塔防）
@@ -240,6 +245,7 @@
 21010402:射手丘丘人-强攻强化
 21010403:Hili_None_01_Range - [N/A] 61084577
 21010404:Hili_None_01_Range - [N/A] 2771253745
+21010405:Hili_None_01_Range - [N/A] 1900284209
 21010481:Hili_None_01_Range - [N/A] 4155367425
 21010482:Hili_None_01_Range_Multi - [N/A] 1849451593
 21010501:火箭丘丘人
@@ -255,6 +261,7 @@
 21010701:冲锋丘丘人
 21010702:冲锋丘丘人（塔防）
 21010703:Hili_Fire_Rush_ElectricHercules - [N/A] 2242853625
+21010704:Hili_Fire_Rush - [N/A] 3735525601
 21010781:Hili_Fire_Rush - [N/A] 4152896577
 21010901:冰箭丘丘人
 21010902:冰箭丘丘人-强攻强化
@@ -303,9 +310,11 @@
 21020291:Brute_None_Axe_01 - [N/A] 2994100073
 21020292:Brute_None_Axe_01 - [N/A] 741739681
 21020293:Brute_None_Axe - [N/A] 1770932025
+21020294:Brute_None_Axe - [N/A] 1334122801
 21020299:Brute_None_Axe_NoAI - [N/A] 4081842953
 21020301:岩盾丘丘暴徒
 21020302:岩盾丘丘暴徒（塔防）
+21020303:Brute_None_RockShield - [N/A] 220849313
 21020381:Brute_None_RockShield - [N/A] 967286769
 21020382:Brute_None_RockShield - [N/A] 314375577
 21020401:丘丘霜铠王
@@ -350,6 +359,7 @@
 21030191:Shaman_Water_03 - [N/A] 2212978593
 21030192:Shaman_Water_03 - [N/A] 672733385
 21030193:Shaman_Water_01 - [N/A] 220277977
+21030194:Shaman_Water_01 - [N/A] 919279881
 21030201:草丘丘萨满
 21030202:草丘丘萨满（塔防）
 21030203:草丘丘萨满-支援强化
@@ -380,6 +390,8 @@
 21030681:Shaman_Electric_01 - [N/A] 37022969
 21030701:Shaman_None_01 - [N/A] 1672096257
 21030702:Shaman_None_01 - [N/A] 2645488409
+21030801:Shaman_None_01 - [N/A] 617810353
+21030802:Shaman_None_01 - [N/A] 2164669473
 21040101:Hilistray_Wind_01 - [N/A] 641948121
 21040181:Hilistray_Wind_01 - [N/A] 3420404417
 21040182:Hilistray_Wind_01 - [N/A] 842581561
@@ -431,12 +443,14 @@
 22040201:嗜雷·兽境幼兽
 22040202:Hound_Kanis_Electric_01_Crystallization - [N/A] 2152008849
 22040203:Hound_Kanis_Electric_01 - [N/A] 3494860345
+22040205:Hound_Kanis_Electric_01 - [N/A] 4068264193
 22050101:嗜岩·兽境猎犬
 22050102:Hound_Riftstalker_Rock_01_Crystallization - [N/A] 1530750273
 22050103:Hound_Riftstalker_Rock_03 - [N/A] 792010129
 22050201:嗜雷·兽境猎犬
 22050202:Hound_Riftstalker_Electric_01_Crystallization - [N/A] 661857473
 22050203:Hound_Riftstalker_Electric_01 - [N/A] 2595699489
+22050204:Hound_Riftstalker_Electric_01 - [N/A] 1603211697
 22050205:Hound_Riftstalker_Electric_Institute - [N/A] 3057757545
 22070101:壳之剑士-战旗
 22070102:壳之剑士-战旗-脱甲
@@ -626,6 +640,8 @@
 24010103:Defender_None_01 - [N/A] 2008655417
 24010108:遗迹木桩
 24010109:遗迹木桩2.0
+24010111:Defender_None_01 - [N/A] 3141919985
+24010112:Defender_None_01 - [N/A] 4064537977
 24010181:Defender_None_01 - [N/A] 1482848121
 24010182:Defender_None_01 - [N/A] 3806686089
 24010190:Defender_None_03 - [N/A] 1203739089
@@ -636,6 +652,7 @@
 24010201:遗迹猎者
 24010202:遗迹猎者（塔防）
 24010203:Formathr_None - [N/A] 2297909409
+24010204:Formathr_None - [N/A] 1081579905
 24010281:Formathr_None - [N/A] 2103947025
 24010301:遗迹重机
 24010302:遗迹重机（塔防）
@@ -694,6 +711,7 @@
 24060702:MachinaIustitia_Assimilator_02 - [N/A] 4267548865
 24060801:MachinaIustitia_Ruggiero_01 - [N/A] 3121825273
 24060802:MachinaIustitia_Ruggiero_02 - [N/A] 1759986009
+24060804:MachinaIustitia_Ruggiero_01 - [N/A] 1359945169
 24060901:MachinaIustitia_Ruggiero_01 - [N/A] 2598421161
 24060902:MachinaIustitia_Ruggiero_02 - [N/A] 1178238353
 24060903:MachinaIustitia_Ruggiero_01 - [N/A] 4091306801
@@ -766,6 +784,10 @@
 24090102:ToothTrap_02 - [N/A] 4268545617
 24100201:RoboDuck_01 - [N/A] 1598739977
 24100202:RoboDuck_01 - [N/A] 4258022377
+24110101:Watcher_Normal_01 - [N/A] 736201889
+24110111:Watcher_Normal_02 - [N/A] 2817511825
+24111201:Monster_Watcher_Primo_01_ElementalStar - [N/A] 1787985953
+24111202:Monster_Watcher_Primo_01_ElementalStar - [N/A] 1853034721
 24810101:防御塔火低级
 24810190:MvM_TowerFire_01 - [N/A] 3268380201
 24810191:MvM_TowerFire_02 - [N/A] 2853693193
@@ -1255,6 +1277,7 @@
 26040301:Drake_Rock_Ice_01 - [N/A] 1388039833
 26040302:Drake_Rock_Ice_02 - [N/A] 3275880961
 26050601:深海龙蜥·原种
+26050602:Drake_DeepSea_Water_01 - [N/A] 1853953041
 26050681:Drake_DeepSea_Water_01 - [N/A] 907738945
 26050682:Drake_DeepSea_Water_01 - [N/A] 2857224937
 26050781:Drake_Deepsea_Ice_02 - [N/A] 3214270801
@@ -1286,6 +1309,7 @@
 26090194:Fungus_Un_Gamma_Water_01 - [N/A] 392690401
 26090201:蕈兽-小-飞-草
 26090202:蕈兽-小-飞-草-挑战召唤
+26090203:Fungus_Un_Delta_Grass_01 - [N/A] 1994155385
 26090281:Fungus_Un_Delta_Grass_01 - [N/A] 2572195721
 26090290:Fungus_Un_Delta_Grass_Enemy - [N/A] 2834173953
 26090291:Fungus_Un_Delta_Grass_01_Capture - [N/A] 3005241825
@@ -1350,6 +1374,8 @@
 26120401:陆行岩本真蕈
 26120481:Fungus_Amanita_Du_Udatta_Rock_01 - [N/A] 2570825833
 26120482:Fungus_Amanita_Du_Udatta_Rock_01 - [N/A] 1761054305
+26120501:Fungus_Amanita_Du_Udatta_Rock_Elite_01 - [N/A] 871232961
+26120502:Fungus_Amanita_Du_Udatta_Rock_Elite_01 - [N/A] 2186234225
 26140201:Golem_Legion - [N/A] 3875455425
 26151001:MantaRay_Larva_01 - [N/A] 886787041
 26151002:MantaRay_Larva_01_Large - [N/A] 3329871401
@@ -1480,6 +1506,7 @@
 28010502:NodSquid_02 - [N/A] 2204373601
 28010601:FauneAbyssale_HermitCrab_Larva_Magnet_N - [N/A] 2720889217
 28010602:FauneAbyssale_HermitCrab_Larva_Magnet_S - [N/A] 2270778665
+28010603:FauneAbyssale_HermitCrab_Larva_Magnet_S - [N/A] 4118876545
 28020101:雪狐
 28020102:红狐
 28020103:送礼雪狐
@@ -1515,6 +1542,7 @@
 28020320:Boar_01 - [N/A] 1831609169
 28020321:Boar_07 - [N/A] 619377657
 28020322:Boar_07_Ambush - [N/A] 1629387833
+28020323:Boar_09 - [N/A] 957342785
 28020401:北地犬
 28020402:巡林犬
 28020403:柴犬
@@ -1581,7 +1609,9 @@
 28021305:Tortoise_Electric_03 - [N/A] 1465291441
 28021401:Wolverine_01_N - [N/A] 3785478633
 28021402:Wolverine_01_S - [N/A] 3460674537
+28021403:Wolverine_01_03 - [N/A] 2650486937
 28021501:Reindeer_01 - [N/A] 2587140601
+28021502:Reindeer_02 - [N/A] 4266143169
 28022001:Macrauchenia_01 - [N/A] 1874427753
 28022002:Macrauchenia_02 - [N/A] 2488373881
 28022101:Goat_01 - [N/A] 3524728545
@@ -1590,10 +1620,12 @@
 28022104:Goat_02_03 - [N/A] 3460274289
 28022105:Goat_02_04 - [N/A] 1517667689
 28022106:Goat_02_04 - [N/A] 576287417
+28022107:Goat_02 - [N/A] 4022984049
 28022201:Capybara_01 - [N/A] 2845318849
 28022202:Capybara_02 - [N/A] 4200148417
 28022203:Capybara_01 - [N/A] 1394939665
 28022204:Capybara_02 - [N/A] 1330044241
+28022205:Capybara_03 - [N/A] 2685043889
 28022301:Alpaca_01 - [N/A] 1844721721
 28022302:Alpaca_02 - [N/A] 3428631873
 28022303:Alpaca_03 - [N/A] 1332647049
@@ -1632,10 +1664,13 @@
 28022803:Capra_02_CooperateChallenge - [N/A] 2652024201
 28022901:NodRhino_01 - [N/A] 614521193
 28022902:NodRhino_02 - [N/A] 2610761433
+28022903:NodRhino_02 - [N/A] 2160757225
 28023001:Wolf_01 - [N/A] 3898465201
 28023002:Wolf_02 - [N/A] 1518235369
 28023003:Wolf_03 - [N/A] 1207640177
 28023004:Wolf_04 - [N/A] 3393425393
+28023005:Wolf_05 - [N/A] 608565393
+28023006:Wolf_06 - [N/A] 111335649
 28030101:蓝翎鹭
 28030102:菫鹮
 28030103:蓝翎鹭
@@ -1648,6 +1683,7 @@
 28030110:Crane_Flamingo_TheAbyss - [N/A] 3125327217
 28030111:Crane_Laurus_01 - [N/A] 2055110505
 28030112:Crane_Laurus_01 - [N/A] 218062289
+28030113:Crane_Ink_01 - [N/A] 3169081737
 28030201:茶羽鹰
 28030202:棕翎鹰
 28030203:石鸢
@@ -1723,6 +1759,12 @@
 28030720:Falcon_Laurus_01 - [N/A] 358983593
 28030721:Falcon_Laurus_01 - [N/A] 623079689
 28030722:Falcon_Laurus_01 - [N/A] 2295698105
+28030723:Seagull_02 - [N/A] 3585809769
+28030724:Seagull_02 - [N/A] 910292049
+28030725:Seagull_02 - [N/A] 3714991153
+28030726:Seagull_02 - [N/A] 3016701353
+28030727:Seagull_01 - [N/A] 3695078905
+28030728:Seagull_01 - [N/A] 3289042145
 28030801:Meleagris_01 - [N/A] 3295501585
 28030802:Meleagris_01 - [N/A] 611631513
 28030901:Penguin_01 - [N/A] 2273315593
@@ -1817,6 +1859,7 @@
 28070601:Octopus_Larva_01 - [N/A] 2425114609
 28070701:Orca_01_Far - [N/A] 4193786993
 28070702:Orca_01_Near - [N/A] 1161333185
+28070703:Orca_02 - [N/A] 701965457
 28080101:ToyBrickDragon_01 - [N/A] 2725986321
 28210101:家园黄金蟹
 28210102:家园太阳蟹
@@ -1832,6 +1875,7 @@
 28210207:家园嗜髓蜥
 28210208:家园赤尾蜥
 28210209:Homeworld_Lizard_Laurus_01 - [N/A] 2152292633
+28210210:Homeworld_Salamander_04 - [N/A] 691860769
 28210301:家园青蛙
 28210302:家园泥蛙
 28210303:家园蓝蛙
@@ -1883,6 +1927,8 @@
 28220901:家园武士狗
 28221401:Homeworld_Wolverine_01_N - [N/A] 3530372473
 28221402:Homeworld_Wolverine_01_S - [N/A] 2374471545
+28221403:Homeworld_Wolverine_01_02 - [N/A] 3843161593
+28221502:Homeworld_Reindeer_02 - [N/A] 624479417
 28222101:Homeworld_Goat_01 - [N/A] 3406385657
 28222102:Homeworld_Goat_02 - [N/A] 2532117313
 28222103:Homeworld_Goat_02_02 - [N/A] 4185668769
@@ -1890,6 +1936,7 @@
 28222105:Homeworld_Goat_02_04 - [N/A] 1206654713
 28222201:Homeworld_Capybara_01 - [N/A] 2926619593
 28222202:Homeworld_Capybara_02 - [N/A] 8055281
+28222203:Homeworld_Capybara_03 - [N/A] 311271681
 28222301:Homeworld_Alpaca_01 - [N/A] 1335954849
 28222302:Homeworld_Alpaca_02 - [N/A] 1125022825
 28222303:Homeworld_Alpaca_03 - [N/A] 2953270081
@@ -1931,6 +1978,7 @@
 28230708:Homeworld_Larvivora_02 - [N/A] 1236262377
 28230709:Homeworld_Cacatuidae_01 - [N/A] 4136266297
 28230710:Homeworld_Falcon_Laurus_01 - [N/A] 748865049
+28230723:Homeworld_Seagull_02 - [N/A] 4024601689
 28230801:Homeworld_Meleagris_01 - [N/A] 1637034305
 28230901:Homeworld_Penguin_01 - [N/A] 2886180649
 28231101:Homeworld_Frigatebird_01_N - [N/A] 4153335681
@@ -1949,6 +1997,7 @@
 28240305:家园雪中君
 28240401:家园金赤假龙
 28240402:家园锖假龙
+28240403:Homeworld_Fishable_Maritime_Cheirolepis_03 - [N/A] 3667753169
 28240501:家园流纹褐蝶鱼
 28240502:家园流纹京紫蝶鱼
 28240503:家园流纹茶蝶鱼
@@ -2002,6 +2051,7 @@
 28250302:Homeworld_Boltbug_Lightbug_02 - [N/A] 2158022153
 28250401:家园圣金虫
 28250701:HomeWorld_Boltbug_MachinaIustitia_01 - [N/A] 1405340873
+28251101:HomeWorld_Wisp_PlumeMoth_01 - [N/A] 298338457
 29080201:Monster_Apep_Underling_SeedOfKarna - [N/A] 2429980313
 29080202:Monster_Apep_Underling_SeedOfKarna - [N/A] 1494016625
 29080301:Monster_Apep_Underling_SeedOfAshura - [N/A] 2368710513
@@ -2017,24 +2067,32 @@
 29090304:Monster_Ptahur_VertexGreater_01 - [N/A] 4065850697
 84001011:Slime_Grass_02 - [N/A] 99200296
 84001021:Slime_Grass_03 - [N/A] 501639312
+84001022:Slime_Grass_Custom_03 - [N/A] 202412416
 84001031:Slime_Wind_02 - [N/A] 46086728
 84001041:Slime_Wind_03 - [N/A] 537000248
+84001042:Slime_Wind_Custom_03 - [N/A] 59811064
 84001051:Slime_Electric_02 - [N/A] 1254356400
 84001061:Slime_Electric_03 - [N/A] 699685168
+84001062:Slime_Electric_Custom_03 - [N/A] 4193256608
 84001081:Slime_Ice_02 - [N/A] 1738168200
 84001091:Slime_Ice_03 - [N/A] 1444757168
+84001092:Slime_Ice_Custom_03 - [N/A] 2112562288
 84001101:Slime_Water_02 - [N/A] 1145349184
 84001111:Slime_Water_03 - [N/A] 2255798864
+84001112:Slime_Water_Custom_03 - [N/A] 3143821416
 84001121:Slime_Fire_02 - [N/A] 3437788800
 84001131:Slime_Fire_03 - [N/A] 3366440952
+84001132:Slime_Fire_Custom_03 - [N/A] 3765491880
 84001141:Slime_Rock_02 - [N/A] 89054968
 84001151:Slime_Rock_03 - [N/A] 2009294272
+84001152:Slime_Rock_Custom_03 - [N/A] 496998480
 84101011:Hili_None_01 - [N/A] 2603745200
 84101012:Hili_None_01 - [N/A] 1448447160
 84101021:Hili_None_01_Club - [N/A] 4280143712
 84101051:Hili_Fire_Range - [N/A] 2491664528
 84101052:Hili_Fire_Range_02 - [N/A] 1966026416
 84102011:Brute_None_Shield - [N/A] 2202846464
+84102012:Brute_None_Shield_02 - [N/A] 3582327024
 84102021:Brute_None_Axe - [N/A] 135344632
 84102022:Brute_None_Axe_02 - [N/A] 678099728
 84102041:Brute_Ice_None - [N/A] 3646470704
@@ -2044,19 +2102,25 @@
 84103011:Shaman_Water_01 - [N/A] 209458592
 84201011:Abyss_Fire_01 - [N/A] 2324885152
 84201021:Abyss_Ice_01 - [N/A] 3780008880
+84201022:Abyss_Ice_02 - [N/A] 374133880
 84201031:Abyss_Water_01 - [N/A] 3267074640
 84201032:Abyss_Water_01 - [N/A] 2764068976
 84201041:Abyss_Electric_01 - [N/A] 3122241120
 84201042:Abyss_Electric_02 - [N/A] 3210227080
 84301011:Skirmisher_Male_Fat_SprayGun_Ice_01 - [N/A] 2074288288
+84301012:Skirmisher_Male_Fat_SprayGun_Ice_02 - [N/A] 3722060160
 84301031:Skirmisher_Male_Strong_GreatHammer_Electric_01 - [N/A] 3553568992
+84301032:Skirmisher_Male_Strong_GreatHammer_Electric_02 - [N/A] 3826512368
 84301041:Skirmisher_Male_Standard_Staff_Rock_01 - [N/A] 2161714584
 84301061:Skirmisher_Male_Standard_Rifle_Fire_01 - [N/A] 882350200
+84301062:Skirmisher_Male_Standard_Rifle_Fire_02 - [N/A] 3597463784
 84401011:Defender_None_01 - [N/A] 946362976
 84401012:Defender_None_02 - [N/A] 3095614664
 84401031:Konungmathr_None - [N/A] 3086252904
+84401032:Konungmathr_None_Custom - [N/A] 3775005840
 84403011:Gargoyle_Airborne_01 - [N/A] 3388180168
 84501021:Thoarder_Male_Standard_NoWeapon_02 - [N/A] 3835990264
+84501022:Thoarder_Male_Standard_NoWeapon_02 - [N/A] 2149298344
 84503031:Thoarder_Male_Fat_Shovel_02 - [N/A] 3601548504
 84601011:Mimik_Ice - [N/A] 3377990704
 84601021:Mimik_Fire - [N/A] 517437664
@@ -2162,6 +2226,8 @@
 24100102:Gastrobot_01 - [N/A] 3816394513
 24100103:Gastrobot_01 - [N/A] 1121727817
 24100104:Gastrobot_01 - [N/A] 941998201
+24111101:Watcher_Primo_01 - [N/A] 340158633
+24111301:Watcher_Primo_02 - [N/A] 4137468025
 25090101:魔偶剑鬼
 25090102:魔偶剑鬼-风分身
 25090103:魔偶剑鬼-冰分身
@@ -2235,6 +2301,9 @@
 26302101:Monster_Magbeast_Gecko_01 - [N/A] 94638241
 26302102:Monster_Magbeast_Gecko_01 - [N/A] 3462788113
 26302103:Monster_Magbeast_Gecko_01 - [N/A] 119027905
+26302104:Monster_Magbeast_Gecko_01 - [N/A] 599512345
+26302105:Monster_Magbeast_Gecko_01 - [N/A] 3766333441
+26302106:Monster_Magbeast_Gecko_01 - [N/A] 3890364513
 29010101:风魔龙 特瓦林
 29010102:风魔龙 特瓦林
 29010103:风魔龙
@@ -2300,7 +2369,9 @@
 29130401:Monster_Dotorre_Drone - [N/A] 1503907865
 29140101:Monster_Rerir_01 - [N/A] 1905994057
 84509011:Samurai_Ningyo_01 - [N/A] 1944139888
+84509012:Samurai_Ningyo_02 - [N/A] 2040291376
 84623031:Monster_Natsaurus_Flamingo_Primo_01 - [N/A] 1045199816
+84623032:Monster_Natsaurus_Flamingo_Primo_Custom_01 - [N/A] 2975703120
 
 // 动物
 28010101:黄金蟹
@@ -2317,6 +2388,7 @@
 28010206:晴天鳅鳅
 28010207:嗜髓蜥
 28010208:赤尾蜥
+28010223:Salamander_04 - [N/A] 1887019505
 28010301:青蛙
 28010302:泥蛙
 28010303:蓝蛙
@@ -2354,6 +2426,7 @@
 28050903:Boltbug_Firebug_01 - [N/A] 2096022457
 28050904:Boltbug_Firebug_01_OnWall - [N/A] 240760185
 28051001:Boltbug_CrystalCore_01 - [N/A] 872610457
+28051101:Wisp_PlumeMoth_01 - [N/A] 2084635017
 
 // 鱼
 28040201:花鳉
@@ -2369,6 +2442,7 @@
 28040305:雪中君
 28040401:金赤假龙
 28040402:锖假龙
+28040403:Fishable_Maritime_Cheirolepis_03 - [N/A] 3818764409
 28040501:流纹褐蝶鱼
 28040502:流纹京紫蝶鱼
 28040503:流纹茶蝶鱼

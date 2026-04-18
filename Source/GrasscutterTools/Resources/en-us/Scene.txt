@@ -10,6 +10,7 @@
 11:DeepSea_LevelStreaming
 100:Fairybook_LevelStreaming
 101:Volcano_LevelStreaming
+103:Firmament_LevelStreaming
 1001:Mobile Platform Test
 1002:ClimbTest2
 1003:TheBigWorld
@@ -117,16 +118,19 @@
 2412:Hall_Private_Drxg
 2413:Hall_Private_Wxyc
 2414:Hall_Private_Ydsd
+2415:Hall_Private_Lqzc
 2601:Hall_Private_Witch
 2602:Hall_Private_World_Park
 2611:Hall_Private_Wsqh
 2612:Hall_Private_Drxg
 2613:Hall_Private_Wxyc
 2614:Hall_Private_Ydsd
+2615:Hall_Private_Lqzc
 2811:Hall_Public_Wsqh
 2812:Hall_Public_Drxg
 2813:Hall_Public_Wxyc
 2814:Hall_Public_Ydsd
+2815:Hall_Public_Lqzc
 20000:Stage Gameplay Test
 20005:Secret Ingredient
 20006:Hilichurl Large Base
@@ -383,7 +387,12 @@
 20335:Memories: Twilight of the Heretic IV
 20336:[CHS] - 6.4法尔伽个人线地城（test）
 20337:[CHS] - (test)？？？
+20338:[CHS] - (test)6.5植物大战僵尸测试
+20339:[CHS] - （test）6.5莉奈娅个人线地城01
+20340:[CHS] - （test）6.5莉奈娅个人线地城02
 20347:[CHS] - (test)？？？
+20348:[CHS] - （test）6.5蒙德疗养院镜像大世界
+20361:[CHS] - （test）6.5空之神殿沙漏区下层镜像大世界
 30001:Mist Labyrinth
 30002:Stygian Onslaught: Normal
 30003:Stygian Onslaught: Advancing
@@ -663,6 +672,18 @@
 33854:[CHS] - 爬塔（双路）(test)
 33855:[CHS] - 爬塔（双路）(test)
 33856:[CHS] - 爬塔（双路）(test)
+33857:[CHS] - 爬塔（双路）(test)
+33858:[CHS] - 爬塔（双路）(test)
+33859:[CHS] - 爬塔（双路）(test)
+33860:[CHS] - 爬塔（双路）(test)
+33861:[CHS] - 爬塔（双路）(test)
+33862:[CHS] - 爬塔（双路）(test)
+33863:[CHS] - 爬塔（双路）(test)
+33864:[CHS] - 爬塔（双路）(test)
+33865:[CHS] - 爬塔（双路）(test)
+33866:[CHS] - 爬塔（双路）(test)
+33867:[CHS] - 爬塔（双路）(test)
+33868:[CHS] - 爬塔（双路）(test)
 34100:[CHS] - 爬塔第二档-ZHT第1关（单路）(test)
 34101:[CHS] - 爬塔第二档-ZHT第2关（单路）(test)
 34102:[CHS] - 爬塔第二档-ZHT第3关（单路）(test)
@@ -1101,6 +1122,13 @@
 36086:[CHS] - (test)6.1节奏派对02
 36087:[CHS] - (test)6.1节奏派对03
 36088:[CHS] - (test)6.1节奏派对教学关
+36089:[CHS] - （test）6.5拍短视频01-枫丹城
+36090:[CHS] - （test）6.5拍短视频02—璃月港
+36091:[CHS] - （test）6.5拍短视频03—神樱大社
+36092:[CHS] - （test）6.5拍短视频04—流泉之众
+36093:[CHS] - （test）6.5拍短视频05—那夏镇
+36094:[CHS] - （test）6.5拍短视频06—枫丹水下
+36095:[CHS] - （test）6.5拍短视频07—霜月之子
 40001:Investigate the turmoil in the Depths of the Ruins
 40002:Level_UCDungeon01
 40003:Level_UCDungeon01
@@ -1464,6 +1492,7 @@
 41133:Level_Tower_01_Open
 41134:Level_Tower_01_Open
 41135:Level_Tower_01_Open
+41136:Level_Tower_01_Open
 42001:In Pairs, the Swallows Come Home to Roost: Difficulty 3
 42002:Stop to Rest Your Weary Head, Paint the Bridge Where Adepti Tread: Difficulty 2
 42003:Beauty Withers Hither While Truth Dithers Thither: Difficulty 5
@@ -1766,6 +1795,11 @@
 48108:Level_Act_Blade01
 48109:Level_Act_Blade01
 48110:Level_Act_Blade01
+48111:Level_Ndkl_Combat01
+48112:Level_Ndkl_Combat01
+48113:Level_Ndkl_Combat01
+48114:Level_Ndkl_Combat01
+48115:Level_Ndkl_Combat01
 49001:[CHS] - 角色专精挑战-琴(test)
 49002:[CHS] - 角色专精挑战-七七(test)
 49003:[CHS] - 角色专精挑战-凝光(test)
@@ -2039,6 +2073,7 @@
 51163:Level_Tower_Moon_01
 51164:Level_Tower_Moon_01
 51165:Level_Tower_Moon_01
+51166:[CHS] - 6.5地图标点玩法（test）
 51167:[CHS] - (test)6.4随乐拍 关卡test
 51168:[CHS] - (test)6.4随乐拍 关卡test
 51169:Level_Tower_Moon_01
@@ -2059,6 +2094,11 @@
 51185:Level_LY_Parkour_05
 51186:[CHS] - (test)6.3怪物自走棋场地
 51187:[CHS] - (test)6.4飞行射击_赛道1
+51188:[CHS] - 6.5地图标点玩法（test）
+51189:[CHS] - 6.5地图标点玩法（test）
+51190:[CHS] - 6.5地图标点玩法（test）
+51191:[CHS] - 6.5地图标点玩法（test）
+51192:[CHS] - 6.5地图标点玩法（test）
 51193:[CHS] - (test)6.4飞行射击_赛道3
 51194:TestLevel_WhiteBox_Practice_LJW
 51196:TestLevel_WhiteBox_RC_Ayaka_GQQ
@@ -2074,12 +2114,24 @@
 51206:[CHS] - (test)6.4厨力特饮 关卡4
 51207:[CHS] - (test)6.4厨力特饮 关卡5
 51208:[CHS] - (test)6.4厨力特饮 关卡6
+51209:TestLevel_WhiteBox_Linnea_GQQ
 51212:[CHS] - (test)6.4飞行射击_赛道2
+51213:[CHS] - (test)6.5切色弹幕_关卡1
+51214:[CHS] - (test)6.5切色弹幕_关卡2
+51215:[CHS] - (test)6.5切色弹幕_关卡3
+51216:[CHS] - (test)6.5切色弹幕_关卡4
+51217:[CHS] - (test)6.5切色弹幕_关卡5
 51218:[CHS] - (test)6.4塔防活动地城1
 51219:[CHS] - (test)6.4塔防活动地城2
 51220:[CHS] - (test)6.4塔防活动地城3
 51221:[CHS] - (test)6.4塔防活动地城4
 51222:[CHS] - (test)6.4塔防活动地城5
+51223:[CHS] - (test)6.5塔防活动地城教学关卡
+51224:[CHS] - (test)6.5塔防活动地城关卡1
+51225:[CHS] - (test)6.5塔防活动地城关卡2
+51226:[CHS] - (test)6.5塔防活动地城关卡3
+51227:[CHS] - (test)6.5塔防活动地城关卡4
+51228:[CHS] - (test)6.5塔防活动地城关卡5
 79999:[CHS] - (test)卡牌观战场景
 90001:UGC_LiHui_01
 90002:UGC Power Consumption Test Dungeon

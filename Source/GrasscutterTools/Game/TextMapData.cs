@@ -28,11 +28,24 @@ namespace GrasscutterTools.Game
 {
     internal class TextMapData
     {
+        // 语言代码到TextMap文件标识符的映射
+        // 匹配规则：文件名必须包含标识符，如 TextMapCHS.json, TextMap_MediumCHS.json, TextMapRU_0.json 等
+        private static readonly Dictionary<string, string[]> LanguageIdentifiers = new Dictionary<string, string[]>
+        {
+            ["zh-cn"] = new[] { "CHS" },
+            ["zh-tw"] = new[] { "CHT" },
+            ["en-us"] = new[] { "EN" },
+            ["ru-ru"] = new[] { "RU" },
+        };
+
+        private string _textMapDirPath;
+
         public TextMapData(string resourcesDirPath)
         {
             LoadManualTextMap(Path.Combine(resourcesDirPath, "ExcelBinOutput", "ManualTextMapConfigData.json"));
-            LoadTextMaps(Path.Combine(resourcesDirPath, "TextMap"));
-            LoadTextMap(TextMapFilePaths[Array.IndexOf(TextMapFiles, "TextMapCHS")]);
+            _textMapDirPath = Path.Combine(resourcesDirPath, "TextMap");
+            LoadTextMaps(_textMapDirPath);
+            LoadTextMapByLanguage("zh-cn");
             DefaultTextMap = TextMap;
         }
 
@@ -84,24 +97,89 @@ namespace GrasscutterTools.Game
             TextMapFiles = TextMapFilePaths.Select(n => Path.GetFileNameWithoutExtension(n)).ToArray();
         }
 
-        public void LoadTextMap(string textMapPath)
+        /// <summary>
+        /// 根据语言代码加载TextMap，自动匹配并合并所有相关文件
+        /// 匹配规则：文件名以"TextMap"开头，并包含对应的语言标识符
+        /// 例如：TextMapCHS.json, TextMap_MediumCHS.json, TextMapRU_0.json, TextMapRU_1.json
+        /// </summary>
+        /// <param name="languageCode">语言代码，如 "zh-cn", "en-us", "ru-ru"</param>
+        public void LoadTextMapByLanguage(string languageCode)
         {
-            using (var fs = File.OpenRead(textMapPath))
-            using (var sr = new StreamReader(fs))
-            using (var reader = new JsonTextReader(sr))
+            TextMap = new Dictionary<string, string>();
+
+            if (!LanguageIdentifiers.ContainsKey(languageCode))
             {
-                TextMap = new Dictionary<string, string>();
-                while (reader.Read())
-                {
-                    if (reader.TokenType == JsonToken.PropertyName)
+                Console.WriteLine($"Warning: Language code '{languageCode}' not found in LanguageIdentifiers, falling back to zh-cn");
+                languageCode = "zh-cn";
+            }
+
+            var identifiers = LanguageIdentifiers[languageCode];
+            var loadedFiles = new List<string>();
+
+            foreach (var identifier in identifiers)
+            {
+                // 查找所有包含该标识符的文件
+                // 例如：TextMap*CHS*.json 会匹配 TextMapCHS.json, TextMap_MediumCHS.json 等
+                var matchingFiles = TextMapFilePaths
+                    .Where(f =>
                     {
-                        TextMap.Add((string)reader.Value, reader.ReadAsString());
-                    }
+                        var fileNameWithoutExt = Path.GetFileNameWithoutExtension(f);
+                        return fileNameWithoutExt.StartsWith("TextMap") &&
+                               fileNameWithoutExt.Contains(identifier);
+                    })
+                    .OrderBy(f => f)  // 按文件名排序
+                    .ToArray();
+
+                foreach (var file in matchingFiles)
+                {
+                    if (loadedFiles.Contains(file))
+                        continue;
+
+                    LoadTextMapFile(file, TextMap);
+                    loadedFiles.Add(file);
                 }
+            }
+
+            if (loadedFiles.Count == 0)
+            {
+                Console.WriteLine($"Warning: No TextMap files found for language '{languageCode}' with identifiers: {string.Join(", ", identifiers)}");
+            }
+            else
+            {
+                Console.WriteLine($"Loaded {loadedFiles.Count} TextMap file(s) for language '{languageCode}': {string.Join(", ", loadedFiles.Select(Path.GetFileName))}");
             }
         }
 
-        public bool Contains(string textMapPath) => TextMap.ContainsKey(textMapPath) || DefaultTextMap.ContainsKey(textMapPath);
+        /// <summary>
+        /// 从单个文件加载TextMap并合并到目标字典
+        /// </summary>
+        private void LoadTextMapFile(string filePath, Dictionary<string, string> targetDict)
+        {
+            try
+            {
+                using (var fs = File.OpenRead(filePath))
+                using (var sr = new StreamReader(fs))
+                using (var reader = new JsonTextReader(sr))
+                {
+                    while (reader.Read())
+                    {
+                        if (reader.TokenType == JsonToken.PropertyName)
+                        {
+                            var key = (string)reader.Value;
+                            var value = reader.ReadAsString();
+
+                            // 如果key已存在，新值覆盖旧值（后加载的文件优先）
+                            targetDict[key] = value;
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error loading TextMap file '{filePath}': {ex.Message}");
+            }
+        }
+
 
         public string GetText(string textMapHash)
         {

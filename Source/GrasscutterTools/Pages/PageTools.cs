@@ -155,10 +155,10 @@ namespace GrasscutterTools.Pages
 
                 TextMapData ??= new TextMapData(TxtGcResRoot.Text);
 
-                UpdateActivityForLanguage(activityItems, "TextMapCHS", "zh-cn");
-                UpdateActivityForLanguage(activityItems, "TextMapCHT", "zh-tw");
-                UpdateActivityForLanguage(activityItems, "TextMapEN", "en-us");
-                // UpdateActivityForLanguage(activityItems, "TextMapRU", "ru-ru");
+                UpdateActivityForLanguage(activityItems, "zh-cn");
+                UpdateActivityForLanguage(activityItems, "zh-tw");
+                UpdateActivityForLanguage(activityItems, "en-us");
+                UpdateActivityForLanguage(activityItems, "ru-ru");
                 MessageBox.Show("OK", Resources.Tips, MessageBoxButtons.OK);
             }
             catch (Exception ex)
@@ -167,40 +167,54 @@ namespace GrasscutterTools.Pages
             }
         }
 
-        private void UpdateActivityForLanguage(IReadOnlyCollection<NewActivityItem> activityItems, string textMap, string language)
+        private void UpdateActivityForLanguage(IReadOnlyCollection<NewActivityItem> activityItems, string languageCode)
         {
-            var i = Array.IndexOf(TextMapData.TextMapFiles, textMap);
-            TextMapData.LoadTextMap(TextMapData.TextMapFilePaths[i]);
+            TextMapData.LoadTextMapByLanguage(languageCode);
 
-            var activityMap = new Dictionary<int, string>(activityItems.Count);
+            // 从 JSON 构建 activityId -> 翻译文本的映射
+            var activityMap = new Dictionary<int, string>();
             foreach (var item in activityItems)
                 activityMap[item.ActivityId] = TextMapData.GetText(item.NameTextMapHash);
 
             var buffer = new StringBuilder();
-            foreach (var item in GameData.Activity)
+            var processedIds = new HashSet<int>();
+
+            // 保持原有的分组结构（从 GameData.Activity 读取），保留人工整理的内容
+            foreach (var group in GameData.Activity)
             {
-                buffer.Append("// ").AppendLine(item.Key);
-                foreach (var id in item.Value.Ids)
+                buffer.Append("// ").AppendLine(group.Key);
+                foreach (var id in group.Value.Ids)
                 {
+                    processedIds.Add(id);
                     buffer.Append(id).Append(':');
-                    buffer.AppendLine(activityMap.TryGetValue(id, out var title) ? title : item.Value[id]);
+                    // 对于中文，保留人工整理的内容；对于其他语言，使用 JSON 中的官方翻译
+                    if (languageCode == "zh-cn")
+                        buffer.AppendLine(group.Value[id]); // 使用旧的人工整理的内容
+                    else
+                        buffer.AppendLine(activityMap.TryGetValue(id, out var title) ? title : group.Value[id]);
                 }
             }
-            var activityFilePath = Path.Combine(TxtProjectResRoot.Text, language, "Activity.txt");
-            File.WriteAllText(activityFilePath, buffer.ToString(), Encoding.UTF8);
 
-            //File.WriteAllLines(
-            //    activityFilePath,
-            //    activityItems.Select(it => $"{it.ActivityId}:{TextMapData.GetText(it.NameTextMapHash)}"),
-            //    Encoding.UTF8);
+            // 添加 JSON 中存在但旧文件中不存在的新活动
+            var newActivities = activityItems.Where(item => !processedIds.Contains(item.ActivityId)).OrderBy(item => item.ActivityId);
+            if (newActivities.Any())
+            {
+                buffer.AppendLine("// New");
+                foreach (var item in newActivities)
+                {
+                    buffer.Append(item.ActivityId).Append(':').AppendLine(activityMap[item.ActivityId]);
+                }
+            }
+
+            var activityFilePath = Path.Combine(TxtProjectResRoot.Text, languageCode, "Activity.txt");
+            File.WriteAllText(activityFilePath, buffer.ToString(), Encoding.UTF8);
         }
 
 
 
-        private void UpdateGachaResourceForLanguage(string textMap, string language)
+        private void UpdateGachaResourceForLanguage(string languageCode)
         {
-            var i = Array.IndexOf(TextMapData.TextMapFiles, textMap);
-            TextMapData.LoadTextMap(TextMapData.TextMapFilePaths[i]);
+            TextMapData.LoadTextMapByLanguage(languageCode);
 
             var titleBuffer = new StringBuilder();
             const string titlePattern = "UI_GACHA_SHOW_PANEL_([^_]+?)_TITLE";
@@ -216,7 +230,7 @@ namespace GrasscutterTools.Pages
                     .AppendLine(Regex.Replace(text, markPattern, ""));
             }
 
-            var titleFilePath = Path.Combine(TxtProjectResRoot.Text, language, "GachaBannerTitle.txt");
+            var titleFilePath = Path.Combine(TxtProjectResRoot.Text, languageCode, "GachaBannerTitle.txt");
             File.WriteAllText(titleFilePath, titleBuffer.ToString(), Encoding.UTF8);
 
         }
@@ -229,10 +243,10 @@ namespace GrasscutterTools.Pages
 
                 TextMapData ??= new TextMapData(TxtGcResRoot.Text);
 
-                UpdateGachaResourceForLanguage("TextMapCHS", "zh-cn");
-                UpdateGachaResourceForLanguage("TextMapCHT", "zh-tw");
-                UpdateGachaResourceForLanguage("TextMapEN", "en-us");
-                // UpdateGachaResourceForLanguage("TextMapRU", "ru-ru");
+                UpdateGachaResourceForLanguage("zh-cn");
+                UpdateGachaResourceForLanguage("zh-tw");
+                UpdateGachaResourceForLanguage("en-us");
+                UpdateGachaResourceForLanguage("ru-ru");
                 MessageBox.Show("OK", Resources.Tips, MessageBoxButtons.OK);
             }
             catch (Exception ex)

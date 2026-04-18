@@ -41,6 +41,7 @@
 44:[CHS] - 挑战因子测试7(test)
 45:[CHS] - 挑战因子测试8(test)
 47:[CHS] - 4.1月度主题因子测试1(test)
+48:[N/A] 3315745072
 49:[N/A] 1528337728
 50:[CHS] - 水boss测试场景(test)
 55:[CHS] - 壶中天挑战玩法测试(test)
@@ -375,8 +376,12 @@
 1306:[N/A] 2532086408
 1307:[N/A] 233080720
 1308:[CHS] - 6.4法尔伽个人线地城（test）
+1309:[CHS] - （test）6.5莉奈娅个人线地城01
+1310:[CHS] - （test）6.5莉奈娅个人线地城02
 1312:[N/A] 4031218944
 1313:[N/A] 3960138312
+1329:[CHS] - （test）6.5蒙德疗养院镜像大世界
+1330:[CHS] - （test）6.5空之神殿沙漏区下层镜像大世界
 2000:Lost Treasure of Arcadia
 2001:Storming Terror
 2002:Cleanse Stormterror
@@ -500,6 +505,7 @@
 2205:[CHS] - 杜林个人线地城（test）
 2214:[N/A] 2150354888
 2215:[CHS] - 法尔伽个人线地城（test）
+2216:[N/A] 4240024736
 3001:Mist Labyrinth
 3004:Explore: Fallen Fortress
 3005:Pyro Trial
@@ -709,6 +715,18 @@
 3275:[CHS] - 爬塔（双路）(test)
 3276:[CHS] - 爬塔（双路）(test)
 3277:[CHS] - 爬塔（双路）(test)
+3278:[CHS] - 爬塔（双路）(test)
+3279:[CHS] - 爬塔（双路）(test)
+3280:[CHS] - 爬塔（双路）(test)
+3281:[CHS] - 爬塔（双路）(test)
+3282:[CHS] - 爬塔（双路）(test)
+3283:[CHS] - 爬塔（双路）(test)
+3284:[CHS] - 爬塔（双路）(test)
+3285:[CHS] - 爬塔（双路）(test)
+3286:[CHS] - 爬塔（双路）(test)
+3287:[CHS] - 爬塔（双路）(test)
+3288:[CHS] - 爬塔（双路）(test)
+3289:[CHS] - 爬塔（双路）(test)
 3200:Tower Descent - Floor 11: Chamber 1
 3201:[CHS] - 爬塔第二档-MC第42关（双路）(test)
 3202:[CHS] - 爬塔第二档-MC第43关（双路）(test)
@@ -1500,6 +1518,7 @@
 6133:[N/A] 1528815120
 6134:[N/A] 1072792448
 6135:[N/A] 4259388272
+6136:[N/A] 1933185104
 7000:The Wind from the Reeds Topples Well-Fed Trees
 7001:The Wind from the Reeds Topples Well-Fed Trees: Difficulty 1
 7002:Stop to Rest Your Weary Head, Paint the Bridge Where Adepti Tread: Difficulty 2
@@ -1761,6 +1780,11 @@
 9160:[N/A] 23414848
 9161:[N/A] 125860416
 9162:[N/A] 3956775248
+9163:[N/A] 271747328
+9164:[N/A] 3476342048
+9165:[N/A] 4192843824
+9166:[N/A] 233433560
+9167:[N/A] 152561056
 9201:[CHS] - test 3.7时停挑战1
 9202:[CHS] - test 3.7时停挑战2
 9203:[CHS] - test 3.7时停挑战3
@@ -2048,6 +2072,7 @@
 10804:[CHS] - (test)6.2龙pvp关卡03
 10805:[CHS] - (test)6.2龙pvp关卡04
 10806:[CHS] - (test)6.4随乐拍 关卡test
+10807:[CHS] - 6.5地图标点玩法（test）
 10808:[CHS] - (test)6.4随乐拍 关卡test
 10809:[CHS] - (test)6.4随乐拍 关卡test
 10810:v6.2 Bouncing Finchball Event Domain
@@ -2065,6 +2090,11 @@
 10822:[CHS] - (test)6.3怪物自走棋场地
 10823:[CHS] - (test)6.1节奏派对教学关
 10824:[CHS] - (test)6.4飞行射击_赛道1
+10825:[CHS] - 6.5地图标点玩法（test）
+10826:[CHS] - 6.5地图标点玩法（test）
+10827:[CHS] - 6.5地图标点玩法（test）
+10828:[CHS] - 6.5地图标点玩法（test）
+10829:[CHS] - 6.5地图标点玩法（test）
 10830:[CHS] - (test)6.4飞行射击_赛道3
 10831:[CHS] - (test)6.2雪山跑酷_赛道2
 10832:[CHS] - (test)6.2雪山跑酷_赛道3
@@ -2081,11 +2111,30 @@
 10843:6.4 Photo Error Hunt: Stage 2 — Mondstadt
 10844:6.4 Photo Error Hunt: Stage 3 — Dawn Winery
 10847:[CHS] - (test)6.4飞行射击_赛道2
+10848:[CHS] - (test)6.5植物大战僵尸测试
+10849:[CHS] - (test)6.5切色弹幕_关卡1
+10850:[CHS] - (test)6.5切色弹幕_关卡2
+10851:[CHS] - (test)6.5切色弹幕_关卡3
+10852:[CHS] - (test)6.5切色弹幕_关卡4
+10853:[CHS] - (test)6.5切色弹幕_关卡5
 10854:[CHS] - (test)6.4塔防活动地城1
 10855:[CHS] - (test)6.4塔防活动地城2
 10856:[CHS] - (test)6.4塔防活动地城3
 10857:[CHS] - (test)6.4塔防活动地城4
 10858:[CHS] - (test)6.4塔防活动地城5
+10859:[CHS] - (test)6.5塔防活动地城教学关卡
+10860:[CHS] - (test)6.5塔防活动地城关卡1
+10861:[CHS] - (test)6.5塔防活动地城关卡2
+10862:[CHS] - (test)6.5塔防活动地城关卡3
+10863:[CHS] - (test)6.5塔防活动地城关卡4
+10864:[CHS] - (test)6.5塔防活动地城关卡5
+10865:[CHS] - （test）6.5拍短视频01-枫丹城
+10866:[CHS] - （test）6.5拍短视频02—璃月港
+10867:[CHS] - （test）6.5拍短视频03—神樱大社
+10868:[CHS] - （test）6.5拍短视频04—流泉之众
+10869:[CHS] - （test）6.5拍短视频05—那夏镇
+10870:[CHS] - （test）6.5拍短视频06—枫丹水下
+10871:[CHS] - （test）6.5拍短视频07—霜月之子
 8903:BeyondEditor
 8904:Beyond Gameplay (test)
 8905:BeyondGameplayTest

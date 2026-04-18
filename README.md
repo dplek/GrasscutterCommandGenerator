@@ -34,6 +34,9 @@ The server require [gc-opencommand-plugin](https://github.com/jie65535/gc-openco
 
 ## Update log
 
+### v1.14 - v1.19
+Game data continuously updated to version 6.5
+
 ### GrasscutterTools-v1.13
 ![Proxy](Doc/Screenshots-en/22-Proxy.png)
 

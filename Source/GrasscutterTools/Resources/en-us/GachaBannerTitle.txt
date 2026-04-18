@@ -71,7 +71,9 @@ A0241:Rubedo, of White Stone Born
 A0242:Somnias a Luna
 A0243:Harmonious Abundance
 A0244:The Northerly Wind's Song of Triumph
+A0245:Ya-hoho! Compendium
 B001:Ode to the Dawn Breeze
 B002:Remembrance of Jade and Stone
 B003:Thunder Rends the Plains on High
 B004:Roving Chalice of Dewgrass
+B005:Dewlit Tranquility

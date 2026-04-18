@@ -236,4 +236,5 @@
 15513:Silvershower Heartstrings
 15514:Astral Vulture's Crimson Plumage
 15515:The Daybreak Chronicles
+15516:Golden Frostbound Oath
 10009:[CHS] - (test)空武器

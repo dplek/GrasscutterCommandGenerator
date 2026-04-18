@@ -916,6 +916,13 @@
 6444:Nd63_General
 6445:Nd63_YZLZZ_Foggy
 6446:Nd63_PLMDZ_KL02
+6500:Md65_General
+6502:Md65_JFG
+6503:Md65_General
+6504:Md65_Boss
+6508:Md65_FCZ
+6529:Md65_LYY
+6538:Md65_LYY
 6506:NDKL_BGC_BossDing
 6507:NDKL_MaTou
 6602:NDKL_BGC_Before_High
@@ -1116,6 +1123,36 @@
 6162:Nt55_LC_2_Up
 6163:Nt55_LC_YZTD_Boss_After
 6172:Nt55_LC_2_TTH_Down
+// 103
+6501:Md65_KZSD_1st
+6505:Md65_SJCG
+6509:Md65_KZJT
+6510:Md65_KZJT
+6511:Md65_KZSD_1st
+6512:Md65_KZSD_2nd
+6513:Md65_WXEJ_1st
+6514:Md65_WXEJ_2nd
+6515:Md65_WSYL_LY_UW
+6516:Md65_WSYL_Md
+6517:Md65_WSYL_Md
+6518:Md65_WSYL_LY
+6521:Md65_WSYL_SWLK
+6522:Md65_NL
+6523:Md65_KZSD_1st
+6524:Md65_SLQ_Down_P2
+6525:Md65_SJCG
+6526:Md65_KZSD_1st
+6527:Md65_HK_Transition
+6528:Md65_HK_Inside
+6530:Md65_WSYL_Fd_UW
+6531:Md65_WSYL_Fd_UW
+6532:Md65_XLKJ_01
+6533:Md65_XLKJ_02
+6534:Md65_HK_Top
+6535:Md65_HK_FoggyTop
+6536:Md65_HK_Foggy
+6537:Md65_SLQ_Down_P4
+6539:Md65_XLKJ_01_Night
 // 1059
 10003:FCdungeon_Hutao_01
 10004:FCdungeon_Hutao_02
@@ -1144,12 +1181,21 @@
 // 2412
 10456:PrivateHall_Drxg
 10457:PrivateHall_DrxgBigSnow
+// 2415
+10462:PrivateHall_Lqzc
+10463:PrivateHall_Lqzc_LY
 // 2612
 10458:PrivateHall_Drxg
 10459:PrivateHall_DrxgBigSnow
+// 2615
+10464:PrivateHall_Lqzc
+10465:PrivateHall_Lqzc_LY
 // 2812
 10460:PrivateHall_Drxg
 10461:PrivateHall_DrxgBigSnow
+// 2815
+10466:PrivateHall_Lqzc
+10467:PrivateHall_Lqzc_LY
 // 20005
 3000:XianglingPlotLevel01_Test
 3001:XianglingPlotLevel01
@@ -1522,6 +1568,21 @@
 10487:Du64_NK_VarKa_01_View
 10488:Du64_NK_VarKa_01_View02
 10489:Du64_NK_VarKa_01_Corridor
+// 20339
+10490:Du65_Linnea_01_TY_MM
+10491:Du65_Linnea_01_MT
+10492:Du65_Linnea_01_TY_LM
+10493:Du65_Linnea_01_ZZ
+10494:Du65_Linnea_01_RL
+// 20340
+10496:Du65_Linnea_01_Cang
+10497:Du65_Linnea_02_CC
+// 20348
+10498:Md65_LYY
+// 20361
+10504:Md65_KZSD_1st
+10505:Md65_SLQ_Down_P2
+10506:Md65_SLQ_Down_P4
 // 35800
 10009:CycleDungeon_WindFlower
 10010:CycleDungeon_WindFlower_Outdoor

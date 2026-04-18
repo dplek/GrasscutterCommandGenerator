@@ -332,3 +332,100 @@
 10013:云流星奔
 50001:万民同行
 50002:浅唱祈礼
+// New
+2037:Enchanted Tales of the Mikawa Festival
+2038:Tournament of Glory in Bloom
+2039:Whirling Waltz
+2040:Battle of Imagined Arrays
+2041:Sunspray Summer Resort
+2042:Clink Clank Clash
+2043:Ruins Exploration: Fieldwise Center
+2044:Soulblazers' Snowbound Journey
+2045:A Lanternlit Ode to the Silver Moon
+2046:Homeward, He Who Caught the Wind
+2047:Where Waves Meet the Reef
+5152:The Forge Realm's Temper: Game of Wits
+5191:Spino Doubleblaster
+5192:Endless Forms Most Martial
+5204:Dodoco's Boom-Bastic Escapades
+5230:Heated Battle Mode: Automatic Artistry
+5232:Adventurer's Trials: Metamorphosis
+5233:Exercise Surging Storm
+5241:Land of Vibrant Stone and Flaming Springs
+5250:Tapirus Somniator Chapter
+5251:Invasive Fish Wrangler
+5252:Realm of Tempered Valor
+5253:Travelers' Tales: Anthology Chapter
+5254:Reel Ad-Venture
+5255:Mushroom Realm Mystery
+5256:Flowers Resplendent on the Sun-Scorched Sojourn
+5257:Lava Dragon Statue
+5258:The Sacred Mountain and Sanctified Land
+5259:Quirky Quaking Arena
+5260:Unlimited Fighting Championship
+5261:Rhythm Ball Meztli
+5262:Chronicle of Shifting Stratagems
+5263:Paralogism
+5264:Treasured Above All
+5265:Ancient Ruins Master Terminal
+5266:Operation Downpour Simulation
+5267:Flowers Resplendent on the Sun-Scorched Sojourn
+5268:Legends Ablaze: Cross-Border Brawl
+5269:Stygian Onslaught
+5270:Fearsome Ferocious Firepower
+5271:Reminiscent Regimen: Frenzy
+5272:Crystallina Chapter
+5273:A Space and Time for You
+5274:Flowers Resplendent on the Sun-Scorched Sojourn
+5275:Travelers' Tales: Gilded Chapter
+5276:Paralogism
+5277:Paralogism
+5278:Tracing Vanishing Trails
+5279:Mementos of Teyvat: Prelude of the Frozen Veil
+5280:Dodoco's Blow-Up-Erative Bomb-Nanza
+5281:The Journey Home
+5282:An Easy-Breezy Natlan in an Easy-Breezy Summer!
+5283:Natlan: Plains of Flowing Flames
+5284:The Isle of Cold Moonlight
+5285:Lightgleaner's Journey
+5286:Flowers Resplendent on the Sun-Scorched Sojourn
+5287:Travelers' Tales
+5288:Knuckle Duckle
+5289:Radiant Moonfly
+5290:The Clink Clank Whiz-Kid!
+5291:A Dance of Snowy Tides and Hoarfrost Groves
+5292:Encounter: Memories of a Boundless Journey
+5293:Frostnight Herra
+5294:To Temper Thyself and Journey Far
+5295:Saurian Sojourn
+5296:Dance Dance Dynamic Disco
+5297:Bing-Bang Finchball
+5298:An Elegy for Faded Moonlight
+5299:Wonderland Treasures: Scales Aflame
+5300:Heroic Clash: Saurian Brawl
+5301:A Nocturne of the Far North
+5302:Draco Rubedo Chapter
+5303:A Traveler on a Winter's Night
+5304:Super-Heavy Landrover: Mechanized Fortress
+5305:Moonlit Patrol Exercise
+5306:The Lament of the Cliff-Shadowed Hollow
+5307:Shutterflash Memory Hunt
+5308:Lord of the Hidden Depths: Whisperer of Nightmares
+5309:A Gift From the Sea Spirits
+5310:Lupus Majoris Chapter
+5311:Radiant Moongecko
+5312:Sightseeing With Friends
+5313:Operation Stronghold Defense
+5314:Nod-Krai: Gateway to the Borderland Elysium
+5315:Surveying & Mapping Studies
+5316:Rapid Capture
+5317:Travelers' Tales: Moongaze Chapter
+5319:Alcyon Chapter
+5320:Watcher: Fallen Vigil
+5321:The Stilled Interstice of a Thousand Winds
+5322:A Dance of Snowy Tides and Hoarfrost Groves
+5327:A Dance of Snowy Tides and Hoarfrost Groves
+6006:Machine Battlefront
+6011:Uncover Lunar Realms, Hone the Eventide Radiance
+6012:Uncover Lunar Realms, Hone the Eventide Radiance
+6013:[N/A] 2332072283

@@ -161,10 +161,10 @@ namespace GrasscutterTools.Game.Data
 
         private Dictionary<string, string> Languages = new Dictionary<string, string>
         {
-            ["zh-cn"] = "TextMapCHS",
-            ["zh-tw"] = "TextMapCHT",
-            ["en-us"] = "TextMapEN",
-            // ["ru-ru"] = "TextMapRU",
+            ["zh-cn"] = "zh-cn",
+            ["zh-tw"] = "zh-tw",
+            ["en-us"] = "en-us",
+            ["ru-ru"] = "ru-ru",
         };
 
         public void ConvertResources(string projectResourcesDir)
@@ -176,7 +176,7 @@ namespace GrasscutterTools.Game.Data
                 foreach (var language in Languages)
                 {
                     var dir = Path.Combine(projectResourcesDir, language.Key);
-                    TextMapData.LoadTextMap(TextMapData.TextMapFilePaths[Array.IndexOf(TextMapData.TextMapFiles, language.Value)]);
+                    TextMapData.LoadTextMapByLanguage(language.Value);
 
                     Thread.CurrentThread.CurrentUICulture = new CultureInfo(language.Key);
                     GameData.LoadResources();

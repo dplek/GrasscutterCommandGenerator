@@ -30,6 +30,14 @@ namespace GrasscutterTools.Forms
 {
     public partial class FormTextMapBrowser : Form
     {
+        private static readonly Dictionary<string, string> LanguageDisplayNames = new Dictionary<string, string>
+        {
+            ["zh-cn"] = "简体中文",
+            ["zh-tw"] = "繁體中文",
+            ["en-us"] = "English",
+            ["ru-ru"] = "Русский",
+        };
+
         public FormTextMapBrowser()
         {
             InitializeComponent();
@@ -61,12 +69,21 @@ namespace GrasscutterTools.Forms
                 }
 
                 CmbLanguage.Items.Clear();
-                CmbLanguage.Items.AddRange(data.TextMapFiles);
+                foreach (var lang in LanguageDisplayNames)
+                {
+                    CmbLanguage.Items.Add($"{lang.Value} ({lang.Key})");
+                }
                 if (!string.IsNullOrEmpty(Settings.Default.TextMapFileName))
                 {
                     var i = CmbLanguage.Items.IndexOf(Settings.Default.TextMapFileName);
                     if (i != -1)
                         CmbLanguage.SelectedIndex = i;
+                    else
+                        CmbLanguage.SelectedIndex = 0;
+                }
+                else
+                {
+                    CmbLanguage.SelectedIndex = 0;
                 }
             }
             catch (Exception ex)
@@ -100,10 +117,17 @@ namespace GrasscutterTools.Forms
             {
                 Cursor = Cursors.WaitCursor;
                 Application.DoEvents();
-                data.LoadTextMap(data.TextMapFilePaths[CmbLanguage.SelectedIndex]);
 
-                GenLines();
-                Settings.Default.TextMapFileName = CmbLanguage.Text;
+                // 从显示名称中提取语言代码
+                var selectedText = CmbLanguage.Text;
+                var languageCode = LanguageDisplayNames.FirstOrDefault(kv => selectedText.Contains($"{kv.Value} ({kv.Key}")).Key;
+
+                if (!string.IsNullOrEmpty(languageCode))
+                {
+                    data.LoadTextMapByLanguage(languageCode);
+                    GenLines();
+                    Settings.Default.TextMapFileName = selectedText;
+                }
             }
             catch (Exception ex)
             {

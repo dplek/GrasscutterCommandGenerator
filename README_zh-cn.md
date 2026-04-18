@@ -35,6 +35,9 @@
 
 ## 更新概要
 
+### v1.14 - v1.19
+游戏数据持续更新至 6.5 版本
+
 ### GrasscutterTools-v1.13
 ![Proxy](Doc/Screenshots/22-Proxy.png)
 
